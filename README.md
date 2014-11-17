@@ -3,18 +3,44 @@
 A curated list of interactive fiction frameworks, tools, and resources
 
 * [Awesome Interactive Fiction](#awesome-interactive-fiction)
-  * [Frameworks](#frameworks)
-  * [Tools](#tools)
+  * [Overviews](#overviews)
+  * [Frameworks and Tools](#frameworks-and-tools)
   * [Interpreters](#interpreters)
-  * [IF Review and Analysis Blogs](#blogs)
+  * [Review and Analysis Blogs](#blogs)
   * [Competitions](#competitions)
   * [History](#history)
     * [Books](#books)
     * [Documentaries](#documentaries)
+  * [Tutorials](#tutorials)
+  * [Conferences](#conferences)
+    
+## Overviews
 
-## Frameworks
+* [Emily Short's Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf)
 
-## Tools
+* [Zarf's Interactive Fiction](http://eblong.com/zarf/if.html)
+
+## Frameworks and Tools
+
+* [Curveship]
+* [Inform]
+* [TADS]
+* [Tuvi]
+* [Twine]
+* [Undum]
+* [Varytale]
+* [Versu]
+
+
+## Interpreters
+
+* [Fizmo](http://spellbreaker.org/~chrender/fizmo)
+* [Frotz]
+* [Gargoyle](http://http://ccxvii.net/gargoyle)
+* [Parchment](https://github.com/curiousdannii/parchment)
+* [Text Fiction](http://http://www.onyxbits.de/textfiction)
+* [Twisty](https://bitbucket.org/sussman/twisty)
+* [Zoom]
 
 ## Review and Analysis Blogs
 
@@ -34,3 +60,7 @@ A curated list of interactive fiction frameworks, tools, and resources
 ### Documentaries
 
 * [Get Lamp](http://www.getlamp.com)
+
+## Tutorials
+
+## Conferences
