@@ -7,7 +7,7 @@ A curated list of interactive fiction frameworks, tools, and resources
   * [Frameworks and Tools](#frameworks-and-tools)
   * [Collections](#collections)
   * [Interpreters](#interpreters)
-  * [Review and Analysis Blogs](#blogs)
+  * [Blogs](#blogs)
   * [Competitions](#competitions)
   * [History](#history)
     * [Books](#books)
@@ -47,10 +47,13 @@ A curated list of interactive fiction frameworks, tools, and resources
 * [Twisty](https://bitbucket.org/sussman/twisty)
 * [Zoom]
 
-## Review and Analysis Blogs
+## Blogs
 
+* [Planet IF](http://planet-if.com) - Aggregation of posts from 50+ IF blogs
 * [Storycade](http://storycade.com)
 * [Emily Short's Interactive Storytelling](http://emshort.wordpress.com)
+* [Inky Path](http://inkypathmag.com) - Discussion of IF from a literary
+  perspective. Discontinued but the archive is still accessible.
 
 ## Competitions
 * [The Interactive Fiction Competition (IFComp)](http://www.ifcomp.org)
