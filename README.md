@@ -5,6 +5,7 @@ A curated list of interactive fiction frameworks, tools, and resources
 * [Awesome Interactive Fiction](#awesome-interactive-fiction)
   * [Overviews](#overviews)
   * [Frameworks and Tools](#frameworks-and-tools)
+  * [Collections](#collections)
   * [Interpreters](#interpreters)
   * [Review and Analysis Blogs](#blogs)
   * [Competitions](#competitions)
@@ -31,6 +32,10 @@ A curated list of interactive fiction frameworks, tools, and resources
 * [Varytale]
 * [Versu]
 
+## Collections 
+
+* [Interaction Fiction Database](http://www.ifdb.tads.org)
+* [The Interaction Fiction Archive](http://www.ifarchive.org)
 
 ## Interpreters
 
