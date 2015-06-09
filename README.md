@@ -23,16 +23,16 @@ A curated list of interactive fiction frameworks, tools, and resources
 
 ## Frameworks and Tools
 
-* [Curveship]
-* [Inform]
-* [TADS]
-* [Tuvi]
-* [Twine]
-* [Undum]
-* [Varytale]
-* [Versu]
+* [Curveship](http://http://curveship.com/)
+* [Inform](http://inform7.com/)
+* [Text Adventure Development System - TADS](http://www.tads.org/)
+* [Tuvi](https://github.com/jaywengrow/tuvi)
+* [Twine](http://twinery.org/)
+* [Undum](http://undum.com/)
+* [Varytale](http://varytale.com/books/)
+* [Versu](http://versu.com/)
 
-## Collections 
+## Collections
 
 * [Interaction Fiction Database](http://www.ifdb.tads.org)
 * [The Interaction Fiction Archive](http://www.ifarchive.org)
@@ -40,12 +40,13 @@ A curated list of interactive fiction frameworks, tools, and resources
 ## Interpreters
 
 * [Fizmo](http://spellbreaker.org/~chrender/fizmo)
-* [Frotz]
+* [Frotz](http://frotz.sourceforge.net/)
 * [Gargoyle](http://http://ccxvii.net/gargoyle)
 * [Parchment](https://github.com/curiousdannii/parchment)
+* [Spatterlight](http://ccxvii.net/spatterlight/)
 * [Text Fiction](http://http://www.onyxbits.de/textfiction)
 * [Twisty](https://bitbucket.org/sussman/twisty)
-* [Zoom]
+* [Zoom](http://www.logicalshift.co.uk/unix/zoom/)
 
 ## Blogs
 
