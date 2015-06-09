@@ -14,7 +14,7 @@ A curated list of interactive fiction frameworks, tools, and resources
     * [Documentaries](#documentaries)
   * [Tutorials](#tutorials)
   * [Conferences](#conferences)
-    
+
 ## Overviews
 
 * [Emily Short's Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf)
@@ -73,3 +73,7 @@ A curated list of interactive fiction frameworks, tools, and resources
 ## Tutorials
 
 ## Conferences
+
+## Meetups
+
+* [Museum of Art and Digital Entertainment's Monthly Interactive Fiction Meetup](http://themade.org/events)
