@@ -65,6 +65,7 @@ A curated list of interactive fiction frameworks, tools, and resources
 ### Books
 
 * [Twisty Little Passages](http://nickm.com/twisty/)
+* [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/)
 
 ### Documentaries
 
