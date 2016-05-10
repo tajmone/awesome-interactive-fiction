@@ -25,6 +25,7 @@ A curated list of interactive fiction frameworks, tools, and resources
 
 * [Curveship](http://http://curveship.com/)
 * [Inform](http://inform7.com/)
+* [Ink](https://github.com/inkle/ink)
 * [Text Adventure Development System - TADS](http://www.tads.org/)
 * [Tuvi](https://github.com/jaywengrow/tuvi)
 * [Twine](http://twinery.org/)
