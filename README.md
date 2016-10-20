@@ -50,7 +50,7 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 -   [Alan](http://www.alanif.se/)
 
--   [Curveship](http://http://curveship.com/)
+-   [Curveship](http://curveship.com/)
 
 -   [Hugo](http://www.generalcoffee.com/)
 
@@ -102,7 +102,7 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 -   [Twisty](https://bitbucket.org/sussman/twisty) — supports Z-code and Glulx story files.
 
--   [Text Fiction](p://www.onyxbits.de/textfiction) — supports Z-code (3, 5 and 8) story files.
+-   [Text Fiction](http://www.onyxbits.de/textfiction) — supports Z-code (3, 5 and 8) story files.
 
 #### iPhone
 
