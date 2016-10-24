@@ -92,8 +92,6 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 #### MS Windows
 
--   [Windows Git](http://www.davidkinder.co.uk/glulxe.html)
-
 -   [Windows Glulxe](http://www.davidkinder.co.uk/glulxe.html)
 
 -   [Windows Frotz](http://www.davidkinder.co.uk/frotz.html)
