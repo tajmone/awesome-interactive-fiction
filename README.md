@@ -186,7 +186,7 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 -   [Emily Short's Interactive Storytelling](http://emshort.wordpress.com)
 
--   [Inky Path](http://inkypathmag.com) — Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
+-   [Inky Path](https://inkypath.wordpress.com/) — Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
 
 -   [Brass Lantern](http://brasslantern.org/)
 
