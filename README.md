@@ -29,28 +29,37 @@ A curated list of interactive fiction frameworks, tools, and resources.
 -   [History](#history)
     -   [Books](#books)
     -   [Documentaries](#documentaries)
--   [Tutorials](#tutorials)
+-   [IF Learning Resources](#if-learning-resources)
+    -   [Books](#books-1)
+    -   [Tutorials](#tutorials)
 -   [IF for Teaching and Education](#if-for-teaching-and-education)
     -   [Online Resources](#online-resources)
     -   [Examples](#examples)
-    -   [Books](#books-1)
+    -   [Books](#books-2)
     -   [Whitepapers and Guides](#whitepapers-and-guides)
     -   [Articles and Academic Papers](#articles-and-academic-papers)
--   [Conferences](#conferences)
--   [Meetups](#meetups)
+-   [Social Events](#social-events)
+    -   [Conferences](#conferences)
+    -   [Meetups](#meetups)
 
 <!-- /toc -->
+
+------------------------------------------------------------------------
+
 Overviews
----------
+=========
 
 -   [Emily Short’s Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf)
 
 -   [Zarf’s Interactive Fiction](http://eblong.com/zarf/if.html)
 
-Software
---------
+------------------------------------------------------------------------
 
-### IF Developement Tools
+Software
+========
+
+IF Developement Tools
+---------------------
 
 -   [ADRIFT](http://www.adrift.co/) (Adventure Development & Runner Interactive Fiction Toolkit)
 
@@ -78,9 +87,10 @@ Software
 
 -   [Versu](http://versu.com/)
 
-### Interpreters
+Interpreters
+------------
 
-#### Cross Platform
+### Cross Platform
 
 -   [Fizmo](https://fizmo.spellbreaker.org/) — a generic Z-Machine interpreter-development library in plain C, used in various interpreters. Supports Z-code (1-5, 7 and 8).
 
@@ -88,39 +98,40 @@ Software
 
 -   [Gargoyle](http://ccxvii.net/gargoyle/) — for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
-#### Mac OS
+### Mac OS
 
 -   [Spatterlight](http://ccxvii.net/spatterlight/) — story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
 
 -   [Zoom](http://www.logicalshift.co.uk/unix/zoom/) — supports Z-code, TADS 2/3 and HUGO story files.
 
-#### MS Windows
+### MS Windows
 
 -   [Windows Glulxe](http://www.davidkinder.co.uk/glulxe.html)
 
 -   [Windows Frotz](http://www.davidkinder.co.uk/frotz.html)
 
-#### Mobile Devices
+### Mobile Devices
 
-##### Andorid
+#### Andorid
 
 -   [Twisty](https://bitbucket.org/sussman/twisty) — supports Z-code and Glulx story files.
 
 -   [Text Fiction](http://www.onyxbits.de/textfiction) — supports Z-code (3, 5 and 8) story files.
 
-##### iPhone
+#### iPhone
 
 -   [iPhone Frotz](https://itunes.apple.com/us/app/frotz/id287653015)
 
-##### PalmOS
+#### PalmOS
 
 -   [CliFrotz](http://zodiacstuff.sourceforge.net/clifrotz.html)
 
-#### In-Browser Players
+### In-Browser Players
 
 -   [Parchment](https://github.com/curiousdannii/parchment) — written in JavaScript, supports Z-Machine story files.
 
-### Mappping Tools
+Mappping Tools
+--------------
 
 Traditionally, IF maps are represented by boxes connected by lines, representing the various rooms and their directions connections. They are intended to represent movements in the adventure world locations, not a physical representation of its geography — but sometimes «realistic» maps are provided with the game feelies, for aesthetic reasons.
 
@@ -130,17 +141,17 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 -   [The IF Archive » Mapping Tools](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html)
 
-#### Cross Platform
+### Cross Platform
 
 -   [IFMapper](http://ifmapper.rubyforge.org/start.html) — A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF.
 
 -   [SVGmaps](http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip) — \[2008\] A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
-#### Mac OS
+### Mac OS
 
 -   Cocoa Mapre — \[2004\] A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
-#### MS Windows
+### MS Windows
 
 -   [AutoREALM](http://autorealm.sourceforge.net/) — \[2006\] A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
 
@@ -160,7 +171,7 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 -   [Trizbort](http://trizbort.genstein.net/) — For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Requires .NET 2.0.
 
-#### Linux/\*nix
+### Linux/\*nix
 
 -   [Adventure Map Utility](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1994\] A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
 
@@ -170,21 +181,23 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 -   [informap](http://www.ifarchive.org/if-archive/mapping-tools/informap.perl) — \[1999\] A perl script that draws maps out of Inform source code.
 
-#### Mobile Devices
+### Mobile Devices
 
-##### PalmOS
+#### PalmOS
 
 -   [IFmapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) \[2001\]
 
+------------------------------------------------------------------------
+
 Collections
------------
+===========
 
 -   [Interaction Fiction Database](http://www.ifdb.tads.org)
 
 -   [The Interaction Fiction Archive](http://www.ifarchive.org)
 
 Blogs
------
+=====
 
 -   [Planet IF](http://planet-if.com) — Aggregation of posts from 50+ IF blogs
 
@@ -196,57 +209,83 @@ Blogs
 
 -   [Brass Lantern](http://brasslantern.org/)
 
+------------------------------------------------------------------------
+
 Competitions
-------------
+============
 
 -   [The Interactive Fiction Competition (IFComp)](http://www.ifcomp.org)
 
 -   [Spring Thing Festival of Interactive Fiction](http://springthing.net)
 
-History
--------
+------------------------------------------------------------------------
 
-### Books
+History
+=======
+
+Books
+-----
 
 -   [Twisty Little Passages](http://nickm.com/twisty/)
 
--   [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/)
-
-### Documentaries
+Documentaries
+-------------
 
 -   [Get Lamp](http://www.getlamp.com)
+
+------------------------------------------------------------------------
+
+IF Learning Resources
+=====================
+
+Books
+-----
+
+-   [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/)
 
 Tutorials
 ---------
 
+------------------------------------------------------------------------
+
 IF for Teaching and Education
------------------------------
+=============================
 
 Interactive Fiction has been employed in the classroom as a teaching aid in various fields: reading, foreign languages, litterature, history, computer programming, game design, and new media theory.
 
-### Online Resources
+Online Resources
+----------------
 
 -   [Teach with Inform](http://inform7.com/teach/) – Inform7’s website educational resources page.
 -   http://inform7.com/news/category/education/ – Inform7 News Section, «Education» category. RSS Feed subscription available.
 -   [Gaming The Past](https://gamingthepast.net/) – A repository for theory, research , and implementations of simulation games for history education. Created and maintained by Jeremiah McCall
 
-### Examples
+Examples
+--------
 
 -   [Viking Studies Course Materials](http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm) – Includes various IF story files (30+). [Gettysburg College](http://www.gettysburg.edu/) (Gettysburg, PA).
 
-### Books
+Books
+-----
 
 -   [Gaming the Past: Using Video Games to Teach Secondary History](https://www.routledge.com/Gaming-the-Past-Using-Video-Games-to-Teach-Secondary-History/McCall/p/book/9780415887601) – by [Jeremiah McCall](https://en.wikipedia.org/wiki/Jeremiah_McCall). New York: Routledge, 2011. Available in paperback, hardback and digital editions ([Kindle](https://www.amazon.com/Gaming-Past-Using-Secondary-History-ebook/dp/B007NYFQUA/ref=mt_kindle?_encoding=UTF8&me=)).
 
-### Whitepapers and Guides
+Whitepapers and Guides
+----------------------
 
 -   [Student-designed text-based simulation games for learning history: A practical approach to using Inform 7 in the history classroom](https://gamingthepast.net/theory-practice/my-work/mccall-informpaper/) – by Jeremiah McCall (CC BY-NC-SA 3.0 US).
 
-### Articles and Academic Papers
+Articles and Academic Papers
+----------------------------
 
 -   [Interactive Fiction: ‘New Literacy’ Learning Opportunities for Children](http://ldm.sagepub.com/content/3/4/519) – by Deborah Kozdras, Denise Marie Haunstetter, and James R. King (2006), E-Learning, 3(4), pp. 519-533.
 -   [Goethe’s “Elective Affinities” as E-Learning: Developing Exercises for German Classes in the Secondary School Level 2](http://inform7.com/teach/downloads/Goethe.pdf) – by Wiebke Schwelgengraber, Mario Donick, and Franziska Schonfeld, presented at the E-Learning Baltics 2009 Conference.
 -   [Mixing Story and Simulation in Interactive Narrative](http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-037.pdf) – Mark O. Riedl, Andrew Stern, Don Dini.
+
+------------------------------------------------------------------------
+
+Social Events
+=============
 
 Conferences
 -----------
