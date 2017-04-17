@@ -87,6 +87,10 @@ IF Developement Tools
 
 -   [Versu](http://versu.com/)
 
+-   [Yarn](https://github.com/infiniteammoinc/Yarn)
+
+-   [Yarn Spinner](https://github.com/thesecretlab/YarnSpinner)
+
 Interpreters
 ------------
 
@@ -242,6 +246,7 @@ Books
 -----
 
 -   [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/)
+-   [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/)
 
 Tutorials
 ---------
