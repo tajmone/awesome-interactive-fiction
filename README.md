@@ -23,6 +23,16 @@ A curated list of interactive fiction frameworks, tools, and resources.
           - [Linux/\*nix](#linuxnix)
           - [Mobile Devices](#mobile-devices-1)
               - [PalmOS](#palmos-1)
+  - [Standards and Specifications](#standards-and-specifications)
+      - [Files Extensions and Formats](#files-extensions-and-formats)
+      - [Story Files by Extensions](#story-files-by-extensions)
+      - [Source Files by Extensions](#source-files-by-extensions)
+      - [Other IF File Extensions](#other-if-file-extensions)
+      - [Virtual Machines](#virtual-machines)
+          - [Glulx](#glulx)
+              - [Glulx VM interpreters](#glulx-vm-interpreters)
+              - [Glulx Manuals and References](#glulx-manuals-and-references)
+              - [Glulx Tools](#glulx-tools)
   - [Collections](#collections)
   - [Blogs](#blogs)
   - [Competitions](#competitions)
@@ -71,6 +81,8 @@ A curated list of interactive fiction frameworks, tools, and resources.
   - [Inform 7](http://inform7.com/) — based on natural language.
 
   - [Ink](https://github.com/inkle/ink)
+
+  - [T.A.B (ThinBASIC Adventure Builder)](http://tab.thinbasic.com/)
 
   - [TADS (Text Adventure Development System)](http://www.tads.org/)
 
@@ -188,6 +200,110 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 -----
 
+# Standards and Specifications
+
+## Files Extensions and Formats
+
+For a full list of IF story files extensions, see:
+
+  - [IFWiki » List of file extensions](http://www.ifwiki.org/index.php/List_of_file_extensions)
+  - [IFDB » File Formats](http://ifdb.tads.org/fileformat)
+
+## Story Files by Extensions
+
+IF story files are distributed with different file extensions, depending on the IF authoring system used to create them and/or the output format the story has been compiled/converted to (in case of authoring systems that support multiple output formats, like Inform7, or when story files are converted from an old format to a newer one).
+
+The following table resumes the most common story file extensions.
+
+| ext       | format                                          |
+| :-------- | :---------------------------------------------- |
+| `.a3c`    | Alan 3 story file.                              |
+| `.asl`    | Quest source code and story file.               |
+| `.blb`    | Blorb wrapper, usually containing a story file. |
+| `.cas`    | Compressed Quest story file.                    |
+| `.floydc` | Floyd story file.                               |
+| `.gam`    | TADS 2 story file.                              |
+| `.gblorb` | Glulx story file in a Blorb wrapper.            |
+| `.glb`    | Glulx story file in a Blorb wrapper.            |
+| `.hex`    | Hugo story file.                                |
+| `.nx`     | Node-X story file.                              |
+| `.t3`     | TADS 3 story file.                              |
+| `.t3x`    | TADS 3 story file.                              |
+| `.taf`    | ADRIFT story file.                              |
+| `.tag`    | T.A.G. story file.                              |
+| `.tws`    | Twine story file.                               |
+| `.ulx`    | Glulx story file.                               |
+| `.z1`     | Z-machine version 1 story file.                 |
+| `.z2`     | Z-machine version 2 story file.                 |
+| `.z3`     | Z-machine version 3 story file.                 |
+| `.z4`     | Z-machine version 4 story file.                 |
+| `.z5`     | Z-machine version 5 story file.                 |
+| `.z6`     | Z-machine version 6 story file.                 |
+| `.z7`     | Z-machine version 7 story file.                 |
+| `.z8`     | Z-machine version 8 story file.                 |
+| `.zblorb` | Z-machine story file in a Blorb wrapper.        |
+| `.zlb`    | Z-machine story file in a Blorb wrapper.        |
+
+## Source Files by Extensions
+
+The following table resumes some common extensions used by IF authoring systems as source, headers or resource files. In some IF authoring systems, the source code file and the story file distributed for playing are one and the same.
+
+| ext       | format                                       |
+| :-------- | :------------------------------------------- |
+| `.a3r`    | Alan 3 resource file.                        |
+| `.acd`    | Alan 2 source code file.                     |
+| `.alr`    | ADRIFT Language Resource file.               |
+| `.asl`    | Quest source code and story file.            |
+| `.i6t`    | Inform 6 template used by Inform 7 compiler. |
+| `.i7x`    | Inform 7 extension source code file.         |
+| `.inf`    | Inform 6 source code file.                   |
+| `.inform` | Inform 7 project folder.                     |
+| `.jacl`   | JACL source code file.                       |
+| `.ni`     | Inform 7 source code.                        |
+| `.t3v`    | TADS 3 saved game file.                      |
+| `.t`      | TADS source code file.                       |
+| `.tab`    | TAB game datafile                            |
+| `.zil`    | ZIL source code.                             |
+
+## Other IF File Extensions
+
+The following table resumes some other common file extensions related to IF that don’t belong to any of the previous categories.
+
+| ext    | format                           |
+| :----- | :------------------------------- |
+| `.sav` | Saved game file.                 |
+| `.scr` | Transcript of a Z-Code gameplay. |
+
+## Virtual Machines
+
+### Glulx
+
+Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
+
+  - [Glulx homepage](http://www.eblong.com/zarf/glulx/)
+  - [Glulx at IFWiki](http://www.ifwiki.org/index.php/Glulx)
+  - [Glulx at Wikipedia](https://en.wikipedia.org/wiki/Glulx)
+  - [IF Archive » Programming » Glulx](http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html)
+
+#### Glulx VM interpreters
+
+  - [Glulxe](https://github.com/erkyrath/glulxe) — by Andrew Plotkin; written in C, hosted on GitHub.
+
+More Glulx interpreters are listed at the IF Archive dedicated section:
+
+  - [IF Archive » Programming » Glulx » Interpreters](http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html)
+
+#### Glulx Manuals and References
+
+  - [The Game Author’s Guide to Glulx Inform](http://www.eblong.com/zarf/glulx/inform-guide.txt)
+  - [The Glulx Inform Technical Reference](http://www.eblong.com/zarf/glulx/technical.txt)
+
+#### Glulx Tools
+
+More Glulx tools are listed at the IF Archive dedicated section:
+
+  - [IF Archive » Programming » Programming » Glulx » Tools](http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html)
+
 # Collections
 
   - [Interaction Fiction Database](http://www.ifdb.tads.org)
@@ -196,7 +312,7 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 # Blogs
 
-  - [Planet IF](http://planet-if.com) — Aggregation of posts from 50+ IF blogs
+  - [Planet IF](http://planet-if.com) — Aggregation of posts from 60+ IF blogs
 
   - [Storycade](http://storycade.com)
 
