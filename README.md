@@ -260,7 +260,6 @@ The following table resumes some common extensions used by IF authoring systems 
 | `.inform` | Inform 7 project folder.                     |
 | `.jacl`   | JACL source code file.                       |
 | `.ni`     | Inform 7 source code.                        |
-| `.t3v`    | TADS 3 saved game file.                      |
 | `.t`      | TADS source code file.                       |
 | `.tab`    | TAB game datafile                            |
 | `.zil`    | ZIL source code.                             |
@@ -273,6 +272,7 @@ The following table resumes some other common file extensions related to IF that
 | :----- | :------------------------------- |
 | `.sav` | Saved game file.                 |
 | `.scr` | Transcript of a Z-Code gameplay. |
+| `.t3v` | TADS 3 saved game file.          |
 
 ## Virtual Machines
 
