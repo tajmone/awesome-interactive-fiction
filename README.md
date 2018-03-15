@@ -41,6 +41,8 @@ A curated list of interactive fiction frameworks, tools, and resources.
       - [Documentaries](#documentaries)
   - [IF Learning Resources](#if-learning-resources)
       - [Books](#books-1)
+          - [Free eBooks](#free-ebooks)
+          - [Commercial](#commercial)
       - [Tutorials](#tutorials)
   - [IF for Teaching and Education](#if-for-teaching-and-education)
       - [Online Resources](#online-resources)
@@ -351,9 +353,21 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 ## Books
 
-  - [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/)
+### Free eBooks
 
-  - [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/)
+  - [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback.
+
+  - [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp. Also available as paperback.
+
+  - [The Inform 7 Handbook](http://www.musicwords.net/if/i7hb.htm) — by Jim Aikin, 2015; 518pp.
+
+### Commercial
+
+  - [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/) — by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
+
+  - [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/) — by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
+
+  - [Twisty Little Passages](http://nickm.com/twisty/) — by Nick Montfort, 2005; 328pp, paperback or hardback.
 
 ## Tutorials
 
