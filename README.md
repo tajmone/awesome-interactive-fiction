@@ -51,6 +51,9 @@ A curated list of interactive fiction frameworks, tools, and resources.
   - [Social Events](#social-events)
       - [Conferences](#conferences)
       - [Meetups](#meetups)
+  - [Newsgroups and Mailing Lists](#newsgroups-and-mailing-lists)
+      - [English](#english)
+      - [Italian](#italian)
 
 <!-- /toc -->
 
@@ -397,3 +400,16 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 ## Meetups
 
   - [Museum of Art and Digital Entertainment’s Monthly Interactive Fiction Meetup](http://themade.org/events)
+
+-----
+
+# Newsgroups and Mailing Lists
+
+## English
+
+  - [rec.arts.int-fiction](https://groups.google.com/forum/#!forum/rec.arts.int-fiction) (Google Groups) — Discussions about interactive fiction.
+  - [rec.games.int-fiction](https://groups.google.com/forum/#!forum/rec.games.int-fiction) (Google Groups) — All aspects of interactive fiction games.
+
+## Italian
+
+  - [it.comp.giochi.avventure.testuali](https://groups.google.com/forum/#!forum/it.comp.giochi.avventure.testuali) (Google Groups)
