@@ -60,22 +60,29 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
     - [Books](#books)
     - [Documentaries](#documentaries)
 - [IF Learning Resources](#if-learning-resources)
-    - [Books](#books-1)
-        - [Free eBooks](#free-ebooks)
-        - [Commercial Books](#commercial-books)
+    - [Free eBooks](#free-ebooks)
+        - [Inform 6](#inform-6-1)
+        - [Inform 7](#inform-7-1)
+        - [PAWS](#paws)
+    - [Commercial Books](#commercial-books)
+        - [Inform 7](#inform-7-2)
+        - [Twine](#twine-1)
     - [Tutorials](#tutorials)
 - [IF for Teaching and Education](#if-for-teaching-and-education)
     - [Online Resources](#online-resources)
     - [Examples](#examples)
-    - [Books](#books-2)
+    - [Books](#books-1)
     - [Whitepapers and Guides](#whitepapers-and-guides)
     - [Articles and Academic Papers](#articles-and-academic-papers)
 - [Social Events](#social-events)
     - [Conferences](#conferences)
     - [Meetups](#meetups)
-- [Newsgroups and Mailing Lists](#newsgroups-and-mailing-lists)
-    - [English](#english)
-    - [Italian](#italian)
+- [Digital Communities](#digital-communities)
+    - [Newsgroups and Mailing Lists](#newsgroups-and-mailing-lists)
+        - [English](#english)
+        - [Italian](#italian)
+    - [MUDs](#muds)
+        - [ifMUD](#ifmud)
 
 <!-- /MarkdownTOC -->
 
@@ -132,7 +139,14 @@ For more information, see also:
 
 [www.alanif.se]: http://www.alanif.se/ "Visit Alan official website"
 
+Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
+
+Alan was created in 1985 by Thomas Nilsson and Göran Forslund, and is actively maintained by Thomas Nilsson. The latest version is __Alan 3__.
+
+
 For more information, see also:
+
+- [IFWiki » Alan]
 
 [IFWiki » Alan]: http://www.ifwiki.org/index.php/Alan "Visit Alan page at IFWiki"
 
@@ -166,6 +180,11 @@ For more information, see also:
 - http://inform7.com/
 
 Based on natural language.
+
+See also:
+
+- [Inform 7 commercial books]
+- [Inform 7 free eBooks]
 
 
 ### Ink
@@ -257,6 +276,15 @@ For more information, see also:
 
 - http://www.caad.es/superglus/doku.php
 - https://github.com/Utodev/Superglus
+
+For more information, see also:
+
+- [IFWiki » Superglús]
+- [Wikipedia (ES) » Superglús]
+
+[IFWiki » Superglús]: http://www.ifwiki.org/index.php/Supergl%C3%BAs "Visit Superglús page at IFWiki"
+[Wikipedia (ES) » Superglús]: https://es.wikipedia.org/wiki/Supergl%C3%BAs
+
 
 ## IF Authoring Tools in Italian
 
@@ -510,23 +538,39 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 # IF Learning Resources
 
-## Books
 
-### Free eBooks
+## Free eBooks
 
-- [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback.
+### Inform 6
 
 - [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp. Also available as paperback.
 
+- [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback.
+
+### Inform 7
+
+[Inform 7 free eBooks]: #inform-7_1
+
 - [The Inform 7 Handbook](http://www.musicwords.net/if/i7hb.htm) — by Jim Aikin, 2015; 518pp.
 
-### Commercial Books
+### PAWS
+
+- [The PAW Programming Bible](https://gilsoftpawreservoir.wordpress.com/2013/07/29/feature-the-paw-programming-bible/) — by AAVV, 2014; 333pp.
+
+## Commercial Books
+
+- [Twisty Little Passages](http://nickm.com/twisty/) — by Nick Montfort, 2005; 328pp, paperback or hardback.
+
+### Inform 7
+
+[Inform 7 commercial books]: #inform-7_2
 
 - [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/) — by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
 
+### Twine
+
 - [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/) — by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
 
-- [Twisty Little Passages](http://nickm.com/twisty/) — by Nick Montfort, 2005; 328pp, paperback or hardback.
 
 ## Tutorials
 
@@ -576,13 +620,35 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 -----
 
-# Newsgroups and Mailing Lists
+# Digital Communities
 
-## English
+## Newsgroups and Mailing Lists
+
+### English
 
 - [rec.arts.int-fiction](https://groups.google.com/forum/#!forum/rec.arts.int-fiction) (Google Groups) — Discussions about interactive fiction.
 - [rec.games.int-fiction](https://groups.google.com/forum/#!forum/rec.games.int-fiction) (Google Groups) — All aspects of interactive fiction games.
 
-## Italian
+### Italian
 
 - [it.comp.giochi.avventure.testuali](https://groups.google.com/forum/#!forum/it.comp.giochi.avventure.testuali) (Google Groups)
+
+## MUDs
+
+### ifMUD
+
+- http://ifmud.port4000.com/
+- http://ifmud.port4000.com:4002/bui (web client)
+
+Since 1997 the __ifMUD__ (_a MUD forever voyaging_) has been a gathering point for the IF community.
+
+
+For more information, see also:
+
+- [IFWiki » ifMUD]
+- [Wikipedia » ifMUD]
+
+
+[IFWiki » ifMUD]: http://www.ifwiki.org/index.php/IfMUD "Visit ifMUD page at IFWiki"
+[Wikipedia » ifMUD]: https://en.wikipedia.org/wiki/IfMUD
+
