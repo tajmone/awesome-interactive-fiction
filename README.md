@@ -549,7 +549,7 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 ### Inform 7
 
-[Inform 7 free eBooks]: #inform-7_1
+[Inform 7 free eBooks]: #inform-7-1
 
 - [The Inform 7 Handbook](http://www.musicwords.net/if/i7hb.htm) — by Jim Aikin, 2015; 518pp.
 
@@ -563,7 +563,7 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 ### Inform 7
 
-[Inform 7 commercial books]: #inform-7_2
+[Inform 7 commercial books]: #inform-7-2
 
 - [Creating Interactive Fiction with Inform 7](http://inform7.textories.com/) — by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
 
