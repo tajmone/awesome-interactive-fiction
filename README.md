@@ -99,7 +99,8 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 
 Newcomers to Interactive Fiction will find these links helpful:
 
-- [Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf) — by Emily Short; 8pp (PDF).
+- [Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf) — by Emily Short; 8pp (PDF). Also available in other languages:
+    + Italian » [Introduzione alle Avventure Testuali](http://www.youdev.it/if/Titolo/Introduzione%20alle%20Avventure%20Testuali.pdf)
 
 - [Brass Lantern's Beginner's Guide to Interactive Fiction](http://www.brasslantern.org/beginners/beginnersguide.html) — by Stephen Granade and Emily Short.
 
