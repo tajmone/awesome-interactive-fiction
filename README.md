@@ -584,7 +584,8 @@ For more info, see:
 
 [Inform 6 free eBooks]: #inform-6-1
 
-- [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp. Also available as paperback.
+- [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
+    + Italian » [Guida a Inform per Principianti](http://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html)
 
 - [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback.
 
