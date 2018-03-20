@@ -1,7 +1,9 @@
 # Awesome Interactive Fiction
 
-A curated list of interactive fiction frameworks, tools, and resources.
+A curated list of interactive fiction frameworks, tools, and resources. Created by [Yakira Dixon] in 2014, currently maintained by [Tristano Ajmone].
 
+[Yakira Dixon]: https://github.com/yakiradixon "View Yakira Dixon's GitHub profile"
+[Tristano Ajmone]: https://github.com/tajmone "View Tristano Ajmone's GitHub profile"
 
 -----
 
@@ -11,16 +13,36 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 - [Overviews](#overviews)
 - [Software](#software)
-    - [IF Developement Tools](#if-developement-tools)
+    - [IF Authoring Tools](#if-authoring-tools)
+        - [ADRIFT](#adrift)
+        - [Alan](#alan)
+        - [Curveship](#curveship)
+        - [Hugo](#hugo)
+        - [Inform 6](#inform-6)
+        - [Inform 7](#inform-7)
+        - [Ink](#ink)
+        - [T.A.B. \(ThinBASIC Adventure Builder\)](#tab-thinbasic-adventure-builder)
+        - [TADS \(Text Adventure Development System\)](#tads-text-adventure-development-system)
+        - [Tuvi](#tuvi)
+        - [Twine](#twine)
+        - [Undum](#undum)
+        - [Varytale](#varytale)
+        - [Versu](#versu)
+        - [Yarn](#yarn)
+        - [Yarn Spinner](#yarn-spinner)
+    - [IF Authoring Tools in Spanish](#if-authoring-tools-in-spanish)
+        - [Superglús](#supergl%C3%BAs)
+    - [IF Authoring Tools in Italian](#if-authoring-tools-in-italian)
+        - [Confabula](#confabula)
     - [Interpreters](#interpreters)
         - [Cross Platform](#cross-platform)
-        - [Mac OS](#mac-os)
+        - [macOS](#macos)
         - [MS Windows](#ms-windows)
         - [Mobile Devices](#mobile-devices)
         - [In-Browser Players](#in-browser-players)
     - [Mappping Tools](#mappping-tools)
         - [Cross Platform](#cross-platform-1)
-        - [Mac OS](#mac-os-1)
+        - [macOS](#macos-1)
         - [MS Windows](#ms-windows-1)
         - [Linux/\*nix](#linux%5Cnix)
         - [Mobile Devices](#mobile-devices-1)
@@ -71,39 +93,176 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 # Software
 
-## IF Developement Tools
+## IF Authoring Tools
 
-- [ADRIFT](http://www.adrift.co/) (Adventure Development & Runner Interactive Fiction Toolkit)
+### ADRIFT
 
-- [Alan](http://www.alanif.se/)
+[ADRIFT]: #adrift
 
-- [Curveship](http://curveship.com/)
+- [www.adrift.co]
 
-- [Hugo](http://www.generalcoffee.com/)
+ADRIFT (Adventure Development & Runner — Interactive Fiction Toolkit) is a GUI driven IF development system for Windows, allowing to create text adventures via dialog boxes and GUI controls instead of writing code. Supports graphics and sounds.
 
-- [Inform 6](http://inform-fiction.org/)
+Developed by Campbell Wild since 1997, ADRIFT Developer (formerly called Adventure Generator) used to be a commercial product, but since 2011 has been released as freeware.
 
-- [Inform 7](http://inform7.com/) — based on natural language.
+There are different versions of ADRIFT, and an adventure created with a specific version of ADRIFT Developer needs to be played with the same version of ADRIFT Runner:
 
-- [Ink](https://github.com/inkle/ink)
+- __ADRIFT 5.0__ (2011–)
+- __ADRIFT 4.0__ (2002–2012)
+- __ADRIFT 3.9__ (2001)
+- __ADRIFT 2.0__ (aka Adventure Generator, 1997) — legacy 16-bit DOS app
 
-- [T.A.B (ThinBASIC Adventure Builder)](http://tab.thinbasic.com/)
+For more information, see also:
 
-- [TADS (Text Adventure Development System)](http://www.tads.org/)
+- [IFWiki » ADRIFT]
+- [Wikipedia » ADRIFT]
 
-- [Tuvi](https://github.com/jaywengrow/tuvi)
 
-- [Twine](http://twinery.org/)
+[www.adrift.co]: http://www.adrift.co/ "Visit ADRIFT official website"
+[IFWiki » ADRIFT]: http://www.ifwiki.org/index.php/ADRIFT "Visit ADRIFT page at IFWiki"
+[Wikipedia » ADRIFT]: https://en.wikipedia.org/wiki/ADRIFT
 
-- [Undum](http://undum.com/)
+### Alan
 
-- [Varytale](http://varytale.com/books/)
+[Alan]: #alan
+[Alan 2]: #alan
+[Alan 3]: #alan
 
-- [Versu](http://versu.com/)
+- [www.alanif.se]
 
-- [Yarn](https://github.com/infiniteammoinc/Yarn)
+[www.alanif.se]: http://www.alanif.se/ "Visit Alan official website"
 
-- [Yarn Spinner](https://github.com/thesecretlab/YarnSpinner)
+For more information, see also:
+
+[IFWiki » Alan]: http://www.ifwiki.org/index.php/Alan "Visit Alan page at IFWiki"
+
+### Curveship
+
+[Curveship]: #curveship
+
+- http://curveship.com/
+
+
+### Hugo
+
+[Hugo]: #hugo
+
+- http://www.generalcoffee.com/
+
+
+### Inform 6
+
+[Inform 6]: #inform-6
+[Inform]: #inform-6
+
+- http://inform-fiction.org/
+
+
+
+### Inform 7
+
+[Inform 7]: #inform-7
+
+- http://inform7.com/
+
+Based on natural language.
+
+
+### Ink
+
+[Ink]: #ink
+
+- https://github.com/inkle/ink
+
+
+
+### T.A.B. (ThinBASIC Adventure Builder)
+
+[T.A.B.]: #tab-thinbasic-adventure-builder
+[TAB]: #tab-thinbasic-adventure-builder
+[ThinBASIC Adventure Builder]: #tab-thinbasic-adventure-builder
+
+- http://tab.thinbasic.com/
+
+For more information, see also:
+
+[IFWiki » ThinBASIC Adventure Builder]: http://www.ifwiki.org/index.php/ThinBASIC_Adventure_Builder "Visit ThinBASIC Adventure Builder page at IFWiki"
+
+### TADS (Text Adventure Development System)
+
+[TADS]: #tads-text-adventure-development-system
+[TADS 2]: #tads-text-adventure-development-system
+[TADS 3]: #tads-text-adventure-development-system
+
+
+- [www.tads.org]
+
+[www.tads.org]: http://www.tads.org "Visit TADS official website"
+
+
+### Tuvi
+
+[Tuvi]: #tuvi
+
+- https://github.com/jaywengrow/tuvi
+
+
+### Twine
+
+[Twine]: #twine
+
+- http://twinery.org/
+
+
+### Undum
+
+[Undum]: #undum
+
+- http://undum.com/
+
+
+
+### Varytale
+
+[Varytale]: #varytale
+
+- http://varytale.com/books/
+
+
+
+### Versu
+
+[Versu]: #versu
+
+- http://versu.com/
+
+
+
+### Yarn
+
+[Yarn]: #yarn
+
+- https://github.com/infiniteammoinc/Yarn
+
+
+### Yarn Spinner
+
+[Yarn Spinner]: #yarn-spinner
+
+- https://github.com/thesecretlab/YarnSpinner
+
+## IF Authoring Tools in Spanish
+
+### Superglús
+
+- http://www.caad.es/superglus/doku.php
+- https://github.com/Utodev/Superglus
+
+## IF Authoring Tools in Italian
+
+### Confabula
+
+- https://github.com/Silvan87/Confabula
 
 ## Interpreters
 
@@ -115,7 +274,7 @@ A curated list of interactive fiction frameworks, tools, and resources.
 
 - [Gargoyle](http://ccxvii.net/gargoyle/) — for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
-### Mac OS
+### macOS
 
 - [Spatterlight](http://ccxvii.net/spatterlight/) — story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
 
@@ -163,7 +322,7 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 - [SVGmaps](http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip) — \[2008\] A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
-### Mac OS
+### macOS
 
 - Cocoa Mapre — \[2004\] A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
@@ -222,21 +381,21 @@ The following table resumes the most common story file extensions.
 
 | ext       | format                                          |
 | :-------- | :---------------------------------------------- |
-| `.a3c`    | Alan 3 story file.                              |
+| `.a3c`    | [Alan 3] story file.                            |
 | `.asl`    | Quest source code and story file.               |
 | `.blb`    | Blorb wrapper, usually containing a story file. |
 | `.cas`    | Compressed Quest story file.                    |
 | `.floydc` | Floyd story file.                               |
-| `.gam`    | TADS 2 story file.                              |
+| `.gam`    | [TADS 2] story file.                            |
 | `.gblorb` | Glulx story file in a Blorb wrapper.            |
 | `.glb`    | Glulx story file in a Blorb wrapper.            |
-| `.hex`    | Hugo story file.                                |
+| `.hex`    | [Hugo] story file.                              |
 | `.nx`     | Node-X story file.                              |
-| `.t3`     | TADS 3 story file.                              |
-| `.t3x`    | TADS 3 story file.                              |
-| `.taf`    | ADRIFT story file.                              |
+| `.t3`     | [TADS 3] story file.                            |
+| `.t3x`    | [TADS 3] story file.                            |
+| `.taf`    | [ADRIFT] story file.                            |
 | `.tag`    | T.A.G. story file.                              |
-| `.tws`    | Twine story file.                               |
+| `.tws`    | [Twine] story file.                             |
 | `.ulx`    | Glulx story file.                               |
 | `.z1`     | Z-machine version 1 story file.                 |
 | `.z2`     | Z-machine version 2 story file.                 |
@@ -253,21 +412,21 @@ The following table resumes the most common story file extensions.
 
 The following table resumes some common extensions used by IF authoring systems as source, headers or resource files. In some IF authoring systems, the source code file and the story file distributed for playing are one and the same.
 
-| ext       | format                                       |
-| :-------- | :------------------------------------------- |
-| `.a3r`    | Alan 3 resource file.                        |
-| `.acd`    | Alan 2 source code file.                     |
-| `.alr`    | ADRIFT Language Resource file.               |
-| `.asl`    | Quest source code and story file.            |
-| `.i6t`    | Inform 6 template used by Inform 7 compiler. |
-| `.i7x`    | Inform 7 extension source code file.         |
-| `.inf`    | Inform 6 source code file.                   |
-| `.inform` | Inform 7 project folder.                     |
-| `.jacl`   | JACL source code file.                       |
-| `.ni`     | Inform 7 source code.                        |
-| `.t`      | TADS source code file.                       |
-| `.tab`    | TAB game datafile                            |
-| `.zil`    | ZIL source code.                             |
+| ext       | format                                           |
+| :-------- | :-------------------------------------------     |
+| `.a3r`    | [Alan 3] resource file.                          |
+| `.acd`    | [Alan 2] source code file.                       |
+| `.alr`    | [ADRIFT] Language Resource file.                 |
+| `.asl`    | Quest source code and story file.                |
+| `.i6t`    | [Inform 6] template used by [Inform 7] compiler. |
+| `.i7x`    | [Inform 7] extension source code file.           |
+| `.inf`    | [Inform 6] source code file.                     |
+| `.inform` | [Inform 7] project folder.                       |
+| `.jacl`   | JACL source code file.                           |
+| `.ni`     | [Inform 7] source code.                          |
+| `.t`      | [TADS] source code file.                         |
+| `.tab`    | [T.A.B.] game datafile                           |
+| `.zil`    | ZIL source code.                                 |
 
 ## Other IF File Extensions
 
@@ -277,7 +436,7 @@ The following table resumes some other common file extensions related to IF that
 | :----- | :------------------------------- |
 | `.sav` | Saved game file.                 |
 | `.scr` | Transcript of a Z-Code gameplay. |
-| `.t3v` | TADS 3 saved game file.          |
+| `.t3v` | [TADS 3] saved game file.        |
 
 ## Virtual Machines
 
