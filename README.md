@@ -63,11 +63,14 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
     - [Free eBooks](#free-ebooks)
         - [Inform 6](#inform-6-1)
         - [Inform 7](#inform-7-1)
-        - [PAWS](#paws)
+        - [PAW](#paw)
     - [Commercial Books](#commercial-books)
         - [Inform 7](#inform-7-2)
         - [Twine](#twine-1)
     - [Tutorials](#tutorials)
+        - [Inform 7](#inform-7-3)
+    - [Cheat Sheets & References](#cheat-sheets--references)
+        - [Inform 7](#inform-7-4)
 - [IF for Teaching and Education](#if-for-teaching-and-education)
     - [Online Resources](#online-resources)
     - [Examples](#examples)
@@ -185,7 +188,12 @@ See also:
 
 - [Inform 7 commercial books]
 - [Inform 7 free eBooks]
+- [Inform 7 tutorials]
+- [Inform 7 Cheat Sheets]
 
+Online tools:
+
+- [I7 Thing Creator (I7TC)](http://www.nitku.net/if/thingcreator/) — by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
 
 ### Ink
 
@@ -232,6 +240,9 @@ For more information, see also:
 
 - http://twinery.org/
 
+See also:
+
+- [Twine commercial books]
 
 ### Undum
 
@@ -415,8 +426,8 @@ The following table resumes the most common story file extensions.
 | `.cas`    | Compressed Quest story file.                    |
 | `.floydc` | Floyd story file.                               |
 | `.gam`    | [TADS 2] story file.                            |
-| `.gblorb` | Glulx story file in a Blorb wrapper.            |
-| `.glb`    | Glulx story file in a Blorb wrapper.            |
+| `.gblorb` | [Glulx] story file in a Blorb wrapper.          |
+| `.glb`    | [Glulx] story file in a Blorb wrapper.          |
 | `.hex`    | [Hugo] story file.                              |
 | `.nx`     | Node-X story file.                              |
 | `.t3`     | [TADS 3] story file.                            |
@@ -424,7 +435,7 @@ The following table resumes the most common story file extensions.
 | `.taf`    | [ADRIFT] story file.                            |
 | `.tag`    | T.A.G. story file.                              |
 | `.tws`    | [Twine] story file.                             |
-| `.ulx`    | Glulx story file.                               |
+| `.ulx`    | [Glulx] story file.                             |
 | `.z1`     | Z-machine version 1 story file.                 |
 | `.z2`     | Z-machine version 2 story file.                 |
 | `.z3`     | Z-machine version 3 story file.                 |
@@ -469,6 +480,8 @@ The following table resumes some other common file extensions related to IF that
 ## Virtual Machines
 
 ### Glulx
+
+[Glulx]: #glulx
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
@@ -553,7 +566,7 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 - [The Inform 7 Handbook](http://www.musicwords.net/if/i7hb.htm) — by Jim Aikin, 2015; 518pp.
 
-### PAWS
+### PAW
 
 - [The PAW Programming Bible](https://gilsoftpawreservoir.wordpress.com/2013/07/29/feature-the-paw-programming-bible/) — by AAVV, 2014; 333pp.
 
@@ -569,10 +582,30 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 ### Twine
 
+[Twine commercial books]: #twine-1
+
 - [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/) — by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
 
 
 ## Tutorials
+
+### Inform 7
+
+[Inform 7 tutorials]: #inform-7-3
+
+- [Inform 7 for Programmers](http://www.ifwiki.org/index.php/Inform_7_for_Programmers) — by Ron Newcomb, 2009 (`i7_5U92`); multipart tutorial at IFWiki (HTML).
+
+- [Inform 7 Programmer's Manual](http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf) — by Ron Newcomb, 2011 (`i7_6G60`); 81pp, PDF.
+
+- [Welcome To Adventure: A Quick-Start Guide to Inform 7](http://www.sibylmoon.com/welcome-to-adventure/) — by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
+
+## Cheat Sheets & References
+
+### Inform 7
+
+[Inform 7 Cheat Sheets]: #inform-7-4
+
+- [The Chart of Rules](http://inform7.com/learn/documents/Rules%20Chart.pdf) —   Visual guide to Inform's rules and rulebooks (PDF).
 
 -----
 
