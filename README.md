@@ -11,7 +11,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 
 <!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="true" lowercase_only_ascii="true" uri_encoding="true" depth="3" -->
 
-- [Overviews](#overviews)
+- [Introductory Material](#introductory-material)
 - [Software](#software)
     - [IF Authoring Tools](#if-authoring-tools)
         - [ADRIFT](#adrift)
@@ -55,7 +55,9 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
         - [Glulx](#glulx)
 - [Collections](#collections)
 - [Blogs](#blogs)
-- [Competitions](#competitions)
+- [Competitions & Awards](#competitions--awards)
+    - [Annual Competitions](#annual-competitions)
+    - [Annual Awards](#annual-awards)
 - [History](#history)
     - [Books](#books)
     - [Documentaries](#documentaries)
@@ -69,7 +71,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
         - [Twine](#twine-1)
     - [Tutorials](#tutorials)
         - [Inform 7](#inform-7-3)
-    - [Cheat Sheets & References](#cheat-sheets--references)
+    - [Cheat Sheets & Reference Docs](#cheat-sheets--reference-docs)
         - [Inform 7](#inform-7-4)
 - [IF for Teaching and Education](#if-for-teaching-and-education)
     - [Online Resources](#online-resources)
@@ -93,11 +95,17 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 
 
 
-# Overviews
+# Introductory Material
 
-- [Emily Short’s Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf)
+Newcomers to Interactive Fiction will find these links helpful:
 
-- [Zarf’s Interactive Fiction](http://eblong.com/zarf/if.html)
+- [Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf) — by Emily Short; 8pp (PDF).
+
+- [Brass Lantern's Beginner's Guide to Interactive Fiction](http://www.brasslantern.org/beginners/beginnersguide.html) — by Stephen Granade and Emily Short.
+
+- [Zarf’s Interactive Fiction](http://eblong.com/zarf/if.html) — an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
+
+- [Player's Cheat Sheet](http://pr-if.org/doc/play-if-card/) — a card to help new IF players with game commands (available in various languages).
 
 -----
 
@@ -174,6 +182,9 @@ For more information, see also:
 
 - http://inform-fiction.org/
 
+See also:
+
+- [Inform 6 free eBooks]
 
 
 ### Inform 7
@@ -529,11 +540,26 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 -----
 
-# Competitions
+# Competitions & Awards
 
-- [The Interactive Fiction Competition (IFComp)](http://www.ifcomp.org)
+For more info, see:
 
-- [Spring Thing Festival of Interactive Fiction](http://springthing.net)
+- [IFWiki » Competitions]
+- [WikiCAAD (ES) » Competiciones]
+
+[IFWiki » Competitions]: http://www.ifwiki.org/index.php/Category:Competitions
+[WikiCAAD (ES) » Competiciones]: http://wiki.caad.es/Categor%C3%ADa:Competiciones "Enciclopedia de la aventura conversacional hispana"
+
+## Annual Competitions
+
+- [The Interactive Fiction Competition (IFComp)](http://www.ifcomp.org) — since 1995.
+
+- [Spring Thing Festival of Interactive Fiction](http://springthing.net) — since 2002.
+
+## Annual Awards
+
+- [The XYZZY Awards](http://xyzzyawards.org/) — since 1996.
+
 
 -----
 
@@ -555,6 +581,8 @@ More Glulx tools are listed at the IF Archive dedicated section:
 ## Free eBooks
 
 ### Inform 6
+
+[Inform 6 free eBooks]: #inform-6-1
 
 - [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp. Also available as paperback.
 
@@ -599,7 +627,7 @@ More Glulx tools are listed at the IF Archive dedicated section:
 
 - [Welcome To Adventure: A Quick-Start Guide to Inform 7](http://www.sibylmoon.com/welcome-to-adventure/) — by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
 
-## Cheat Sheets & References
+## Cheat Sheets & Reference Docs
 
 ### Inform 7
 
