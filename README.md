@@ -16,6 +16,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 - [Software](#software)
     - [IF Authoring Tools](#if-authoring-tools)
         - [ADRIFT](#adrift)
+        - [Aiee!](#aiee)
         - [Alan](#alan)
         - [Curveship](#curveship)
         - [Hugo](#hugo)
@@ -73,6 +74,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
     - [Documentaries](#documentaries)
     - [Tutorials](#tutorials)
         - [IF Authoring Guides](#if-authoring-guides)
+        - [Designing IF Authoring Systems](#designing-if-authoring-systems)
         - [Inform 7](#inform-7-3)
     - [Cheat Sheets and Reference Docs](#cheat-sheets-and-reference-docs)
         - [Inform 6](#inform-6-2)
@@ -147,6 +149,12 @@ For more information, see also:
 [www.adrift.co]: http://www.adrift.co/ "Visit ADRIFT official website"
 [IFWiki » ADRIFT]: http://www.ifwiki.org/index.php/ADRIFT "Visit ADRIFT page at IFWiki"
 [Wikipedia » ADRIFT]: https://en.wikipedia.org/wiki/ADRIFT
+
+### Aiee!
+
+- http://markdamonhughes.com/Aiee/
+
+Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
 
 ### Alan
 
@@ -691,6 +699,21 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 
 - [Scott Kim website homepage](http://www.scottkim.com/)
 - [articles on game-design](http://www.scottkim.com.previewc40.carrierzone.com/thinkinggames/)
+
+### Designing IF Authoring Systems
+
+- [The Interactive Fiction Authoring System Developer's Guide](http://www.wolldingwacht.de/if/if-auth-dev-guide.html) — by Peer Schaefer, 2005; 24pp, PDF. A document for programmers who want to create a development system for IF, covering the most important aspects that the developer should consider, and the most important pitfalls he should avoid.
+
+- [_So you want to write a text adventuring authoring system…_](https://www.ifarchive.org/if-archive/magazines/XYZZYnews/XYZZY14.PDF) — by Alan Conroy, in __XYZZYnews__ issue #14, 1998. In this 6 pages article, Alan Conroy discusses how he developed an adventure authoring system named Adventure Builder and the issues involved with writing your own. ([TXT version](https://www.ifarchive.org/if-archive/magazines/XYZZYnews/XYZZY14.TXT))
+
+- [IFWiki » Building a New Interactive Fiction System](http://www.ifwiki.org/index.php/Building_a_New_Interactive_Fiction_System)
+
+- [IFWiki » Past raif topics » Development](http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1):
+    + [Creating an IF language](http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1#Creating_an_IF_language)
+    + [Game physics / world model](http://www.ifwiki.org/index.php/Past_raif_topics:_Game_Mechanics:_part_1#Game_physics_.2F_world_model)
+
+- [DM4 » §24 The world model described](http://inform-fiction.org/manual/html/s24.html) — _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
+
 
 ### Inform 7
 
