@@ -5,11 +5,12 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 [Yakira Dixon]: https://github.com/yakiradixon "View Yakira Dixon's GitHub profile"
 [Tristano Ajmone]: https://github.com/tajmone "View Tristano Ajmone's GitHub profile"
 
+
 -----
 
 **Table of Contents**
 
-<!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="true" lowercase_only_ascii="true" uri_encoding="true" depth="3" -->
+<!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="only_ascii" uri_encoding="true" levels="1,2,3" -->
 
 - [Introductory Material](#introductory-material)
 - [Software](#software)
@@ -44,7 +45,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
         - [Cross Platform](#cross-platform-1)
         - [macOS](#macos-1)
         - [MS Windows](#ms-windows-1)
-        - [Linux/\*nix](#linux%5Cnix)
+        - [Linux/\*nix](#linuxnix)
         - [Mobile Devices](#mobile-devices-1)
 - [Standards and Specifications](#standards-and-specifications)
     - [Files Extensions and Formats](#files-extensions-and-formats)
@@ -63,13 +64,17 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
     - [Documentaries](#documentaries)
 - [IF Learning Resources](#if-learning-resources)
     - [Free eBooks](#free-ebooks)
+        - [IF History](#if-history)
+        - [IF Theory](#if-theory)
         - [Inform 6](#inform-6-1)
         - [Inform 7](#inform-7-1)
         - [PAW](#paw)
     - [Commercial Books](#commercial-books)
+        - [IF History](#if-history-1)
         - [Inform 7](#inform-7-2)
         - [Twine](#twine-1)
     - [Tutorials](#tutorials)
+        - [IF Authoring Guides](#if-authoring-guides)
         - [Inform 7](#inform-7-3)
     - [Cheat Sheets & Reference Docs](#cheat-sheets--reference-docs)
         - [Inform 7](#inform-7-4)
@@ -95,12 +100,15 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 
 
 
+
+
 # Introductory Material
 
 Newcomers to Interactive Fiction will find these links helpful:
 
 - [Introduction to Interactive Fiction](http://inform7.com/learn/eg/dm/IntroductionToIF.pdf) — by Emily Short; 8pp (PDF). Also available in other languages:
     + Italian » [Introduzione alle Avventure Testuali](http://www.youdev.it/if/Titolo/Introduzione%20alle%20Avventure%20Testuali.pdf)
+    + French » [Introduction à la fiction interactive](http://ifiction.free.fr/fichiers/Introduction-IF-fr.pdf)
 
 - [Brass Lantern's Beginner's Guide to Interactive Fiction](http://www.brasslantern.org/beginners/beginnersguide.html) — by Stephen Granade and Emily Short.
 
@@ -578,8 +586,27 @@ For more info, see:
 
 # IF Learning Resources
 
+For more learning resources, see also:
+
+- [Emily Short's Blog » Books and Other Resources](https://emshort.blog/how-to-play/writing-if/books-and-other-resources/ "Visit Emily Short's list of books and articles on her blog")
 
 ## Free eBooks
+
+### IF History
+
+- [Let's Tell a Story Together](http://maher.filfre.net/if-book/) — by Jimmy Maher, 2006. Readable online or downloadable in ePub or Mobipocket.
+- [The Digital Antiquarian](https://www.filfre.net/the-digital-antiquarian-e-book-library/) — Jimmy Maher's blog articles downloadble as yearly volumes, in ePub or Mobipocket.
+
+### IF Theory
+
+- [IF Gems](http://davidfisher.info/if/gems/) — A selection of quotes from reviews of the [annual Interactive Fiction competition] (1995-2005), compiled by David Fisher; 183pp (PDF).
+
+- [IF Theory Reader] — by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and [Kindle edition][IF Theory Reader Kindle].
+
+[annual Interactive Fiction competition]: http://www.ifcomp.org/ "Visit the IFComp website"
+
+[IF Theory Reader]: http://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html "Donwload 'IF Theory Reader' free PDF from Lulu.com"
+[IF Theory Reader Kindle]: https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1 "Kindle edition of 'IF Theory Reader' on Amazon.com"
 
 ### Inform 6
 
@@ -602,6 +629,8 @@ For more info, see:
 
 ## Commercial Books
 
+### IF History
+
 - [Twisty Little Passages](http://nickm.com/twisty/) — by Nick Montfort, 2005; 328pp, paperback or hardback.
 
 ### Inform 7
@@ -619,6 +648,39 @@ For more info, see:
 
 ## Tutorials
 
+### IF Authoring Guides
+
+- [Crimes Against Mimesis](https://web.archive.org/web/20091027084109/http://geocities.com/aetus_kane/writing/cam.html "Read 'Crimes Against Mimesis' on Wayback Machine") — by Roger Giner-Sorolla, 1996. ([ReoCities link](http://www.reocities.com/aetus_kane/writing/cam.html "Read 'Crimes Against Mimesis' on ReoCities"))
+
+Tutorials by inki (Dan Shiovitz):
+
+- [General Game-Design/Authoring Notes](http://inky.org/if/notes.html)
+- [How to Program IF](http://inky.org/if/program-if.html)
+- [How to Write a Great Game](http://inky.org/if/great-games.html)
+- [Think Like a Player!](http://inky.org/if/think-player.html)
+
+Tutorials by Emily Short:
+
+- [Writing IF](https://emshort.blog/how-to-play/writing-if/)
+- [Challenges of a Broad Geography](http://emshort.home.mindspring.com/Geography.html) (2001)
+- [Writing in Collaboration with the System](https://emshort.blog/2014/10/29/writing-in-collaboration-with-the-system/) (2014)
+- [Beyond Branching: Quality-Based, Salience-Based, and Waypoint Narrative Structures](https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/) (2016)
+- [Tightening the World-Plot Interface: or, Why I Am Obsessed With Conversation Models](https://emshort.blog/2015/05/24/framed-invisible-parties-and-the-world-plot-interface/) (2015)
+- [Idea to Implementation](https://emshort.blog/2009/08/23/idea-to-implementation/) (2009)
+- [Developing a Setting for Fantastical IF](http://www.brasslantern.org/writers/iftheory/setting.html) (2001)
+- [Plot, scene by scene](https://emshort.blog/2008/05/04/plot-scene-by-scene/) (2008)
+- [Scaffolding and Scene-based Design](https://emshort.blog/2008/08/28/scaffolding-and-scene-based-design/) (2008)
+- [Preparing a game for testing](https://emshort.blog/2008/11/08/preparing-a-game-for-testing/) (2008)
+
+Tutorials on Description:
+
+- [Mapping the Tale: Scene Description in IF](http://raddial.com/if/theory/territory.html) — by J. Robinson Wheeler
+
+Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation:
+
+- [Scott Kim website homepage](http://www.scottkim.com/)
+- [articles on game-design](http://www.scottkim.com.previewc40.carrierzone.com/thinkinggames/)
+
 ### Inform 7
 
 [Inform 7 tutorials]: #inform-7-3
@@ -628,6 +690,9 @@ For more info, see:
 - [Inform 7 Programmer's Manual](http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf) — by Ron Newcomb, 2011 (`i7_6G60`); 81pp, PDF.
 
 - [Welcome To Adventure: A Quick-Start Guide to Inform 7](http://www.sibylmoon.com/welcome-to-adventure/) — by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
+
+- [Exercises in Generated Prose](https://emshort.blog/2009/06/24/exercises-in-generated-prose/) — by Emily Short, 2009; blog entry.
+
 
 ## Cheat Sheets & Reference Docs
 
