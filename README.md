@@ -59,9 +59,6 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 - [Competitions & Awards](#competitions--awards)
     - [Annual Competitions](#annual-competitions)
     - [Annual Awards](#annual-awards)
-- [History](#history)
-    - [Books](#books)
-    - [Documentaries](#documentaries)
 - [IF Learning Resources](#if-learning-resources)
     - [Free eBooks](#free-ebooks)
         - [IF History](#if-history)
@@ -73,6 +70,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
         - [IF History](#if-history-1)
         - [Inform 7](#inform-7-2)
         - [Twine](#twine-1)
+    - [Documentaries](#documentaries)
     - [Tutorials](#tutorials)
         - [IF Authoring Guides](#if-authoring-guides)
         - [Inform 7](#inform-7-3)
@@ -82,7 +80,7 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
 - [IF for Teaching and Education](#if-for-teaching-and-education)
     - [Online Resources](#online-resources)
     - [Examples](#examples)
-    - [Books](#books-1)
+    - [Books](#books)
     - [Whitepapers and Guides](#whitepapers-and-guides)
     - [Articles and Academic Papers](#articles-and-academic-papers)
 - [Social Events](#social-events)
@@ -427,6 +425,13 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 # Standards and Specifications
 
+- [Files Extensions and Formats](#files-extensions-and-formats)
+- [Story Files by Extensions](#story-files-by-extensions)
+- [Source Files by Extensions](#source-files-by-extensions)
+- [Other IF File Extensions](#other-if-file-extensions)
+- [Virtual Machines](#virtual-machines)
+
+
 ## Files Extensions and Formats
 
 For a full list of IF story files extensions, see:
@@ -574,19 +579,14 @@ For more info, see:
 
 -----
 
-# History
-
-## Books
-
-- [Twisty Little Passages](http://nickm.com/twisty/)
-
-## Documentaries
-
-- [Get Lamp](http://www.getlamp.com)
-
------
-
 # IF Learning Resources
+
+- [Free eBooks](#free-ebooks)
+- [Commercial Books](#commercial-books)
+- [Documentaries](#documentaries)
+- [Tutorials](#tutorials)
+- [Cheat Sheets and Reference Docs](#cheat-sheets-and-reference-docs)
+
 
 For more learning resources, see also:
 
@@ -646,6 +646,12 @@ For more learning resources, see also:
 [Twine commercial books]: #twine-1
 
 - [Writing Interactive Fiction with Twine](http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/) — by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
+
+
+
+## Documentaries
+
+- [Get Lamp](http://www.getlamp.com)
 
 
 ## Tutorials
@@ -719,6 +725,13 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 # IF for Teaching and Education
 
 Interactive Fiction has been employed in the classroom as a teaching aid in various fields: reading, foreign languages, litterature, history, computer programming, game design, and new media theory.
+
+- [Online Resources](#online-resources)
+- [Examples](#examples)
+- [Books](#books)
+- [Whitepapers and Guides](#whitepapers-and-guides)
+- [Articles and Academic Papers](#articles-and-academic-papers)
+
 
 ## Online Resources
 
