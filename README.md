@@ -379,49 +379,49 @@ Many of the tools presented here are now hosted at the IF-Archive — they are o
 
 ### Cross Platform
 
-- [IFMapper](http://ifmapper.rubyforge.org/start.html) — A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF.
+- [IFMapper](https://rubygems.org/gems/ifmapper/versions/1.3.1) — A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF. ([Online Manual](http://ggarra13.github.io/ifmapper/en/start.html) | [GitHub](https://github.com/ggarra13/ifmapper))
 
-- [SVGmaps](http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip) — \[2008\] A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
+- [`SVGmaps.zip`](http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip) (2008) — A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
 ### macOS
 
-- Cocoa Mapre — \[2004\] A tool for generating maps of Multi-User Dungeons on Mac OS X.
+- Cocoa Mapre (2004) — ([`cocoa_mapre0.6.7.dmg`](http://www.ifarchive.org/if-archive/mapping-tools/cocoa_mapre0.6.7.dmg)) A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
 ### MS Windows
 
-- [AutoREALM](http://autorealm.sourceforge.net/) — \[2006\] A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
+- [AutoREALM](http://autorealm.sourceforge.net/) (2006) — A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
 
 - [Campaign Cartographer](https://secure.profantasy.com/products/cc3-plus.asp) — A commercial tool for drawing fantasy-style terrain maps — not the classic rooms/directions-based diagram IF maps, but ancient-looking «realistic» full-color maps, with villages, lakes, sea, forests. Execellent for creating feelies maps.
 
-- [Frobot Magic Adventure Mapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1998\] Automapping tool for Windows 95.
+- [Frobot Magic Adventure Mapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (1998) — Automapping tool for Windows 95.
 
-- GUEmap — Map drawing tool, can also generate directions for moving around the map. [GUEmap v1](https://www.cjmweb.net/GUEmap/download) \[1998-1999\] is Sharaware, [GUEmap v2](https://www.cjmweb.net/GUEmap/develop) \[1998-2007\] is now free and open source. Runs on Windows 95/98 or NT 4.0.
+- GUEmap — Map drawing tool, can also generate directions for moving around the map. [GUEmap v1](https://www.cjmweb.net/GUEmap/download) (1998–1999) is Sharaware, [GUEmap v2](https://www.cjmweb.net/GUEmap/develop) (1998–2007) is now free and open source. Runs on Windows 95/98 or NT 4.0.
 
-- [IFM](https://bitbucket.org/zondo/ifm) (Interactive Fiction Mapper) — \[1998–2014\] Console/CMD executables available at [IF Archive](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html). IFM is a language for keeping track of gameplay progress, and a program for producing various different sorts of output using it, including automapping. See [online documentation](http://ifm.readthedocs.io/en/latest/contents.html) and [IFWiki](http://www.ifwiki.org/index.php/IFM).
+- [IFM](https://bitbucket.org/zondo/ifm) (Interactive Fiction Mapper) — (1998–2014) Console/CMD executables available at [IF Archive](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html). IFM is a language for keeping track of gameplay progress, and a program for producing various different sorts of output using it, including automapping. See [online documentation](http://ifm.readthedocs.io/en/latest/contents.html) and [IFWiki](http://www.ifwiki.org/index.php/IFM).
 
-- [Informapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1996\] A map drawing program for Windows, Spanish only user interface. Can export as a skeleton file for SINTAC. Can’t execute on modern versions of Windows.
+- [Informapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (1996) — A map drawing program for Windows, Spanish only user interface. Can export as a skeleton file for SINTAC. Can’t execute on modern versions of Windows.
 
-- [Map Maker](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1999\] A Windows 95/98/NT world-building tool for visually designing maps to be converted as AGT, AGX, Hugo and TADS source code. Can still be executed under Windows 10.
+- [Map Maker](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (1999) — A Windows 95/98/NT world-building tool for visually designing maps to be converted as AGT, AGX, Hugo and TADS source code. Can still be executed under Windows 10.
 
-- [The Mapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1994\] Automapping tool — comes as a `.COM` executable format. Can’t execute on modern versions of Windows.
+- [The Mapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (1994) — Automapping tool — comes as a `.COM` executable format. Can’t execute on modern versions of Windows.
 
 - [Trizbort](http://trizbort.genstein.net/) — For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Requires .NET 2.0.
 
 ### Linux/\*nix
 
-- [Adventure Map Utility](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[1994\] A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
+- [Adventure Map Utility](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (1994) — A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
 
-- [asciimapper](http://www.ifarchive.org/if-archive/mapping-tools/asciimapper) — \[2005\] A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
+- [asciimapper](http://www.ifarchive.org/if-archive/mapping-tools/asciimapper) (2005) — A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
 
-- [ifm2i7](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) — \[2008\] A Perl program to convert maps in IFM format to Inform 7 source code.
+- [ifm2i7](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (2008) — A Perl program to convert maps in IFM format to Inform 7 source code.
 
-- [informap](http://www.ifarchive.org/if-archive/mapping-tools/informap.perl) — \[1999\] A perl script that draws maps out of Inform source code.
+- [informap](http://www.ifarchive.org/if-archive/mapping-tools/informap.perl) (1999) — A perl script that draws maps out of Inform source code.
 
 ### Mobile Devices
 
 #### PalmOS
 
-- [IFmapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) \[2001\]
+- [IFmapper](http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html) (2001)
 
 -----
 
@@ -601,7 +601,7 @@ For more learning resources, see also:
 
 ### IF Theory
 
-- [IF Gems](http://davidfisher.info/if/gems/) — A selection of quotes from reviews of the [annual Interactive Fiction competition] (1995-2005), compiled by David Fisher; 183pp (PDF).
+- [IF Gems](http://davidfisher.info/if/gems/) — A selection of quotes from reviews of the [annual Interactive Fiction competition] (1995–2005), compiled by David Fisher; 183pp (PDF).
 
 - [IF Theory Reader] — by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and [Kindle edition][IF Theory Reader Kindle].
 
