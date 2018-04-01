@@ -725,6 +725,8 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 
 - [Welcome To Adventure: A Quick-Start Guide to Inform 7](http://www.sibylmoon.com/welcome-to-adventure/) — by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
 
+- [The Foyer is a Room](http://www.steveersinghaus.com/informsnippets/) — Inform 7 Examples, Snippets and PDF handouts by John Timmons.
+
 - [Exercises in Generated Prose](https://emshort.blog/2009/06/24/exercises-in-generated-prose/) — by Emily Short, 2009; blog entry.
 
 
@@ -762,11 +764,17 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 - <http://inform7.com/news/category/education/> — Inform7 News Section, «Education» category. RSS Feed subscription available.
 
-- [Gaming The Past](https://gamingthepast.net/) — A repository for theory, research , and implementations of simulation games for history education. Created and maintained by Jeremiah McCall
+- [Teaching IF](https://emshort.blog/how-to-play/teaching-if/) — a list of IF courses in schools, curated by Emily Short.
+
+- [Gaming The Past » Interactive Texts](https://gamingthepast.net/simulation-design/) — A repository for theory, research , and implementations of simulation games for history education. Created and maintained by Jeremiah McCall. Offers Inform 7 and Twine resources.
+
+- [The Foyer is a Room](http://www.steveersinghaus.com/informsnippets/) — Inform 7 Examples, Snippets and PDF handouts by John Timmons, created by educators for students and the classroom. Freely reusable material.
 
 ## Examples
 
 - [Viking Studies Course Materials](http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm) — Includes various IF story files (30+). [Gettysburg College](http://www.gettysburg.edu/) (Gettysburg, PA).
+
+- [Voices of Spoon River](https://web.archive.org/web/20140815075654/http://cle.usu.edu/CLE_IF_VOSR.html "View 'Voices of Spoon River' on Wayback Machine") — An instructional IF game based by Creative Learning Environments Lab (Utah State University), based on Edgar Lee Masters' _The Spoon River Anthology_. (see also, [IF Wiki » Voices of Spoon River](http://www.ifwiki.org/index.php/Voices_of_Spoon_River))
 
 ## Books
 
