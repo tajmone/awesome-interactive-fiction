@@ -76,7 +76,8 @@ A curated list of interactive fiction frameworks, tools, and resources. Created 
     - [Tutorials](#tutorials)
         - [IF Authoring Guides](#if-authoring-guides)
         - [Inform 7](#inform-7-3)
-    - [Cheat Sheets & Reference Docs](#cheat-sheets--reference-docs)
+    - [Cheat Sheets and Reference Docs](#cheat-sheets-and-reference-docs)
+        - [Inform 6](#inform-6-2)
         - [Inform 7](#inform-7-4)
 - [IF for Teaching and Education](#if-for-teaching-and-education)
     - [Online Resources](#online-resources)
@@ -193,7 +194,8 @@ For more information, see also:
 
 See also:
 
-- [Inform 6 free eBooks]
+- [Inform 6 Free eBooks]
+- [Inform 6 Cheat Sheets]
 
 
 ### Inform 7
@@ -206,9 +208,9 @@ Based on natural language.
 
 See also:
 
-- [Inform 7 commercial books]
-- [Inform 7 free eBooks]
-- [Inform 7 tutorials]
+- [Inform 7 Commercial Books]
+- [Inform 7 Free eBooks]
+- [Inform 7 Tutorials]
 - [Inform 7 Cheat Sheets]
 
 Online tools:
@@ -615,7 +617,7 @@ For more learning resources, see also:
 - [The Inform Beginner’s Guide](http://inform-fiction.org/manual/about_ibg.html) — by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
     + Italian » [Guida a Inform per Principianti](http://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html)
 
-- [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback.
+- [The Inform Designer’s Manual](http://inform-fiction.org/manual/about_dm4.html) (DM4) — by Graham Nelson, 2001; 572pp. Also available as paperback and [Microsoft CHM eBook](http://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm).
 
 ### Inform 7
 
@@ -649,6 +651,9 @@ For more learning resources, see also:
 ## Tutorials
 
 ### IF Authoring Guides
+
+- [The Craft of the Adventure](http://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf) (2nd Ed) — by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
+- [_The Craft of the Adventure_](http://inform-fiction.org/manual/html/ch8.html) (Ch.VIII of DM4) — by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
 
 - [Crimes Against Mimesis](https://web.archive.org/web/20091027084109/http://geocities.com/aetus_kane/writing/cam.html "Read 'Crimes Against Mimesis' on Wayback Machine") — by Roger Giner-Sorolla, 1996. ([ReoCities link](http://www.reocities.com/aetus_kane/writing/cam.html "Read 'Crimes Against Mimesis' on ReoCities"))
 
@@ -694,7 +699,14 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 - [Exercises in Generated Prose](https://emshort.blog/2009/06/24/exercises-in-generated-prose/) — by Emily Short, 2009; blog entry.
 
 
-## Cheat Sheets & Reference Docs
+## Cheat Sheets and Reference Docs
+
+### Inform 6
+
+[Inform 6 Cheat Sheets]: #inform-6-2
+
+- [Inform in four minutes](http://www.firthworks.com/roger/downloads/informqr.zip) — by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
+- [InfoLib at your fingertips](http://www.firthworks.com/roger/downloads/inflibqr.zip) — by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
 
 ### Inform 7
 
