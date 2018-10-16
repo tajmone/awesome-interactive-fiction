@@ -1,0 +1,15 @@
+################################################################################
+# Awesome Interactive Fiction                                                  #
+# https://github.com/tajmone/awesome-interactive-fiction                       #
+################################################################################
+* text=auto
+
+*.adoc         text
+*.asciidoc     text
+
+LICENSE        text
+
+.gitattributes text
+.gitconfig     text
+.gitignore     text
+.gitmodules    text
