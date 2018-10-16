@@ -31,6 +31,7 @@ endif::[]
 A curated list of interactive fiction frameworks, tools, and resources.
 Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
 
+* https://git.io/awesome-if
 * https://github.com/tajmone/awesome-interactive-fiction/
 ================================================================================
 
