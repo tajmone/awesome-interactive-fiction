@@ -4,6 +4,9 @@
 ################################################################################
 * text=auto
 
+*.sh           text eol=lf
+
+*.html         text
 *.adoc         text
 *.asciidoc     text
 
