@@ -367,6 +367,19 @@ The following table resumes some other common file extensions related to IF that
 
 === Virtual Machines
 
+==== Z-machine
+
+The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
+Originally developed in 1979 by Joel Berez and Marc Blank, it was later on decoded and reimplemented in the mid-1990s as an open standard by IF fans wishing to revive the genre and play the original Infocom adventures.
+
+There are have been several variations of the Z-machine standard (z1 to z6), and present day IF interpreters support all of them for the sake of backward compatiblity.
+The Inform compiler supports creating adventures in Z-machine format.
+The Z-machine is a 16 bit virtual machine.
+
+* https://www.inform-fiction.org/zmachine/standards/index.html[Z-machine Specs at Inform website^]
+* https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
+
+
 ==== Glulx
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
@@ -394,6 +407,14 @@ More Glulx interpreters are listed at the IF Archive dedicated section:
 More Glulx tools are listed at the IF Archive dedicated section:
 
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
+
+==== T3 VM
+
+The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
+
+* http://www.tads.org/t3doc/doc/techman/t3spec.htm["`T3 VM Technical Documentation`" in _TADS 3 Technical Manual_^]
+* http://www.tads.org/t3spec/intro.htm[T3 VM specs at TADS website^]
+
 
 == Collections
 
