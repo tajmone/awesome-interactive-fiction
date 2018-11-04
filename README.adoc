@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction
 Tristano Ajmone <tajmone@gmail.com>
-2018-10-16
+2018-11-04
 :lang: en
 :sectanchors:
 // TOC Settings:
@@ -16,6 +16,7 @@ endif::[]
 :sectnumlevels: 2
 // Misc Settings:
 :experimental: true
+:reproducible: true
 :icons: font
 :linkattrs: true
 :idprefix:
