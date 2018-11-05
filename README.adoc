@@ -463,6 +463,10 @@ For more learning resources, see also:
 === Magazines
 
 
+See also:
+
+* https://www.ifarchive.org/indexes/if-archiveXmagazines.html[IF Archive section on magazines^]
+
 ==== Discoverer's Digest
 
 The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorship, and exploring the possibilities of the medium. -- everything from artistic mapping techniques to hooking your IF through a browser-based GPS system for IF in the real world!
