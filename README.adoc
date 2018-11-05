@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction
 Tristano Ajmone <tajmone@gmail.com>
-2018-11-04
+2018-11-05
 :lang: en
 :sectanchors:
 // TOC Settings:
@@ -448,6 +448,7 @@ For more info, see:
 
 == IF Learning Resources
 
+* <<Magazines>>
 * <<Free eBooks>>
 * <<Commercial Books>>
 * <<Documentaries>>
@@ -457,6 +458,17 @@ For more info, see:
 For more learning resources, see also:
 
 * https://emshort.blog/how-to-play/writing-if/books-and-other-resources/[Emily Short's Blog » Books and Other Resources^]
+
+
+=== Magazines
+
+
+==== Discoverer's Digest
+
+The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorship, and exploring the possibilities of the medium. -- everything from artistic mapping techniques to hooking your IF through a browser-based GPS system for IF in the real world!
+
+* http://discdigest.xyz[http://discdigest.xyz^]
+* https://www.ifarchive.org/indexes/if-archiveXmagazinesXDiscoverersDigest.html[_Discoverer's Digest_ issues at IF Archive^]
 
 === Free eBooks
 
