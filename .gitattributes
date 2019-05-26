@@ -7,9 +7,10 @@
 *.sh           text eol=lf
 *.rb           text
 
-*.html         text
 *.adoc         text
 *.asciidoc     text
+*.html         text
+*.txt          text
 
 LICENSE        text
 

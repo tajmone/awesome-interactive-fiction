@@ -25,13 +25,13 @@ endif::[]
 ifdef::IsHTML[]
 ++++
 <!--
-include::warn-editing[]
+include::warn-editing.txt[]
 -->
 ++++
 endif::[]
 ifdef::IsADoc[]
 ////
-include::warn-editing[]
+include::warn-editing.txt[]
 ////
 endif::[]
 

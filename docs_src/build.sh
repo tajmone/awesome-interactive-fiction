@@ -3,7 +3,7 @@ source=awesome-if.asciidoc
 
 asciidoctor \
   -a IsHTML \
-  $source -o index.html
+  $source -o ../docs/index.html
 
 ruby asciidoc-coalescer.rb \
   -a IsADoc \
