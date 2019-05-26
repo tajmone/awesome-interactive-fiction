@@ -1,3 +1,11 @@
 #!/bin/bash
-# asciidoctor README.adoc -o index.html
-ruby asciidoc-coalescer.rb -a env-github awesome-if.asciidoc > ../README.adoc
+source=awesome-if.asciidoc
+
+asciidoctor \
+  -a IsHTML \
+  $source -o index.html
+
+ruby asciidoc-coalescer.rb \
+  -a IsADoc \
+  -a env-github \
+  $source > ../README.adoc

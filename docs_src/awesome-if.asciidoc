@@ -22,6 +22,20 @@ endif::[]
 :idprefix:
 :idseparator: -
 
+ifdef::IsHTML[]
+++++
+<!--
+include::warn-editing[]
+-->
+++++
+endif::[]
+ifdef::IsADoc[]
+////
+include::warn-editing[]
+////
+endif::[]
+
+
 // *****************************************************************************
 // *                                                                           *
 // *                            Document Preamble                              *
