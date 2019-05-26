@@ -1,0 +1,8 @@
+== Blogs
+
+* http://planet-if.com[Planet IF^] -- Aggregation of posts from 60+ IF blogs
+* http://storycade.com[Storycade^]
+* http://emshort.wordpress.com[Emily Short's Interactive Storytelling^]
+* https://inkypath.wordpress.com/[Inky Path^] -- Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
+* http://brasslantern.org/[Brass Lantern^]
+

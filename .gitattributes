@@ -5,6 +5,7 @@
 * text=auto
 
 *.sh           text eol=lf
+*.rb           text
 
 *.html         text
 *.adoc         text

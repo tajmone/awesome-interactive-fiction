@@ -1,0 +1,62 @@
+= Awesome Interactive Fiction
+Tristano Ajmone <tajmone@gmail.com>
+2018-11-05
+:lang: en
+:sectanchors:
+// TOC Settings:
+:toclevels: 3
+ifdef::backend-html5[]
+:toc: left
+endif::[]
+ifdef::env-github[]
+:toc: macro
+endif::[]
+// Sections Numbering:
+:sectnums:
+:sectnumlevels: 2
+// Misc Settings:
+:experimental: true
+:reproducible: true
+:icons: font
+:linkattrs: true
+:idprefix:
+:idseparator: -
+
+// *****************************************************************************
+// *                                                                           *
+// *                            Document Preamble                              *
+// *                                                                           *
+// *****************************************************************************
+
+================================================================================
+A curated list of interactive fiction frameworks, tools, and resources.
+Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
+
+* https://git.io/awesome-if
+* https://github.com/tajmone/awesome-interactive-fiction/
+================================================================================
+
+ifdef::env-github[]
+'''
+toc::[]
+'''
+endif::[]
+
+include::intro-material.adoc[]
+
+== Software
+
+include::authoring-tools.adoc[]
+include::interpreters.adoc[]
+include::mapping-tools.adoc[]
+
+include::standards-and-specs.adoc[]
+include::collections.adoc[]
+include::blogs.adoc[]
+include::competitions.adoc[]
+include::learning-resources.adoc[]
+include::teaching-and-education.adoc[]
+include::social-events.adoc[]
+include::digital-communities.adoc[]
+
+// EOF //

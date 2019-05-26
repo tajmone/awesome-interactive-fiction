@@ -1,0 +1,37 @@
+== IF for Teaching and Education
+
+Interactive Fiction has been employed in the classroom as a teaching aid in various fields: reading, foreign languages, litterature, history, computer programming, game design, and new media theory.
+
+* <<Online Resources>>
+* <<Examples>>
+* <<Books>>
+* <<Whitepapers and Guides>>
+* <<Articles and Academic Papers>>
+
+=== Online Resources
+
+* http://inform7.com/teach/[Teach with Inform^] -- Inform7's website educational resources page.
+* http://inform7.com/news/category/education/[inform7.com/news/category/education^^] -- Inform7 News Section, «Education» category. RSS Feed subscription available.
+* https://emshort.blog/how-to-play/teaching-if/[Teaching IF^] -- a list of IF courses in schools, curated by Emily Short.
+* https://gamingthepast.net/simulation-design/[Gaming The Past » Interactive Texts^] -- A repository for theory, research , and implementations of simulation games for history education. Created and maintained by Jeremiah McCall. Offers Inform 7 and Twine resources.
+* http://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons, created by educators for students and the classroom. Freely reusable material.
+
+=== Examples
+
+* http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm[Viking Studies Course Materials^] -- Includes various IF story files (30+). http://www.gettysburg.edu/[Gettysburg College^] (Gettysburg, PA).
+* https://web.archive.org/web/20140815075654/http://cle.usu.edu/CLE_IF_VOSR.html[Voices of Spoon River^] -- An instructional IF game based by Creative Learning Environments Lab (Utah State University), based on Edgar Lee Masters' _The Spoon River Anthology_. (see also, http://www.ifwiki.org/index.php/Voices_of_Spoon_River[IF Wiki » Voices of Spoon River^])
+
+=== Books
+
+* https://www.routledge.com/Gaming-the-Past-Using-Video-Games-to-Teach-Secondary-History/McCall/p/book/9780415887601[Gaming the Past: Using Video Games to Teach Secondary History^] -- by https://en.wikipedia.org/wiki/Jeremiah_McCall[Jeremiah McCall^]. New York: Routledge, 2011. Available in paperback, hardback and digital editions (https://www.amazon.com/Gaming-Past-Using-Secondary-History-ebook/dp/B007NYFQUA/ref=mt_kindle?_encoding=UTF8&me=[Kindle^]).
+
+=== Whitepapers and Guides
+
+* https://gamingthepast.net/theory-practice/my-work/mccall-informpaper/[Student-designed text-based simulation games for learning history: A practical approach to using Inform 7 in the history classroom^] -- by Jeremiah McCall (CC BY-NC-SA 3.0 US).
+
+=== Articles and Academic Papers
+
+* http://ldm.sagepub.com/content/3/4/519[Interactive Fiction: '`New Literacy`' Learning Opportunities for Children^] -- by Deborah Kozdras, Denise Marie Haunstetter, and James R. King (2006), E-Learning, 3(4), pp. 519-533.
+* http://inform7.com/teach/downloads/Goethe.pdf[Goethe's "`Elective Affinities`" as E-Learning: Developing Exercises for German Classes in the Secondary School Level 2^] -- by Wiebke Schwelgengraber, Mario Donick, and Franziska Schonfeld, presented at the E-Learning Baltics 2009 Conference.
+* http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-037.pdf[Mixing Story and Simulation in Interactive Narrative^] -- Mark O. Riedl, Andrew Stern, Don Dini.
+

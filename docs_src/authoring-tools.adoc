@@ -1,0 +1,142 @@
+=== IF Authoring Tools
+
+==== ADRIFT
+
+* http://www.adrift.co/[www.adrift.co^]
+
+ADRIFT (Adventure Development & Runner -- Interactive Fiction Toolkit) is a GUI driven IF development system for Windows, allowing to create text adventures via dialog boxes and GUI controls instead of writing code. Supports graphics and sounds.
+
+Developed by Campbell Wild since 1997, ADRIFT Developer (formerly called Adventure Generator) used to be a commercial product, but since 2011 has been released as freeware.
+
+There are different versions of ADRIFT, and an adventure created with a specific version of ADRIFT Developer needs to be played with the same version of ADRIFT Runner:
+
+* *ADRIFT 5.0* (2011–)
+* *ADRIFT 4.0* (2002–2012)
+* *ADRIFT 3.9* (2001)
+* *ADRIFT 2.0* (aka Adventure Generator, 1997) -- legacy 16-bit DOS app
+
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
+* https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
+
+==== Aiee!
+
+* http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
+
+Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
+
+==== Alan
+
+* http://www.alanif.se/[www.alanif.se^]
+
+Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
+
+Alan was created in 1985 by Thomas Nilsson and Göran Forslund, and is actively maintained by Thomas Nilsson. The latest version is *Alan 3*.
+
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
+
+==== Curveship
+
+* http://curveship.com/[curveship.com^]
+
+==== Hugo
+
+* http://www.generalcoffee.com/[www.generalcoffee.com^]
+
+==== Inform 6
+
+* http://inform-fiction.org/[inform-fiction.org^]
+
+See also:
+
+* link:#inform-6-2[Inform 6 Free eBooks]
+* link:#inform-6-3[Inform 6 Cheat Sheets]
+
+==== Inform 7
+
+* http://inform7.com/[inform7.com^]
+
+Based on natural language.
+
+See also:
+
+* link:#inform-7-3[Inform 7 Commercial Books]
+* link:#inform-7-2[Inform 7 Free eBooks]
+* link:#inform-7-4[Inform 7 Tutorials]
+* link:#inform-7-5[Inform 7 Cheat Sheets]
+
+Online tools:
+
+* http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
+
+==== Ink
+
+* https://github.com/inkle/ink[github.com/inkle/ink^]
+
+==== T.A.B.
+
+* http://tab.thinbasic.com/[tab.thinbasic.com^]
+
+T.A.B. (ThinBASIC Adventure Builder).
+
+For more information, see also:
+
+==== TADS
+
+* http://www.tads.org[www.tads.org^]
+
+TADS (Text Adventure Development System).
+
+==== Tuvi
+
+* https://github.com/jaywengrow/tuvi[github.com/jaywengrow/tuvi^]
+
+==== Twine
+
+* http://twinery.org/[twinery.org^]
+
+See also:
+
+* link:#twine-2[Twine commercial books]
+
+==== Undum
+
+* http://undum.com/[undum.com^]
+
+==== Varytale
+
+* http://varytale.com/books/[varytale.com/books^]
+
+==== Versu
+
+* http://versu.com/[versu.com^]
+
+==== Yarn
+
+* https://github.com/infiniteammoinc/Yarn[github.com/infiniteammoinc/Yarn^]
+
+==== Yarn Spinner
+
+* https://github.com/thesecretlab/YarnSpinner[github.com/thesecretlab/YarnSpinner^]
+
+=== IF Authoring Tools in Spanish
+
+==== Superglús
+
+* http://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
+* https://github.com/Utodev/Superglus[github.com/Utodev/Superglus^]
+
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/Supergl%C3%BAs[IFWiki » Superglús^]
+* https://es.wikipedia.org/wiki/Supergl%C3%BAs[Wikipedia (ES) » Superglús^]
+
+=== IF Authoring Tools in Italian
+
+==== Confabula
+
+* https://github.com/Silvan87/Confabula[github.com/Silvan87/Confabula^]
+

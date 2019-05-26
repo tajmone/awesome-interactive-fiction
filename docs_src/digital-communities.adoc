@@ -1,0 +1,27 @@
+== Digital Communities
+
+=== Newsgroups and Mailing Lists
+
+==== English
+
+* https://groups.google.com/forum/#!forum/rec.arts.int-fiction[rec.arts.int-fiction^] (Google Groups) -- Discussions about interactive fiction.
+* https://groups.google.com/forum/#!forum/rec.games.int-fiction[rec.games.int-fiction^] (Google Groups) -- All aspects of interactive fiction games.
+
+==== Italian
+
+* https://groups.google.com/forum/#!forum/it.comp.giochi.avventure.testuali[it.comp.giochi.avventure.testuali^] (Google Groups)
+
+=== MUDs
+
+==== ifMUD
+
+* http://ifmud.port4000.com/[ifmud.port4000.com^]
+* http://ifmud.port4000.com:4002/bui[ifmud.port4000.com:4002/bui^] (web client)
+
+Since 1997 the *ifMUD* (_a MUD forever voyaging_) has been a gathering point for the IF community.
+
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/IfMUD[IFWiki » ifMUD^]
+* https://en.wikipedia.org/wiki/IfMUD[Wikipedia » ifMUD^]
+
