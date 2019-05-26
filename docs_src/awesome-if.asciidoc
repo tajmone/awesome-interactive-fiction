@@ -46,9 +46,9 @@ include::intro-material.adoc[]
 
 == Software
 
-include::authoring-tools.adoc[]
-include::interpreters.adoc[]
-include::mapping-tools.adoc[]
+include::software-authoring.adoc[]
+include::software-terps.adoc[]
+include::software-mapping.adoc[]
 
 include::standards-and-specs.adoc[]
 include::collections.adoc[]
