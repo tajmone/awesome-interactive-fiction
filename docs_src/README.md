@@ -1,6 +1,9 @@
-# Awesome IF Source Files
+# Awesome IF, Source Files
 
-The AsciiDoc sources and assets to build the main README and its HTML version.
+The AsciiDoc sources and assets to build the main README and its HTML version:
+
+- [`../README.adoc`][README]
+- [`../docs/index.html`][index]
 
 
 -----
@@ -14,6 +17,7 @@ The AsciiDoc sources and assets to build the main README and its HTML version.
 - [System Requirements](#system-requirements)
 - [Credits](#credits)
     - [Asciidoctor Extensions Lab](#asciidoctor-extensions-lab)
+- [Reference Links](#reference-links)
 
 <!-- /MarkdownTOC -->
 
@@ -23,11 +27,21 @@ The AsciiDoc sources and assets to build the main README and its HTML version.
 
 For maintainability, the `README.adoc` document in the root is built from multiple AsciiDoc source files, by preprocessing them via the `asciidoc-coalescer.rb` script. Working on one-file-per-section is easier than editing a single long document.
 
+The AsciiDoc source file:
+
+- [`awesome-if.asciidoc`][awesome-if]
+
+will be converted (via [`build.sh`][build]) to:
+
+- [`../README.adoc`][README] — single-file preprocessed ADoc, for preview on [repository landing page].
+- [`../docs/index.html`][index] — [WWW version], served via GitHub pages.
+
+
 # Folder Contents
 
 - [`build.sh`][build] — conversion script.
 - [`asciidoc-coalescer.rb`][coalescer.rb] — script to create a preprocessed AsciiDoc file.
-- [`awesome-if.asciidoc`][awesome-if] — main AsciiDoc file of the awesome list, will include other files at build time:
+- [`awesome-if.asciidoc`][awesome-if] — main AsciiDoc file of the awesome list, will [`include::`][§28] other files at build time:
     + `*.adoc` — each file a section of the awesome list.
 
 
@@ -71,19 +85,35 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
+
+# Reference Links
+
+- [Asciidoctor User Manual]
+
 <!-----------------------------------------------------------------------------
                                REFERENCE LINKS
 ------------------------------------------------------------------------------>
 
+[WWW version]: https://github.com/tajmone/awesome-interactive-fiction/ "Visit the Awesome IF website"
+[repository landing page]: https://github.com/tajmone/awesome-interactive-fiction/ "Go to Awesome IF main repository page"
+
+<!-- 3rd party -->
+
 [Asciidoctor]: https://asciidoctor.org/
 
 [65d3d8b]: https://github.com/asciidoctor/asciidoctor-extensions-lab/commit/65d3d8bc02d70c0d100a06d65b7e63b5a5e17969
+
+<!-- Asciidoctor documentation -->
+
+[Asciidoctor User Manual]: https://asciidoctor.org/docs/user-manual/ "Go to the Asciidoctor Manual"
+[§28]: https://asciidoctor.org/docs/user-manual/#include-directive "Read Asciidoctor Manual » §28. Include Directive"
 
 <!-- project files -->
 
 [awesome-if]: ./awesome-if.asciidoc
 [build]: ./build.sh
 [coalescer.rb]: ./asciidoc-coalescer.rb
-
+[README]: ../README.adoc "View the output AsciiDoc file"
+[index]: ../docs/index.html "View the output HTML file"
 
 <!-- EOF -->
