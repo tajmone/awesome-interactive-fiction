@@ -50,6 +50,7 @@ Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently main
 toc::[]
 '''
 
+// Introductiory Material
 
 :leveloffset: +1
 
@@ -67,9 +68,9 @@ Newcomers to Interactive Fiction will find these links helpful:
 
 :leveloffset!:
 
-== Software
+// Software & Specs
 
-:leveloffset: +2
+:leveloffset: +1
 
 = IF Authoring Tools
 
@@ -264,7 +265,7 @@ For more information, see also:
 
 :leveloffset!:
 
-:leveloffset: +2
+:leveloffset: +1
 
 = Interpreters
 
@@ -306,7 +307,7 @@ For more information, see also:
 
 :leveloffset!:
 
-:leveloffset: +2
+:leveloffset: +1
 
 = Mappping Tools
 
@@ -354,7 +355,6 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 
 
 :leveloffset!:
-
 
 :leveloffset: +1
 
@@ -499,6 +499,8 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 :leveloffset!:
 
+// Collections, Blogs & Competitions
+
 :leveloffset: +1
 
 = Collections
@@ -542,6 +544,8 @@ For more info, see:
 
 
 :leveloffset!:
+
+// Learning & Teaching
 
 :leveloffset: +1
 
@@ -727,6 +731,8 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 
 :leveloffset!:
+
+// Social & Events
 
 :leveloffset: +1
 

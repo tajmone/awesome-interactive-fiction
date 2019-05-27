@@ -59,19 +59,21 @@ toc::[]
 '''
 endif::[]
 
+// Introductiory Material
 
 include::intro-material.adoc[leveloffset=+1]
 
-== Software
+// Software & Specs
 
-include::software-authoring.adoc[leveloffset=+2]
+include::authoring-tools.adoc[leveloffset=+1]
 
-include::software-terps.adoc[leveloffset=+2]
+include::interpreters.adoc[leveloffset=+1]
 
-include::software-mapping.adoc[leveloffset=+2]
-
+include::mapping-tools.adoc[leveloffset=+1]
 
 include::standards-and-specs.adoc[leveloffset=+1]
+
+// Collections, Blogs & Competitions
 
 include::collections.adoc[leveloffset=+1]
 
@@ -79,9 +81,13 @@ include::blogs.adoc[leveloffset=+1]
 
 include::competitions.adoc[leveloffset=+1]
 
+// Learning & Teaching
+
 include::learning-resources.adoc[leveloffset=+1]
 
 include::teaching-and-education.adoc[leveloffset=+1]
+
+// Social & Events
 
 include::social-events.adoc[leveloffset=+1]
 
