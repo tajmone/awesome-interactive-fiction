@@ -1,4 +1,4 @@
-== Blogs
+= Blogs
 
 * http://planet-if.com[Planet IF^] -- Aggregation of posts from 60+ IF blogs
 * http://storycade.com[Storycade^]

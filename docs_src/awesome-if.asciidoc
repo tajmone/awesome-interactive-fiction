@@ -57,21 +57,31 @@ toc::[]
 endif::[]
 
 
-include::intro-material.adoc[]
+include::intro-material.adoc[leveloffset=+1]
 
 == Software
 
-include::software-authoring.adoc[]
-include::software-terps.adoc[]
-include::software-mapping.adoc[]
+include::software-authoring.adoc[leveloffset=+2]
 
-include::standards-and-specs.adoc[]
-include::collections.adoc[]
-include::blogs.adoc[]
-include::competitions.adoc[]
-include::learning-resources.adoc[]
-include::teaching-and-education.adoc[]
-include::social-events.adoc[]
-include::digital-communities.adoc[]
+include::software-terps.adoc[leveloffset=+2]
+
+include::software-mapping.adoc[leveloffset=+2]
+
+
+include::standards-and-specs.adoc[leveloffset=+1]
+
+include::collections.adoc[leveloffset=+1]
+
+include::blogs.adoc[leveloffset=+1]
+
+include::competitions.adoc[leveloffset=+1]
+
+include::learning-resources.adoc[leveloffset=+1]
+
+include::teaching-and-education.adoc[leveloffset=+1]
+
+include::social-events.adoc[leveloffset=+1]
+
+include::digital-communities.adoc[leveloffset=+1]
 
 // EOF //

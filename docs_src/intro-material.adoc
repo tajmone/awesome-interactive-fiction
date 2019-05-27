@@ -1,4 +1,4 @@
-== Introductory Material
+= Introductory Material
 
 Newcomers to Interactive Fiction will find these links helpful:
 

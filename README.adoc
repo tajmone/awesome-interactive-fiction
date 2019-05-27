@@ -52,8 +52,9 @@ toc::[]
 '''
 
 
+:leveloffset: +1
 
-== Introductory Material
+= Introductory Material
 
 Newcomers to Interactive Fiction will find these links helpful:
 
@@ -65,11 +66,15 @@ Newcomers to Interactive Fiction will find these links helpful:
 * http://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
 
 
+:leveloffset!:
+
 == Software
 
-=== IF Authoring Tools
+:leveloffset: +2
 
-==== ADRIFT
+= IF Authoring Tools
+
+== ADRIFT
 
 * http://www.adrift.co/[www.adrift.co^]
 
@@ -89,13 +94,13 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
 * https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
 
-==== Aiee!
+== Aiee!
 
 * http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
 
 Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
 
-==== Alan
+== Alan
 
 * http://www.alanif.se/[www.alanif.se^]
 
@@ -107,15 +112,15 @@ For more information, see also:
 
 * http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
 
-==== Curveship
+== Curveship
 
 * http://curveship.com/[curveship.com^]
 
-==== Hugo
+== Hugo
 
 * http://www.generalcoffee.com/[www.generalcoffee.com^]
 
-==== Inform 6
+== Inform 6
 
 * http://inform-fiction.org/[inform-fiction.org^]
 
@@ -124,7 +129,7 @@ See also:
 * link:#inform-6-2[Inform 6 Free eBooks]
 * link:#inform-6-3[Inform 6 Cheat Sheets]
 
-==== Inform 7
+== Inform 7
 
 * http://inform7.com/[inform7.com^]
 
@@ -141,11 +146,11 @@ Online tools:
 
 * http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
 
-==== Ink
+== Ink
 
 * https://github.com/inkle/ink[github.com/inkle/ink^]
 
-==== T.A.B.
+== T.A.B.
 
 * http://tab.thinbasic.com/[tab.thinbasic.com^]
 
@@ -153,17 +158,17 @@ T.A.B. (ThinBASIC Adventure Builder).
 
 For more information, see also:
 
-==== TADS
+== TADS
 
 * http://www.tads.org[www.tads.org^]
 
 TADS (Text Adventure Development System).
 
-==== Tuvi
+== Tuvi
 
 * https://github.com/jaywengrow/tuvi[github.com/jaywengrow/tuvi^]
 
-==== Twine
+== Twine
 
 * http://twinery.org/[twinery.org^]
 
@@ -171,29 +176,29 @@ See also:
 
 * link:#twine-2[Twine commercial books]
 
-==== Undum
+== Undum
 
 * http://undum.com/[undum.com^]
 
-==== Varytale
+== Varytale
 
 * http://varytale.com/books/[varytale.com/books^]
 
-==== Versu
+== Versu
 
 * http://versu.com/[versu.com^]
 
-==== Yarn
+== Yarn
 
 * https://github.com/infiniteammoinc/Yarn[github.com/infiniteammoinc/Yarn^]
 
-==== Yarn Spinner
+== Yarn Spinner
 
 * https://github.com/thesecretlab/YarnSpinner[github.com/thesecretlab/YarnSpinner^]
 
-=== IF Authoring Tools in Spanish
+= IF Authoring Tools in Spanish
 
-==== Superglús
+== Superglús
 
 * http://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
 * https://github.com/Utodev/Superglus[github.com/Utodev/Superglus^]
@@ -203,50 +208,60 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/Supergl%C3%BAs[IFWiki » Superglús^]
 * https://es.wikipedia.org/wiki/Supergl%C3%BAs[Wikipedia (ES) » Superglús^]
 
-=== IF Authoring Tools in Italian
+= IF Authoring Tools in Italian
 
-==== Confabula
+== Confabula
 
 * https://github.com/Silvan87/Confabula[github.com/Silvan87/Confabula^]
 
-=== Interpreters
 
-==== Cross Platform
+:leveloffset!:
+
+:leveloffset: +2
+
+= Interpreters
+
+== Cross Platform
 
 * https://fizmo.spellbreaker.org/[Fizmo^] -- a generic Z-Machine interpreter-development library in plain C, used in various interpreters. Supports Z-code (1-5, 7 and 8).
 * http://frotz.sourceforge.net/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
 * http://ccxvii.net/gargoyle/[Gargoyle^] -- for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
-==== macOS
+== macOS
 
 * http://ccxvii.net/spatterlight/[Spatterlight^] -- story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
 * http://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
 
-==== MS Windows
+== MS Windows
 
 * http://www.davidkinder.co.uk/glulxe.html[Windows Glulxe^]
 * http://www.davidkinder.co.uk/frotz.html[Windows Frotz^]
 
-==== Mobile Devices
+== Mobile Devices
 
-===== Andorid
+=== Andorid
 
 * https://bitbucket.org/sussman/twisty[Twisty^] -- supports Z-code and Glulx story files.
 * http://www.onyxbits.de/textfiction[Text Fiction^] -- supports Z-code (3, 5 and 8) story files.
 
-===== iPhone
+=== iPhone
 
 * https://itunes.apple.com/us/app/frotz/id287653015[iPhone Frotz^]
 
-===== PalmOS
+=== PalmOS
 
 * http://zodiacstuff.sourceforge.net/clifrotz.html[CliFrotz^]
 
-==== In-Browser Players
+== In-Browser Players
 
 * https://github.com/curiousdannii/parchment[Parchment^] -- written in JavaScript, supports Z-Machine story files.
 
-=== Mappping Tools
+
+:leveloffset!:
+
+:leveloffset: +2
+
+= Mappping Tools
 
 Traditionally, IF maps are represented by boxes connected by lines, representing the various rooms and their directions connections. They are intended to represent movements in the adventure world locations, not a physical representation of its geography -- but sometimes «realistic» maps are provided with the game feelies, for aesthetic reasons.
 
@@ -256,16 +271,16 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The IF Archive » Mapping Tools^]
 
-==== Cross Platform
+== Cross Platform
 
 * https://rubygems.org/gems/ifmapper/versions/1.3.1[IFMapper^] -- A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF. (http://ggarra13.github.io/ifmapper/en/start.html[Online Manual^] | https://github.com/ggarra13/ifmapper[GitHub^])
 * http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip[`SVGmaps.zip`] (2008) -- A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
-==== macOS
+== macOS
 
 * Cocoa Mapre (2004) -- (http://www.ifarchive.org/if-archive/mapping-tools/cocoa_mapre0.6.7.dmg[`cocoa_mapre0.6.7.dmg`]) A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
-==== MS Windows
+== MS Windows
 
 * http://autorealm.sourceforge.net/[AutoREALM^] (2006) -- A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
 * https://secure.profantasy.com/products/cc3-plus.asp[Campaign Cartographer^] -- A commercial tool for drawing fantasy-style terrain maps -- not the classic rooms/directions-based diagram IF maps, but ancient-looking «realistic» full-color maps, with villages, lakes, sea, forests. Execellent for creating feelies maps.
@@ -277,21 +292,26 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The Mapper^] (1994) -- Automapping tool -- comes as a `.COM` executable format. Can't execute on modern versions of Windows.
 * http://trizbort.genstein.net/[Trizbort^] -- For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Requires .NET 2.0.
 
-==== Linux/*nix
+== Linux/*nix
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Adventure Map Utility^] (1994) -- A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
 * http://www.ifarchive.org/if-archive/mapping-tools/asciimapper[asciimapper^] (2005) -- A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[ifm2i7^] (2008) -- A Perl program to convert maps in IFM format to Inform 7 source code.
 * http://www.ifarchive.org/if-archive/mapping-tools/informap.perl[informap^] (1999) -- A perl script that draws maps out of Inform source code.
 
-==== Mobile Devices
+== Mobile Devices
 
-===== PalmOS
+=== PalmOS
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
 
 
-== Standards and Specifications
+:leveloffset!:
+
+
+:leveloffset: +1
+
+= Standards and Specifications
 
 * <<Files Extensions and Formats>>
 * <<Story Files by Extensions>>
@@ -299,14 +319,14 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 * <<Other IF File Extensions>>
 * <<Virtual Machines>>
 
-=== Files Extensions and Formats
+== Files Extensions and Formats
 
 For a full list of IF story files extensions, see:
 
 * http://www.ifwiki.org/index.php/List_of_file_extensions[IFWiki » List of file extensions^]
 * http://ifdb.tads.org/fileformat[IFDB » File Formats^]
 
-=== Story Files by Extensions
+== Story Files by Extensions
 
 IF story files are distributed with different file extensions, depending on the IF authoring system used to create them and/or the output format the story has been compiled/converted to (in case of authoring systems that support multiple output formats, like Inform7, or when story files are converted from an old format to a newer one).
 
@@ -344,7 +364,7 @@ The following table resumes the most common story file extensions.
 | .zlb      | Z-machine story file in a Blorb wrapper.
 |===============================================================================
 
-=== Source Files by Extensions
+== Source Files by Extensions
 
 The following table resumes some common extensions used by IF authoring systems as source, headers or resource files. In some IF authoring systems, the source code file and the story file distributed for playing are one and the same.
 
@@ -366,7 +386,7 @@ The following table resumes some common extensions used by IF authoring systems 
 | .zil      | ZIL source code.
 |===============================================================================
 
-=== Other IF File Extensions
+== Other IF File Extensions
 
 The following table resumes some other common file extensions related to IF that don't belong to any of the previous categories.
 
@@ -378,9 +398,9 @@ The following table resumes some other common file extensions related to IF that
 | .t3v | <<TADS,TADS 3>> saved game file.
 |===============================================================================
 
-=== Virtual Machines
+== Virtual Machines
 
-==== Z-machine
+=== Z-machine
 
 The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
 Originally developed in 1979 by Joel Berez and Marc Blank, it was later on decoded and reimplemented in the mid-1990s as an open standard by IF fans wishing to revive the genre and play the original Infocom adventures.
@@ -393,7 +413,7 @@ The Z-machine is a 16 bit virtual machine.
 * https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
 
 
-==== Glulx
+=== Glulx
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
@@ -402,7 +422,7 @@ Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 * https://en.wikipedia.org/wiki/Glulx[Glulx at Wikipedia^]
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
 
-===== Glulx VM interpreters
+==== Glulx VM interpreters
 
 * https://github.com/erkyrath/glulxe[Glulxe^] -- by Andrew Plotkin; written in C, hosted on GitHub.
 
@@ -410,18 +430,18 @@ More Glulx interpreters are listed at the IF Archive dedicated section:
 
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
 
-===== Glulx Manuals and References
+==== Glulx Manuals and References
 
 * http://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
 * http://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
 
-===== Glulx Tools
+==== Glulx Tools
 
 More Glulx tools are listed at the IF Archive dedicated section:
 
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
 
-==== T3 VM
+=== T3 VM
 
 The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
@@ -429,12 +449,22 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 * http://www.tads.org/t3spec/intro.htm[T3 VM specs at TADS website^]
 
 
-== Collections
+
+:leveloffset!:
+
+:leveloffset: +1
+
+= Collections
 
 * http://www.ifdb.tads.org[Interaction Fiction Database^]
 * http://www.ifarchive.org[The Interaction Fiction Archive^]
 
-== Blogs
+
+:leveloffset!:
+
+:leveloffset: +1
+
+= Blogs
 
 * http://planet-if.com[Planet IF^] -- Aggregation of posts from 60+ IF blogs
 * http://storycade.com[Storycade^]
@@ -442,23 +472,33 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 * https://inkypath.wordpress.com/[Inky Path^] -- Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
 * http://brasslantern.org/[Brass Lantern^]
 
-== Competitions & Awards
+
+:leveloffset!:
+
+:leveloffset: +1
+
+= Competitions & Awards
 
 For more info, see:
 
 * http://www.ifwiki.org/index.php/Category:Competitions[IFWiki » Competitions^]
 * http://wiki.caad.es/Categor%C3%ADa:Competiciones[WikiCAAD (ES) » Competiciones^]
 
-=== Annual Competitions
+== Annual Competitions
 
 * http://www.ifcomp.org[The Interactive Fiction Competition (IFComp)^] -- since 1995.
 * http://springthing.net[Spring Thing Festival of Interactive Fiction^] -- since 2002.
 
-=== Annual Awards
+== Annual Awards
 
 * http://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
 
-== IF Learning Resources
+
+:leveloffset!:
+
+:leveloffset: +1
+
+= IF Learning Resources
 
 * <<Magazines>>
 * <<Free eBooks>>
@@ -472,67 +512,67 @@ For more learning resources, see also:
 * https://emshort.blog/how-to-play/writing-if/books-and-other-resources/[Emily Short's Blog » Books and Other Resources^]
 
 
-=== Magazines
+== Magazines
 
 
 See also:
 
 * https://www.ifarchive.org/indexes/if-archiveXmagazines.html[IF Archive section on magazines^]
 
-==== Discoverer's Digest
+=== Discoverer's Digest
 
 The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorship, and exploring the possibilities of the medium. -- everything from artistic mapping techniques to hooking your IF through a browser-based GPS system for IF in the real world!
 
 * http://discdigest.xyz[http://discdigest.xyz^]
 * https://www.ifarchive.org/indexes/if-archiveXmagazinesXDiscoverersDigest.html[_Discoverer's Digest_ issues at IF Archive^]
 
-=== Free eBooks
+== Free eBooks
 
-==== IF History
+=== IF History
 
 * http://maher.filfre.net/if-book/[Let's Tell a Story Together^] -- by Jimmy Maher, 2006. Readable online or downloadable in ePub or Mobipocket.
 * https://www.filfre.net/the-digital-antiquarian-e-book-library/[The Digital Antiquarian^] -- Jimmy Maher's blog articles downloadble as yearly volumes, in ePub or Mobipocket.
 
-==== IF Theory
+=== IF Theory
 
 * http://davidfisher.info/if/gems/[IF Gems^] -- A selection of quotes from reviews of the http://www.ifcomp.org/[annual Interactive Fiction competition^] (1995–2005), compiled by David Fisher; 183pp (PDF).
 * http://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html[IF Theory Reader^] -- by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1[Kindle edition^].
 
-==== Inform 6
+=== Inform 6
 
 * http://inform-fiction.org/manual/about_ibg.html[The Inform Beginner's Guide^] -- by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
 ** Italian » http://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html[Guida a Inform per Principianti^]
 * http://inform-fiction.org/manual/about_dm4.html[The Inform Designer's Manual^] (DM4) -- by Graham Nelson, 2001; 572pp. Also available as paperback and http://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm[Microsoft CHM eBook].
 
-==== Inform 7
+=== Inform 7
 
 * http://www.musicwords.net/if/i7hb.htm[The Inform 7 Handbook^] -- by Jim Aikin, 2015; 518pp.
 
-==== PAW
+=== PAW
 
 * https://gilsoftpawreservoir.wordpress.com/2013/07/29/feature-the-paw-programming-bible/[The PAW Programming Bible^] -- by AAVV, 2014; 333pp.
 
-=== Commercial Books
+== Commercial Books
 
-==== IF History
+=== IF History
 
 * http://nickm.com/twisty/[Twisty Little Passages^] -- by Nick Montfort, 2005; 328pp, paperback or hardback.
 
-==== Inform 7
+=== Inform 7
 
 * http://inform7.textories.com/[Creating Interactive Fiction with Inform 7^] -- by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
 
-==== Twine
+=== Twine
 
 * http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/[Writing Interactive Fiction with Twine^] -- by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
 
-=== Documentaries
+== Documentaries
 
 * http://www.getlamp.com[Get Lamp^]
 
-=== Tutorials
+== Tutorials
 
-==== IF Authoring Guides
+=== IF Authoring Guides
 
 * http://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf[The Craft of the Adventure^] (2nd Ed) -- by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
 * http://inform-fiction.org/manual/html/ch8.html[_The Craft of the Adventure_^] (Ch.VIII of DM4) -- by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
@@ -567,7 +607,7 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 * http://www.scottkim.com/[Scott Kim website homepage^]
 * http://www.scottkim.com.previewc40.carrierzone.com/thinkinggames/[articles on game-design^]
 
-==== Designing IF Authoring Systems
+=== Designing IF Authoring Systems
 
 * http://www.wolldingwacht.de/if/if-auth-dev-guide.html[The Interactive Fiction Authoring System Developer's Guide^] -- by Peer Schaefer, 2005; 24pp, PDF. A document for programmers who want to create a development system for IF, covering the most important aspects that the developer should consider, and the most important pitfalls he should avoid.
 * https://www.ifarchive.org/if-archive/magazines/XYZZYnews/XYZZY14.PDF[_So you want to write a text adventuring authoring system…_^] -- by Alan Conroy, in *XYZZYnews* issue +++#14+++, 1998. In this 6 pages article, Alan Conroy discusses how he developed an adventure authoring system named Adventure Builder and the issues involved with writing your own. (https://www.ifarchive.org/if-archive/magazines/XYZZYnews/XYZZY14.TXT[TXT version^])
@@ -577,7 +617,7 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 ** http://www.ifwiki.org/index.php/Past_raif_topics:_Game_Mechanics:_part_1#Game_physics_.2F_world_model[Game physics / world model^]
 * http://inform-fiction.org/manual/html/s24.html[DM4 » §24 The world model described^] -- _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
 
-==== Inform 7
+=== Inform 7
 
 * http://www.ifwiki.org/index.php/Inform_7_for_Programmers[Inform 7 for Programmers^] -- by Ron Newcomb, 2009 (`i7_5U92`); multipart tutorial at IFWiki (HTML).
 * http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf[Inform 7 Programmer's Manual^] -- by Ron Newcomb, 2011 (`i7_6G60`); 81pp, PDF.
@@ -585,18 +625,23 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 * http://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons.
 * https://emshort.blog/2009/06/24/exercises-in-generated-prose/[Exercises in Generated Prose^] -- by Emily Short, 2009; blog entry.
 
-=== Cheat Sheets and Reference Docs
+== Cheat Sheets and Reference Docs
 
-==== Inform 6
+=== Inform 6
 
 * http://www.firthworks.com/roger/downloads/informqr.zip[Inform in four minutes] -- by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
 * http://www.firthworks.com/roger/downloads/inflibqr.zip[InfoLib at your fingertips] -- by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
 
-==== Inform 7
+=== Inform 7
 
 * http://inform7.com/learn/documents/Rules%20Chart.pdf[The Chart of Rules^] -- Visual guide to Inform's rules and rulebooks (PDF).
 
-== IF for Teaching and Education
+
+:leveloffset!:
+
+:leveloffset: +1
+
+= IF for Teaching and Education
 
 Interactive Fiction has been employed in the classroom as a teaching aid in various fields: reading, foreign languages, litterature, history, computer programming, game design, and new media theory.
 
@@ -606,7 +651,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 * <<Whitepapers and Guides>>
 * <<Articles and Academic Papers>>
 
-=== Online Resources
+== Online Resources
 
 * http://inform7.com/teach/[Teach with Inform^] -- Inform7's website educational resources page.
 * http://inform7.com/news/category/education/[inform7.com/news/category/education^^] -- Inform7 News Section, «Education» category. RSS Feed subscription available.
@@ -614,49 +659,59 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 * https://gamingthepast.net/simulation-design/[Gaming The Past » Interactive Texts^] -- A repository for theory, research , and implementations of simulation games for history education. Created and maintained by Jeremiah McCall. Offers Inform 7 and Twine resources.
 * http://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons, created by educators for students and the classroom. Freely reusable material.
 
-=== Examples
+== Examples
 
 * http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm[Viking Studies Course Materials^] -- Includes various IF story files (30+). http://www.gettysburg.edu/[Gettysburg College^] (Gettysburg, PA).
 * https://web.archive.org/web/20140815075654/http://cle.usu.edu/CLE_IF_VOSR.html[Voices of Spoon River^] -- An instructional IF game based by Creative Learning Environments Lab (Utah State University), based on Edgar Lee Masters' _The Spoon River Anthology_. (see also, http://www.ifwiki.org/index.php/Voices_of_Spoon_River[IF Wiki » Voices of Spoon River^])
 
-=== Books
+== Books
 
 * https://www.routledge.com/Gaming-the-Past-Using-Video-Games-to-Teach-Secondary-History/McCall/p/book/9780415887601[Gaming the Past: Using Video Games to Teach Secondary History^] -- by https://en.wikipedia.org/wiki/Jeremiah_McCall[Jeremiah McCall^]. New York: Routledge, 2011. Available in paperback, hardback and digital editions (https://www.amazon.com/Gaming-Past-Using-Secondary-History-ebook/dp/B007NYFQUA/ref=mt_kindle?_encoding=UTF8&me=[Kindle^]).
 
-=== Whitepapers and Guides
+== Whitepapers and Guides
 
 * https://gamingthepast.net/theory-practice/my-work/mccall-informpaper/[Student-designed text-based simulation games for learning history: A practical approach to using Inform 7 in the history classroom^] -- by Jeremiah McCall (CC BY-NC-SA 3.0 US).
 
-=== Articles and Academic Papers
+== Articles and Academic Papers
 
 * http://ldm.sagepub.com/content/3/4/519[Interactive Fiction: '`New Literacy`' Learning Opportunities for Children^] -- by Deborah Kozdras, Denise Marie Haunstetter, and James R. King (2006), E-Learning, 3(4), pp. 519-533.
 * http://inform7.com/teach/downloads/Goethe.pdf[Goethe's "`Elective Affinities`" as E-Learning: Developing Exercises for German Classes in the Secondary School Level 2^] -- by Wiebke Schwelgengraber, Mario Donick, and Franziska Schonfeld, presented at the E-Learning Baltics 2009 Conference.
 * http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-037.pdf[Mixing Story and Simulation in Interactive Narrative^] -- Mark O. Riedl, Andrew Stern, Don Dini.
 
-== Social Events
 
-=== Conferences
+:leveloffset!:
 
-=== Meetups
+:leveloffset: +1
+
+= Social Events
+
+== Conferences
+
+== Meetups
 
 * http://themade.org/events[Museum of Art and Digital Entertainment's Monthly Interactive Fiction Meetup^]
 
-== Digital Communities
 
-=== Newsgroups and Mailing Lists
+:leveloffset!:
 
-==== English
+:leveloffset: +1
+
+= Digital Communities
+
+== Newsgroups and Mailing Lists
+
+=== English
 
 * https://groups.google.com/forum/#!forum/rec.arts.int-fiction[rec.arts.int-fiction^] (Google Groups) -- Discussions about interactive fiction.
 * https://groups.google.com/forum/#!forum/rec.games.int-fiction[rec.games.int-fiction^] (Google Groups) -- All aspects of interactive fiction games.
 
-==== Italian
+=== Italian
 
 * https://groups.google.com/forum/#!forum/it.comp.giochi.avventure.testuali[it.comp.giochi.avventure.testuali^] (Google Groups)
 
-=== MUDs
+== MUDs
 
-==== ifMUD
+=== ifMUD
 
 * http://ifmud.port4000.com/[ifmud.port4000.com^]
 * http://ifmud.port4000.com:4002/bui[ifmud.port4000.com:4002/bui^] (web client)
@@ -668,5 +723,7 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/IfMUD[IFWiki » ifMUD^]
 * https://en.wikipedia.org/wiki/IfMUD[Wikipedia » ifMUD^]
 
+
+:leveloffset!:
 
 // EOF //

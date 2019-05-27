@@ -14,6 +14,7 @@ The AsciiDoc sources and assets to build the main README and its HTML version:
 
 - [Introduction](#introduction)
 - [Folder Contents](#folder-contents)
+    - [Editing Guidelines](#editing-guidelines)
 - [System Requirements](#system-requirements)
 - [Credits](#credits)
     - [Asciidoctor Extensions Lab](#asciidoctor-extensions-lab)
@@ -44,6 +45,13 @@ will be converted (via [`build.sh`][build]) to:
 - [`awesome-if.asciidoc`][awesome-if] — main AsciiDoc file of the awesome list, will [`include::`][§28] other files at build time:
     + `*.adoc` — each file a section of the awesome list.
 
+## Editing Guidelines
+
+The __Awesome IF__ document is split in multiple `*.adoc` files, each file representing a single section (Level 1, or 2) in the final document — some large sections (e.g. _Software_) are split into multiple Level 2 sections, for practical reasons.
+
+The individual `*.adoc` files are treated as standalone documents, complete with a document title (Level 0). Their heading levels are then adjusted at inclusion time via [the `leveloffset` attribute in the include directive][§28.4]. This allows to edit them without having to worry about their effective Level in the final document(s). Also, in the future the website version of __Awesome IF__ might be split into multiple HTML pages, if the document becomes too long.
+
+> __NOTE__ — Currently, trying to convert the single sections ad standalone documents is likely to fail, due to missing cross references or custom attributes definitions. In the future this might be fixed by tweaking their contents so that they might be reused in a fully standalone manner, for it might be useful to allow other projects to reuse single sections of this project in other contexts too.
 
 # System Requirements
 
@@ -88,7 +96,11 @@ THE SOFTWARE.
 
 # Reference Links
 
-- [Asciidoctor User Manual]
+A selection of direct links to Asciidoctor topics relevant to working with the __Awesome IF__ project:
+
+- [Asciidoctor User Manual]:
+    + [§28. Include Directive][§28]
+        * [§28.4. Partitioning large documents and using leveloffset][§28.4]
 
 <!-----------------------------------------------------------------------------
                                REFERENCE LINKS
@@ -107,6 +119,7 @@ THE SOFTWARE.
 
 [Asciidoctor User Manual]: https://asciidoctor.org/docs/user-manual/ "Go to the Asciidoctor Manual"
 [§28]: https://asciidoctor.org/docs/user-manual/#include-directive "Read Asciidoctor Manual » §28. Include Directive"
+[§28.4]: https://asciidoctor.org/docs/user-manual/#include-partitioning "Read Asciidoctor Manual » §28.4. Partitioning large documents and using leveloffset"
 
 <!-- project files -->
 
