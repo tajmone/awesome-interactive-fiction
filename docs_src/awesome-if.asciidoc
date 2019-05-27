@@ -61,9 +61,9 @@ include::intro-material.adoc[]
 
 == Software
 
-include::software-authoring.adoc[]
-include::software-terps.adoc[]
-include::software-mapping.adoc[]
+include::software-authoring.adoc[leveloffset=+1]
+include::software-terps.adoc[leveloffset=+1]
+include::software-mapping.adoc[leveloffset=+1]
 
 include::standards-and-specs.adoc[]
 include::collections.adoc[]

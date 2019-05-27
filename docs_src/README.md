@@ -88,7 +88,11 @@ THE SOFTWARE.
 
 # Reference Links
 
-- [Asciidoctor User Manual]
+A selection of direct links to Asciidoctor topics relevant to working with the __Awesome IF__ project:
+
+- [Asciidoctor User Manual]:
+    + [§28. Include Directive][§28]
+        * [§28.4. Partitioning large documents and using leveloffset][§28.4]
 
 <!-----------------------------------------------------------------------------
                                REFERENCE LINKS

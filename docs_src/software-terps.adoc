@@ -1,37 +1,37 @@
-=== Interpreters
+== Interpreters
 
-==== Cross Platform
+=== Cross Platform
 
 * https://fizmo.spellbreaker.org/[Fizmo^] -- a generic Z-Machine interpreter-development library in plain C, used in various interpreters. Supports Z-code (1-5, 7 and 8).
 * http://frotz.sourceforge.net/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
 * http://ccxvii.net/gargoyle/[Gargoyle^] -- for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
-==== macOS
+=== macOS
 
 * http://ccxvii.net/spatterlight/[Spatterlight^] -- story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
 * http://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
 
-==== MS Windows
+=== MS Windows
 
 * http://www.davidkinder.co.uk/glulxe.html[Windows Glulxe^]
 * http://www.davidkinder.co.uk/frotz.html[Windows Frotz^]
 
-==== Mobile Devices
+=== Mobile Devices
 
-===== Andorid
+==== Andorid
 
 * https://bitbucket.org/sussman/twisty[Twisty^] -- supports Z-code and Glulx story files.
 * http://www.onyxbits.de/textfiction[Text Fiction^] -- supports Z-code (3, 5 and 8) story files.
 
-===== iPhone
+==== iPhone
 
 * https://itunes.apple.com/us/app/frotz/id287653015[iPhone Frotz^]
 
-===== PalmOS
+==== PalmOS
 
 * http://zodiacstuff.sourceforge.net/clifrotz.html[CliFrotz^]
 
-==== In-Browser Players
+=== In-Browser Players
 
 * https://github.com/curiousdannii/parchment[Parchment^] -- written in JavaScript, supports Z-Machine story files.
 

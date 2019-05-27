@@ -1,6 +1,6 @@
-=== IF Authoring Tools
+== IF Authoring Tools
 
-==== ADRIFT
+=== ADRIFT
 
 * http://www.adrift.co/[www.adrift.co^]
 
@@ -20,13 +20,13 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
 * https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
 
-==== Aiee!
+=== Aiee!
 
 * http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
 
 Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
 
-==== Alan
+=== Alan
 
 * http://www.alanif.se/[www.alanif.se^]
 
@@ -38,15 +38,15 @@ For more information, see also:
 
 * http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
 
-==== Curveship
+=== Curveship
 
 * http://curveship.com/[curveship.com^]
 
-==== Hugo
+=== Hugo
 
 * http://www.generalcoffee.com/[www.generalcoffee.com^]
 
-==== Inform 6
+=== Inform 6
 
 * http://inform-fiction.org/[inform-fiction.org^]
 
@@ -55,7 +55,7 @@ See also:
 * link:#inform-6-2[Inform 6 Free eBooks]
 * link:#inform-6-3[Inform 6 Cheat Sheets]
 
-==== Inform 7
+=== Inform 7
 
 * http://inform7.com/[inform7.com^]
 
@@ -72,11 +72,11 @@ Online tools:
 
 * http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
 
-==== Ink
+=== Ink
 
 * https://github.com/inkle/ink[github.com/inkle/ink^]
 
-==== T.A.B.
+=== T.A.B.
 
 * http://tab.thinbasic.com/[tab.thinbasic.com^]
 
@@ -84,17 +84,17 @@ T.A.B. (ThinBASIC Adventure Builder).
 
 For more information, see also:
 
-==== TADS
+=== TADS
 
 * http://www.tads.org[www.tads.org^]
 
 TADS (Text Adventure Development System).
 
-==== Tuvi
+=== Tuvi
 
 * https://github.com/jaywengrow/tuvi[github.com/jaywengrow/tuvi^]
 
-==== Twine
+=== Twine
 
 * http://twinery.org/[twinery.org^]
 
@@ -102,29 +102,29 @@ See also:
 
 * link:#twine-2[Twine commercial books]
 
-==== Undum
+=== Undum
 
 * http://undum.com/[undum.com^]
 
-==== Varytale
+=== Varytale
 
 * http://varytale.com/books/[varytale.com/books^]
 
-==== Versu
+=== Versu
 
 * http://versu.com/[versu.com^]
 
-==== Yarn
+=== Yarn
 
 * https://github.com/infiniteammoinc/Yarn[github.com/infiniteammoinc/Yarn^]
 
-==== Yarn Spinner
+=== Yarn Spinner
 
 * https://github.com/thesecretlab/YarnSpinner[github.com/thesecretlab/YarnSpinner^]
 
-=== IF Authoring Tools in Spanish
+== IF Authoring Tools in Spanish
 
-==== Superglús
+=== Superglús
 
 * http://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
 * https://github.com/Utodev/Superglus[github.com/Utodev/Superglus^]
@@ -134,9 +134,9 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/Supergl%C3%BAs[IFWiki » Superglús^]
 * https://es.wikipedia.org/wiki/Supergl%C3%BAs[Wikipedia (ES) » Superglús^]
 
-=== IF Authoring Tools in Italian
+== IF Authoring Tools in Italian
 
-==== Confabula
+=== Confabula
 
 * https://github.com/Silvan87/Confabula[github.com/Silvan87/Confabula^]
 
