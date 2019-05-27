@@ -8,3 +8,7 @@ __*.*
 __*
 *.url
 *.lnk
+
+# Exclude local HTML previews:
+/*.html
+docs_src/*.html

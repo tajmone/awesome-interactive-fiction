@@ -46,11 +46,21 @@ endif::[]
 // *****************************************************************************
 
 ================================================================================
+[.float-group]
+--
+ifdef::IsHTML[link:https://github.com/tajmone/awesome-interactive-fiction[image:Awesome-IF.png[float="right",width=400]^,title="Awesome Interactive Fiction"]]
+ifndef::IsHTML[]
+ifndef::IsADoc[link:https://git.io/awesome-if[image:../docs/Awesome-IF.png[float="right",width=400]^,title="Awesome Interactive Fiction"]]
+ifdef::IsADoc[link:https://git.io/awesome-if[+++<img src="docs/Awesome-IF.png" align="right" width="400">+++^,title="Awesome Interactive Fiction"]]
+endif::[]
+
 A curated list of interactive fiction frameworks, tools, and resources.
 Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
 
 * https://git.io/awesome-if
 * https://github.com/tajmone/awesome-interactive-fiction/
+--
+ifdef::IsADoc[+++<br clear="all" />+++]
 ================================================================================
 
 ifdef::env-github[]
