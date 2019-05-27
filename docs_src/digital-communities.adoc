@@ -1,19 +1,19 @@
-== Digital Communities
+= Digital Communities
 
-=== Newsgroups and Mailing Lists
+== Newsgroups and Mailing Lists
 
-==== English
+=== English
 
 * https://groups.google.com/forum/#!forum/rec.arts.int-fiction[rec.arts.int-fiction^] (Google Groups) -- Discussions about interactive fiction.
 * https://groups.google.com/forum/#!forum/rec.games.int-fiction[rec.games.int-fiction^] (Google Groups) -- All aspects of interactive fiction games.
 
-==== Italian
+=== Italian
 
 * https://groups.google.com/forum/#!forum/it.comp.giochi.avventure.testuali[it.comp.giochi.avventure.testuali^] (Google Groups)
 
-=== MUDs
+== MUDs
 
-==== ifMUD
+=== ifMUD
 
 * http://ifmud.port4000.com/[ifmud.port4000.com^]
 * http://ifmud.port4000.com:4002/bui[ifmud.port4000.com:4002/bui^] (web client)

@@ -1,4 +1,4 @@
-== Standards and Specifications
+= Standards and Specifications
 
 * <<Files Extensions and Formats>>
 * <<Story Files by Extensions>>
@@ -6,14 +6,14 @@
 * <<Other IF File Extensions>>
 * <<Virtual Machines>>
 
-=== Files Extensions and Formats
+== Files Extensions and Formats
 
 For a full list of IF story files extensions, see:
 
 * http://www.ifwiki.org/index.php/List_of_file_extensions[IFWiki » List of file extensions^]
 * http://ifdb.tads.org/fileformat[IFDB » File Formats^]
 
-=== Story Files by Extensions
+== Story Files by Extensions
 
 IF story files are distributed with different file extensions, depending on the IF authoring system used to create them and/or the output format the story has been compiled/converted to (in case of authoring systems that support multiple output formats, like Inform7, or when story files are converted from an old format to a newer one).
 
@@ -51,7 +51,7 @@ The following table resumes the most common story file extensions.
 | .zlb      | Z-machine story file in a Blorb wrapper.
 |===============================================================================
 
-=== Source Files by Extensions
+== Source Files by Extensions
 
 The following table resumes some common extensions used by IF authoring systems as source, headers or resource files. In some IF authoring systems, the source code file and the story file distributed for playing are one and the same.
 
@@ -73,7 +73,7 @@ The following table resumes some common extensions used by IF authoring systems 
 | .zil      | ZIL source code.
 |===============================================================================
 
-=== Other IF File Extensions
+== Other IF File Extensions
 
 The following table resumes some other common file extensions related to IF that don't belong to any of the previous categories.
 
@@ -85,9 +85,9 @@ The following table resumes some other common file extensions related to IF that
 | .t3v | <<TADS,TADS 3>> saved game file.
 |===============================================================================
 
-=== Virtual Machines
+== Virtual Machines
 
-==== Z-machine
+=== Z-machine
 
 The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
 Originally developed in 1979 by Joel Berez and Marc Blank, it was later on decoded and reimplemented in the mid-1990s as an open standard by IF fans wishing to revive the genre and play the original Infocom adventures.
@@ -100,7 +100,7 @@ The Z-machine is a 16 bit virtual machine.
 * https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
 
 
-==== Glulx
+=== Glulx
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
@@ -109,7 +109,7 @@ Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 * https://en.wikipedia.org/wiki/Glulx[Glulx at Wikipedia^]
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
 
-===== Glulx VM interpreters
+==== Glulx VM interpreters
 
 * https://github.com/erkyrath/glulxe[Glulxe^] -- by Andrew Plotkin; written in C, hosted on GitHub.
 
@@ -117,18 +117,18 @@ More Glulx interpreters are listed at the IF Archive dedicated section:
 
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
 
-===== Glulx Manuals and References
+==== Glulx Manuals and References
 
 * http://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
 * http://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
 
-===== Glulx Tools
+==== Glulx Tools
 
 More Glulx tools are listed at the IF Archive dedicated section:
 
 * http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
 
-==== T3 VM
+=== T3 VM
 
 The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 

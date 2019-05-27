@@ -1,8 +1,8 @@
-== Social Events
+= Social Events
 
-=== Conferences
+== Conferences
 
-=== Meetups
+== Meetups
 
 * http://themade.org/events[Museum of Art and Digital Entertainment's Monthly Interactive Fiction Meetup^]
 

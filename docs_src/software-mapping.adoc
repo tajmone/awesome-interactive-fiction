@@ -1,4 +1,4 @@
-== Mappping Tools
+= Mappping Tools
 
 Traditionally, IF maps are represented by boxes connected by lines, representing the various rooms and their directions connections. They are intended to represent movements in the adventure world locations, not a physical representation of its geography -- but sometimes «realistic» maps are provided with the game feelies, for aesthetic reasons.
 
@@ -8,16 +8,16 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The IF Archive » Mapping Tools^]
 
-=== Cross Platform
+== Cross Platform
 
 * https://rubygems.org/gems/ifmapper/versions/1.3.1[IFMapper^] -- A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF. (http://ggarra13.github.io/ifmapper/en/start.html[Online Manual^] | https://github.com/ggarra13/ifmapper[GitHub^])
 * http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip[`SVGmaps.zip`] (2008) -- A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
-=== macOS
+== macOS
 
 * Cocoa Mapre (2004) -- (http://www.ifarchive.org/if-archive/mapping-tools/cocoa_mapre0.6.7.dmg[`cocoa_mapre0.6.7.dmg`]) A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
-=== MS Windows
+== MS Windows
 
 * http://autorealm.sourceforge.net/[AutoREALM^] (2006) -- A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
 * https://secure.profantasy.com/products/cc3-plus.asp[Campaign Cartographer^] -- A commercial tool for drawing fantasy-style terrain maps -- not the classic rooms/directions-based diagram IF maps, but ancient-looking «realistic» full-color maps, with villages, lakes, sea, forests. Execellent for creating feelies maps.
@@ -29,16 +29,16 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The Mapper^] (1994) -- Automapping tool -- comes as a `.COM` executable format. Can't execute on modern versions of Windows.
 * http://trizbort.genstein.net/[Trizbort^] -- For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Requires .NET 2.0.
 
-=== Linux/*nix
+== Linux/*nix
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Adventure Map Utility^] (1994) -- A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
 * http://www.ifarchive.org/if-archive/mapping-tools/asciimapper[asciimapper^] (2005) -- A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[ifm2i7^] (2008) -- A Perl program to convert maps in IFM format to Inform 7 source code.
 * http://www.ifarchive.org/if-archive/mapping-tools/informap.perl[informap^] (1999) -- A perl script that draws maps out of Inform source code.
 
-=== Mobile Devices
+== Mobile Devices
 
-==== PalmOS
+=== PalmOS
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
 
