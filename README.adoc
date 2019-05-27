@@ -172,7 +172,7 @@ Hugo source code:
 
 Syntax highlighters supporting Hugo:
 
-* http://www.andre-simon.de/[Highlight^] -- submitted for inclusion in v3.52 (see: https://gitlab.com/saalen/highlight/blob/52fcb7f7/langDefs/hugo.lang[`hugo.lang`^]).
+* http://www.andre-simon.de/[Highlight^] -- due for inclusion in v3.52 (see: https://gitlab.com/saalen/highlight/blob/master/langDefs/hugo.lang[`hugo.lang`^]).
 
 == Inform 6
 
