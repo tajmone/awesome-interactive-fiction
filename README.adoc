@@ -152,6 +152,22 @@ Alan-related projects:
 
 * http://www.generalcoffee.com/[www.generalcoffee.com^]
 
+The Hugo Interactive Fiction Development System (1995-2006), created by Kent Tessman, is a cross-platform, free and open source (BSD-2-Clause license) programming language and set of tools for authoring and playing Interactive Fiction adventures, supporting images, sound and videos.
+The latest Hugo release is v3.1 (2006).
+
+For more information, see also:
+
+* http://ifwiki.org/index.php/Hugo[IFWiki » Hugo^]
+
+Hugo source code:
+
+* https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
+* https://bitbucket.org/0branch/hugo-unix[bitbucket.org/0branch/hugo-unix^] (care of Marc Simpson).
+
+Syntax highlighters supporting Hugo:
+
+* http://www.andre-simon.de/[Highlight^] -- submitted for inclusion in v3.52 (see: https://gitlab.com/saalen/highlight/blob/52fcb7f7/langDefs/hugo.lang[`hugo.lang`^]).
+
 == Inform 6
 
 * http://inform-fiction.org/[inform-fiction.org^]
