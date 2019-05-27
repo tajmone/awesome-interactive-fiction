@@ -106,11 +106,43 @@ Aiee! is a cross-platform tool (Java) for creating and playing text adventures, 
 
 Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
 
-Alan was created in 1985 by Thomas Nilsson and Göran Forslund, and is actively maintained by Thomas Nilsson. The latest version is *Alan 3*.
+Alan was created in 1985 by Thomas Nilsson (now Thomas Nilefalk) and Göran Forslund, and is actively maintained by Thomas Nilefalk. The latest version is *Alan 3*.
 
 For more information, see also:
 
 * http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
+
+Source repository:
+
+* https://bitbucket.org/alanif/alan[bitbucket.org/alanif/alan^]
+
+Libraries for Alan 3:
+
+* https://github.com/AnssiR66/AlanStdLib[github.com/AnssiR66/AlanStdLib^] -- Alan Standard Library v2, by Anssi Räisänen.
+* https://github.com/tajmone/alan-goodies/tree/master/libs[ALAN Library v0.6.2^] (at Alan Goodies) -- an earlier library ported from Alan 2, still working with current Alan version, but today mainly used to compile legacy adventures and tutorials. Deprecated in favour of the new StdLib v2.
+
+Alan in other languages:
+
+* https://github.com/tajmone/Alan3-Italian[github.com/tajmone/Alan3-Italian^] -- Italian translation of the Alan StdLib 2, by Tristano Ajmone (incomplete Alpha).
+
+Alan editors, IDEs and editor extensions:
+
+* https://www.alanif.se/download-alan-v3/alanide[AlanIDE^] -- complete Alan Integrated Development Environment, by Alan author Thomas Nilefalk. In Java/Eclipse.
+* https://github.com/tajmone/sublime-alan[Sublime Alan^] -- Alan 3 syntax for Sublime Text 3 (usable Alpha).
+
+Syntax highlighters supporting Alan:
+
+* http://www.andre-simon.de/[Highlight^] -- natively (see: https://gitlab.com/saalen/highlight/blob/master/langDefs/alan.lang[`alan.lang`^] definition file).
+* https://highlightjs.org/[Highlight.js^] -- via https://github.com/highlightjs/highlightjs-alan[external syntax definition for Alan^].
+* http://xslthl.sourceforge.net/[XSLTHL^] -- via https://github.com/alan-if/alan-xsl-fopub/blob/master/xsl-fopub/xslthl/alan-hl.xml[external syntax definition for Alan^].
+
+Alan-related projects:
+
+* https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan IF Documentation Project.
+* https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
+* https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
+
+
 
 == Curveship
 
@@ -336,7 +368,6 @@ The following table resumes the most common story file extensions.
 |===============================================================================
 | ext       | format
 | .a3c      | <<Alan,Alan 3>> story file.
-| .a3c      | <<Alan,Alan 3>> story file.
 | .asl      | Quest source code and story file.
 | .blb      | Blorb wrapper, usually containing a story file.
 | .cas      | Compressed Quest story file.
@@ -371,8 +402,9 @@ The following table resumes some common extensions used by IF authoring systems 
 [cols="<10m,<90d",options="header"]
 |===============================================================================
 | ext       | format
-| .a3r      | <<Alan,Alan 3>> resource file.
+| .a3r      | <<Alan,Alan 3>> multimedia resources file (same filename as its storyfile).
 | .acd      | <<Alan,Alan 2>> source code file.
+| .alan     | <<Alan,Alan 3>> source file.
 | .alr      | <<ADRIFT>> Language Resource file.
 | .asl      | Quest source code and story file.
 | .i6t      | <<Inform 6>> template used by <<Inform 7>> compiler.

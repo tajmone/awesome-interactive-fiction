@@ -23,7 +23,6 @@ The following table resumes the most common story file extensions.
 |===============================================================================
 | ext       | format
 | .a3c      | <<Alan,Alan 3>> story file.
-| .a3c      | <<Alan,Alan 3>> story file.
 | .asl      | Quest source code and story file.
 | .blb      | Blorb wrapper, usually containing a story file.
 | .cas      | Compressed Quest story file.
@@ -58,8 +57,9 @@ The following table resumes some common extensions used by IF authoring systems 
 [cols="<10m,<90d",options="header"]
 |===============================================================================
 | ext       | format
-| .a3r      | <<Alan,Alan 3>> resource file.
+| .a3r      | <<Alan,Alan 3>> multimedia resources file (same filename as its storyfile).
 | .acd      | <<Alan,Alan 2>> source code file.
+| .alan     | <<Alan,Alan 3>> source file.
 | .alr      | <<ADRIFT>> Language Resource file.
 | .asl      | Quest source code and story file.
 | .i6t      | <<Inform 6>> template used by <<Inform 7>> compiler.
