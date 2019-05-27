@@ -338,7 +338,7 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Informapper^] (1996) -- A map drawing program for Windows, Spanish only user interface. Can export as a skeleton file for SINTAC. Can't execute on modern versions of Windows.
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Map Maker^] (1999) -- A Windows 95/98/NT world-building tool for visually designing maps to be converted as AGT, AGX, Hugo and TADS source code. Can still be executed under Windows 10.
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The Mapper^] (1994) -- Automapping tool -- comes as a `.COM` executable format. Can't execute on modern versions of Windows.
-* http://trizbort.genstein.net/[Trizbort^] -- For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Requires .NET 2.0.
+* https://www.trizbort.com//[Trizbort^] (2010-today) -- For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Actively developed.
 
 == Linux/*nix
 
