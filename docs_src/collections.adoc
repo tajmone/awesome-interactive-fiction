@@ -1,0 +1,5 @@
+== Collections
+
+* http://www.ifdb.tads.org[Interaction Fiction Database^]
+* http://www.ifarchive.org[The Interaction Fiction Archive^]
+

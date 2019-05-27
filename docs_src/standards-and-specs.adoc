@@ -1,0 +1,138 @@
+== Standards and Specifications
+
+* <<Files Extensions and Formats>>
+* <<Story Files by Extensions>>
+* <<Source Files by Extensions>>
+* <<Other IF File Extensions>>
+* <<Virtual Machines>>
+
+=== Files Extensions and Formats
+
+For a full list of IF story files extensions, see:
+
+* http://www.ifwiki.org/index.php/List_of_file_extensions[IFWiki » List of file extensions^]
+* http://ifdb.tads.org/fileformat[IFDB » File Formats^]
+
+=== Story Files by Extensions
+
+IF story files are distributed with different file extensions, depending on the IF authoring system used to create them and/or the output format the story has been compiled/converted to (in case of authoring systems that support multiple output formats, like Inform7, or when story files are converted from an old format to a newer one).
+
+The following table resumes the most common story file extensions.
+
+[cols="<10m,<90d",options="header"]
+|===============================================================================
+| ext       | format
+| .a3c      | <<Alan,Alan 3>> story file.
+| .a3c      | <<Alan,Alan 3>> story file.
+| .asl      | Quest source code and story file.
+| .blb      | Blorb wrapper, usually containing a story file.
+| .cas      | Compressed Quest story file.
+| .floydc   | Floyd story file.
+| .gam      | <<TADS,TADS 2>> story file.
+| .gblorb   | <<Glulx>> story file in a Blorb wrapper.
+| .glb      | <<Glulx>> story file in a Blorb wrapper.
+| .hex      | <<Hugo>> story file.
+| .nx       | Node-X story file.
+| .t3       | <<TADS,TADS 3>> story file.
+| .t3x      | <<TADS,TADS 3>> story file.
+| .taf      | <<ADRIFT>> story file.
+| .tag      | T.A.G. story file.
+| .tws      | <<Twine>> story file.
+| .ulx      | <<Glulx>> story file.
+| .z1       | Z-machine version 1 story file.
+| .z2       | Z-machine version 2 story file.
+| .z3       | Z-machine version 3 story file.
+| .z4       | Z-machine version 4 story file.
+| .z5       | Z-machine version 5 story file.
+| .z6       | Z-machine version 6 story file.
+| .z7       | Z-machine version 7 story file.
+| .z8       | Z-machine version 8 story file.
+| .zblorb   | Z-machine story file in a Blorb wrapper.
+| .zlb      | Z-machine story file in a Blorb wrapper.
+|===============================================================================
+
+=== Source Files by Extensions
+
+The following table resumes some common extensions used by IF authoring systems as source, headers or resource files. In some IF authoring systems, the source code file and the story file distributed for playing are one and the same.
+
+[cols="<10m,<90d",options="header"]
+|===============================================================================
+| ext       | format
+| .a3r      | <<Alan,Alan 3>> resource file.
+| .acd      | <<Alan,Alan 2>> source code file.
+| .alr      | <<ADRIFT>> Language Resource file.
+| .asl      | Quest source code and story file.
+| .i6t      | <<Inform 6>> template used by <<Inform 7>> compiler.
+| .i7x      | <<Inform 7>> extension source code file.
+| .inf      | <<Inform 6>> source code file.
+| .inform   | <<Inform 7>> project folder.
+| .jacl     | JACL source code file.
+| .ni       | <<Inform 7>> source code.
+| .t        | <<TADS>> source code file.
+| .tab      | <<T.A.B.>> game datafile
+| .zil      | ZIL source code.
+|===============================================================================
+
+=== Other IF File Extensions
+
+The following table resumes some other common file extensions related to IF that don't belong to any of the previous categories.
+
+[cols="<10m,<90d",options="header"]
+|===============================================================================
+| ext  | format
+| .sav | Saved game file.
+| .scr | Transcript of a Z-Code gameplay.
+| .t3v | <<TADS,TADS 3>> saved game file.
+|===============================================================================
+
+=== Virtual Machines
+
+==== Z-machine
+
+The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
+Originally developed in 1979 by Joel Berez and Marc Blank, it was later on decoded and reimplemented in the mid-1990s as an open standard by IF fans wishing to revive the genre and play the original Infocom adventures.
+
+There are have been several variations of the Z-machine standard (z1 to z6), and present day IF interpreters support all of them for the sake of backward compatiblity.
+The Inform compiler supports creating adventures in Z-machine format.
+The Z-machine is a 16 bit virtual machine.
+
+* https://www.inform-fiction.org/zmachine/standards/index.html[Z-machine Specs at Inform website^]
+* https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
+
+
+==== Glulx
+
+Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
+
+* http://www.eblong.com/zarf/glulx/[Glulx homepage^]
+* http://www.ifwiki.org/index.php/Glulx[Glulx at IFWiki^]
+* https://en.wikipedia.org/wiki/Glulx[Glulx at Wikipedia^]
+* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
+
+===== Glulx VM interpreters
+
+* https://github.com/erkyrath/glulxe[Glulxe^] -- by Andrew Plotkin; written in C, hosted on GitHub.
+
+More Glulx interpreters are listed at the IF Archive dedicated section:
+
+* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
+
+===== Glulx Manuals and References
+
+* http://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
+* http://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
+
+===== Glulx Tools
+
+More Glulx tools are listed at the IF Archive dedicated section:
+
+* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
+
+==== T3 VM
+
+The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
+
+* http://www.tads.org/t3doc/doc/techman/t3spec.htm["`T3 VM Technical Documentation`" in _TADS 3 Technical Manual_^]
+* http://www.tads.org/t3spec/intro.htm[T3 VM specs at TADS website^]
+
+

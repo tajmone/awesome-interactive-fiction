@@ -5,12 +5,8 @@ Tristano Ajmone <tajmone@gmail.com>
 :sectanchors:
 // TOC Settings:
 :toclevels: 3
-ifdef::backend-html5[]
 :toc: left
-endif::[]
-ifdef::env-github[]
 :toc: macro
-endif::[]
 // Sections Numbering:
 :sectnums:
 :sectnumlevels: 2
@@ -21,6 +17,21 @@ endif::[]
 :linkattrs: true
 :idprefix:
 :idseparator: -
+
+////
+********************************************************************************
+*                                                                              *
+*                       !!! DON'T EDIT THIS DOCUMENT !!!                       *
+*                                                                              *
+********************************************************************************
+
+This document was auto-generated from multiple AsciiDoc source files inside the
+"docs_src/" folder; all changes would be lost when the document is updated!
+If you want to contribute to this document, edit those source files instead.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+////
+
 
 // *****************************************************************************
 // *                                                                           *
@@ -36,11 +47,10 @@ Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently main
 * https://github.com/tajmone/awesome-interactive-fiction/
 ================================================================================
 
-ifdef::env-github[]
 '''
 toc::[]
 '''
-endif::[]
+
 
 
 == Introductory Material
@@ -53,6 +63,7 @@ Newcomers to Interactive Fiction will find these links helpful:
 * http://www.brasslantern.org/beginners/beginnersguide.html[Brass Lantern's Beginner's Guide to Interactive Fiction^] -- by Stephen Granade and Emily Short.
 * http://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
 * http://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
+
 
 == Software
 
@@ -278,6 +289,7 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 ===== PalmOS
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
+
 
 == Standards and Specifications
 
@@ -655,5 +667,6 @@ For more information, see also:
 
 * http://www.ifwiki.org/index.php/IfMUD[IFWiki » ifMUD^]
 * https://en.wikipedia.org/wiki/IfMUD[Wikipedia » ifMUD^]
+
 
 // EOF //

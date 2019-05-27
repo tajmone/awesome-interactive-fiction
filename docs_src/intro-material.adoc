@@ -1,0 +1,11 @@
+== Introductory Material
+
+Newcomers to Interactive Fiction will find these links helpful:
+
+* http://inform7.com/learn/eg/dm/IntroductionToIF.pdf[Introduction to Interactive Fiction^] -- by Emily Short; 8pp (PDF). Also available in other languages:
+** Italian » http://www.youdev.it/if/Titolo/Introduzione%20alle%20Avventure%20Testuali.pdf[Introduzione alle Avventure Testuali^]
+** French » http://ifiction.free.fr/fichiers/Introduction-IF-fr.pdf[Introduction à la fiction interactive^]
+* http://www.brasslantern.org/beginners/beginnersguide.html[Brass Lantern's Beginner's Guide to Interactive Fiction^] -- by Stephen Granade and Emily Short.
+* http://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
+* http://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
+

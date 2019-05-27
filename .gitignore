@@ -2,19 +2,9 @@
 # Awesome Interactive Fiction                                                  #
 # https://github.com/tajmone/awesome-interactive-fiction                       #
 ################################################################################
-* text=auto
 
-*.sh           text eol=lf
-*.rb           text
-
-*.adoc         text
-*.asciidoc     text
-*.html         text
-*.txt          text
-
-LICENSE        text
-
-.gitattributes text
-.gitconfig     text
-.gitignore     text
-.gitmodules    text
+# Temp work files:
+__*.*
+__*
+*.url
+*.lnk
