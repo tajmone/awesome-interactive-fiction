@@ -216,6 +216,7 @@ For more information, see also:
 
 
 :leveloffset!:
+
 :leveloffset: +2
 
 = Interpreters
@@ -257,6 +258,7 @@ For more information, see also:
 
 
 :leveloffset!:
+
 :leveloffset: +2
 
 = Mappping Tools
@@ -305,6 +307,7 @@ Many of the tools presented here are now hosted at the IF-Archive -- they are ol
 
 
 :leveloffset!:
+
 
 :leveloffset: +1
 
@@ -448,6 +451,7 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = Collections
@@ -457,6 +461,7 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = Blogs
@@ -469,6 +474,7 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = Competitions & Awards
@@ -489,6 +495,7 @@ For more info, see:
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = IF Learning Resources
@@ -631,6 +638,7 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = IF for Teaching and Education
@@ -672,6 +680,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = Social Events
@@ -684,6 +693,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 
 :leveloffset!:
+
 :leveloffset: +1
 
 = Digital Communities
