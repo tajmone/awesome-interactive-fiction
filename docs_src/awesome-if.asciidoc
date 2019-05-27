@@ -1,19 +1,22 @@
 = Awesome Interactive Fiction
 Tristano Ajmone <tajmone@gmail.com>
-2018-11-05
+2019-05-27
 :lang: en
+// Sections & Numbering:
 :sectanchors:
 // TOC Settings:
-:toclevels: 3
-ifdef::backend-html5[]
+:toc-title: Contents
+ifdef::IsHTML[]
 :toc: left
+:toclevels: 3
+:sectnums:
+:sectnumlevels: 2
 endif::[]
 ifdef::env-github[]
 :toc: macro
+:toclevels: 1
+:sectnums!:
 endif::[]
-// Sections Numbering:
-:sectnums:
-:sectnumlevels: 2
 // Misc Settings:
 :experimental: true
 :reproducible: true
