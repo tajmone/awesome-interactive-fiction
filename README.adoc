@@ -1,4 +1,4 @@
-= Awesome Interactive Fiction
+= Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
 2019-05-27
 :lang: en
