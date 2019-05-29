@@ -59,6 +59,8 @@ Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently main
 
 * https://git.io/awesome-if
 * https://github.com/tajmone/awesome-interactive-fiction/
+
+link:http://creativecommons.org/publicdomain/zero/1.0/[image:http://i.creativecommons.org/p/zero/1.0/88x31.png[alt=CC0]^,title=CC0]
 --
 ifdef::IsADoc[+++<br clear="all" />+++]
 ================================================================================
