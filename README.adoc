@@ -85,12 +85,13 @@ Newcomers to Interactive Fiction will find these links helpful:
 == ADRIFT
 
 * http://www.adrift.co/[www.adrift.co^]
+* https://github.com/jcwild/ADRIFT-5/[github.com/jcwild/ADRIFT-5^]
 
 ADRIFT (Adventure Development & Runner -- Interactive Fiction Toolkit) is a GUI driven IF development system for Windows, allowing to create text adventures via dialog boxes and GUI controls instead of writing code. Supports graphics and sounds.
 
-Developed by Campbell Wild since 1997, ADRIFT Developer (formerly called Adventure Generator) used to be a commercial product, but since 2011 has been released as freeware.
+Developed by Campbell Wild since 1997, ADRIFT Developer (formerly called Adventure Generator) used to be a commercial product, then in 2011 it became freeware, and now the full source code is available on GitHub under BSD 3-Clause license.
 
-There are different versions of ADRIFT, and an adventure created with a specific version of ADRIFT Developer needs to be played with the same version of ADRIFT Runner:
+There are different versions of ADRIFT, adventures created with a specific version of ADRIFT Developer should be played with the same version of ADRIFT Runner -- but ADRIFT Runner 5 should be able to run adventures created for v4:
 
 * *ADRIFT 5.0* (2011–)
 * *ADRIFT 4.0* (2002–2012)
@@ -122,6 +123,7 @@ For more information, see also:
 
 Source repository:
 
+* https://github.com/alan-if/alan[github.com/alan-if/alan^]
 * https://bitbucket.org/alanif/alan[bitbucket.org/alanif/alan^]
 
 Libraries for Alan 3:
@@ -147,6 +149,8 @@ Syntax highlighters supporting Alan:
 Alan-related projects:
 
 * https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan IF Documentation Project.
+* https://github.com/alan-if/alan-by-examples[github.com/alan-if/alan-by-examples^] -- Learn ALAN IF through examples.
+* https://github.com/alan-if/alan-repository-template[github.com/alan-if/alan-repository-template^] -- GitHub repository template for Alan IF projects.
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
 * https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
 
