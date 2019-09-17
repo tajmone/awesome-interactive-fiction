@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2019-05-27
+2019-09-17
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -165,11 +165,18 @@ Alan-related projects:
 * http://www.generalcoffee.com/[www.generalcoffee.com^]
 
 The Hugo Interactive Fiction Development System (1995-2006), created by Kent Tessman, is a cross-platform, free and open source (BSD-2-Clause license) programming language and set of tools for authoring and playing Interactive Fiction adventures, supporting images, sound and videos.
-The latest Hugo release is v3.1 (2006).
+The latest official Hugo release is v3.1.03 (2005).
 
 For more information, see also:
 
 * http://ifwiki.org/index.php/Hugo[IFWiki » Hugo^]
+* https://github.com/tajmone/hugo/wiki[Hugo Wiki^] (care of Tristano Ajmone).
+
+For tutorials and learning resources:
+
+* http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
+* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
+* link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine 2018) -- Unofficial Hugo discussion forum.
 
 Hugo source code:
 
@@ -178,7 +185,14 @@ Hugo source code:
 
 Syntax highlighters supporting Hugo:
 
-* http://www.andre-simon.de/[Highlight^] -- due for inclusion in v3.52 (see: https://gitlab.com/saalen/highlight/blob/master/langDefs/hugo.lang[`hugo.lang`^]).
+* http://www.andre-simon.de/[Highlight^] (see: https://gitlab.com/saalen/highlight/blob/master/langDefs/hugo.lang[`langDefs/hugo.lang`^]).
+
+To find games created with Hugo:
+
+* https://ifdb.tads.org/search?searchfor=system%3AHugo&searchgo=Search+Games&sortby=&pg=all[IFDB » Hugo^] -- all Hugo games on the Interactive Fiction Database.
+* https://www.ifarchive.org/indexes/if-archive/games/hugo/[IF Archive » games » Hugo^]
+* http://ifwiki.org/index.php/Category:Hugo_works[IFWiki » Hugo Works^]
+
 
 == Inform 6
 
