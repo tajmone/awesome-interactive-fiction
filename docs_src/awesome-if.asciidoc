@@ -16,6 +16,11 @@ ifdef::env-github[]
 :toc: macro
 :toclevels: 1
 :sectnums!:
+:caution-caption: :fire:
+:important-caption: :heavy_exclamation_mark:
+:note-caption: :information_source:
+:tip-caption: :bulb:
+:warning-caption: :warning:
 endif::[]
 // Misc Settings:
 :experimental: true
@@ -38,6 +43,14 @@ include::warn-editing.txt[]
 ////
 endif::[]
 
+// =============================================================================
+//                     Custom Attributes for Substitutions
+// =============================================================================
+// Some custom attributes to shorten usage of frequently recurring snippets and
+// keep things DRY (Don't Repeat Yourself)...
+
+// GitHub
+:gh-topic: https://github.com/topics/
 
 // *****************************************************************************
 // *                                                                           *

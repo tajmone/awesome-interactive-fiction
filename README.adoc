@@ -9,6 +9,11 @@ Tristano Ajmone <tajmone@gmail.com>
 :toc: macro
 :toclevels: 1
 :sectnums!:
+:caution-caption: :fire:
+:important-caption: :heavy_exclamation_mark:
+:note-caption: :information_source:
+:tip-caption: :bulb:
+:warning-caption: :warning:
 // Misc Settings:
 :experimental: true
 :reproducible: true
@@ -31,6 +36,14 @@ If you want to contribute to this document, edit those source files instead.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ////
 
+// =============================================================================
+//                     Custom Attributes for Substitutions
+// =============================================================================
+// Some custom attributes to shorten usage of frequently recurring snippets and
+// keep things DRY (Don't Repeat Yourself)...
+
+// GitHub
+:gh-topic: https://github.com/topics/
 
 // *****************************************************************************
 // *                                                                           *
@@ -103,6 +116,12 @@ For more information, see also:
 * http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
 * https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
 
+TIP: Suggested GitHub topics:
+{gh-topic}adrift[`adrift`^]
+{gh-topic}adrift5[`adrift5`^]
+{gh-topic}adrift-5[`adrift-5`^]
+
+
 == Aiee!
 
 * http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
@@ -154,6 +173,10 @@ Alan-related projects:
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
 * https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
 
+TIP: Suggested GitHub topics:
+{gh-topic}alan-if[`alan-if`^]
+{gh-topic}alan3[`alan3`^]
+
 
 
 == Curveship
@@ -193,6 +216,8 @@ To find games created with Hugo:
 * https://www.ifarchive.org/indexes/if-archive/games/hugo/[IF Archive » games » Hugo^]
 * http://ifwiki.org/index.php/Category:Hugo_works[IFWiki » Hugo Works^]
 
+TIP: Suggested GitHub topics:
+{gh-topic}hugo-if[`hugo-if`^]
 
 == Inform 6
 
@@ -202,6 +227,11 @@ See also:
 
 * link:#inform-6-2[Inform 6 Free eBooks]
 * link:#inform-6-3[Inform 6 Cheat Sheets]
+
+TIP: Suggested GitHub topics:
+{gh-topic}inform[`inform`^]
+{gh-topic}inform6[`inform6`^]
+
 
 == Inform 7
 
@@ -219,6 +249,11 @@ See also:
 Online tools:
 
 * http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
+
+TIP: Suggested GitHub topics:
+{gh-topic}inform[`inform`^]
+{gh-topic}inform7[`inform7`^]
+
 
 == Ink
 
@@ -238,6 +273,12 @@ For more information, see also:
 
 TADS (Text Adventure Development System).
 
+TIP: Suggested GitHub topics:
+{gh-topic}tads[`tads`^]
+{gh-topic}tads3[`tads3`^]
+
+
+
 == Tuvi
 
 * https://github.com/jaywengrow/tuvi[github.com/jaywengrow/tuvi^]
@@ -249,6 +290,11 @@ TADS (Text Adventure Development System).
 See also:
 
 * link:#twine-2[Twine commercial books]
+
+TIP: Suggested GitHub topics:
+{gh-topic}twine[`twine`^]
+{gh-topic}twine2[`twine2`^]
+
 
 == Undum
 
