@@ -14,7 +14,8 @@ The AsciiDoc sources and assets to build the main README and its HTML version:
 
 - [Introduction](#introduction)
 - [Folder Contents](#folder-contents)
-    - [Editing Guidelines](#editing-guidelines)
+- [Editing Guidelines](#editing-guidelines)
+    - [Local Previews](#local-previews)
 - [System Requirements](#system-requirements)
 - [Credits](#credits)
     - [Asciidoctor Extensions Lab](#asciidoctor-extensions-lab)
@@ -41,17 +42,27 @@ will be converted (via [`build.sh`][build]) to:
 # Folder Contents
 
 - [`build.sh`][build] — conversion script.
+- [`preview.sh`](./preview.sh) — create local HTML preview (ignored by Git).
 - [`asciidoc-coalescer.rb`][coalescer.rb] — script to create a preprocessed AsciiDoc file.
 - [`awesome-if.asciidoc`][awesome-if] — main AsciiDoc file of the awesome list, will [`include::`][§28] other files at build time:
     + `*.adoc` — each file a section of the awesome list.
 
-## Editing Guidelines
+# Editing Guidelines
 
 The __Awesome IF__ document is split in multiple `*.adoc` files, each file representing a single section (Level 1, or 2) in the final document — some large sections (e.g. _Software_) are split into multiple Level 2 sections, for practical reasons.
 
 The individual `*.adoc` files are treated as standalone documents, complete with a document title (Level 0). Their heading levels are then adjusted at inclusion time via [the `leveloffset` attribute in the include directive][§28.4]. This allows to edit them without having to worry about their effective Level in the final document(s). Also, in the future the website version of __Awesome IF__ might be split into multiple HTML pages, if the document becomes too long.
 
 > __NOTE__ — Currently, trying to convert the single sections ad standalone documents is likely to fail, due to missing cross references or custom attributes definitions. In the future this might be fixed by tweaking their contents so that they might be reused in a fully standalone manner, for it might be useful to allow other projects to reuse single sections of this project in other contexts too.
+
+## Local Previews
+
+While editing locally, you might want to check the results via the following script:
+
+- [`preview.sh`](./preview.sh)
+
+The script will create a local HTML preview file named `awesome-if.html` (ignored by Git) by invoking Asciidoctor with all the required settings.
+
 
 # System Requirements
 
