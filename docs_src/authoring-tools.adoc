@@ -16,30 +16,35 @@ There are different versions of ADRIFT, adventures created with a specific versi
 * *ADRIFT 3.9* (2001)
 * *ADRIFT 2.0* (aka Adventure Generator, 1997) -- legacy 16-bit DOS app
 
-For more information, see also:
-
-* http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
-* https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
-
 TIP: Suggested GitHub topics:
 {gh-topic}adrift[`adrift`^]
 {gh-topic}adrift5[`adrift5`^]
 {gh-topic}adrift-5[`adrift-5`^]
 
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
+* https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
+
 
 == Aiee!
 
-* http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
+* https://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
 
 Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
 
 == Alan
 
-* http://www.alanif.se/[www.alanif.se^]
+* https://www.alanif.se/[www.alanif.se^]
 
 Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
 
 Alan was created in 1985 by Thomas Nilsson (now Thomas Nilefalk) and Göran Forslund, and is actively maintained by Thomas Nilefalk. The latest version is *Alan 3*.
+
+TIP: Suggested GitHub topics:
+{gh-topic}alan-if[`alan-if`^]
+{gh-topic}alan3[`alan3`^]
+
 
 For more information, see also:
 
@@ -78,33 +83,38 @@ Alan-related projects:
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
 * https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
 
-TIP: Suggested GitHub topics:
-{gh-topic}alan-if[`alan-if`^]
-{gh-topic}alan3[`alan3`^]
-
-
 
 == Curveship
 
-* http://curveship.com/[curveship.com^]
+* https://curveship.com/[curveship.com^]
 
 == Hugo
 
-* http://www.generalcoffee.com/[www.generalcoffee.com^]
+* https://www.generalcoffee.com/hugo/[www.generalcoffee.com/hugo^]
 
 The Hugo Interactive Fiction Development System (1995-2006), created by Kent Tessman, is a cross-platform, free and open source (BSD-2-Clause license) programming language and set of tools for authoring and playing Interactive Fiction adventures, supporting images, sound and videos.
 The latest official Hugo release is v3.1.03 (2005).
+
+TIP: Suggested GitHub topics:
+{gh-topic}hugo-if[`hugo-if`^]
 
 For more information, see also:
 
 * http://ifwiki.org/index.php/Hugo[IFWiki » Hugo^]
 * https://github.com/tajmone/hugo/wiki[Hugo Wiki^] (care of Tristano Ajmone).
+* https://notdeadhugo.blogspot.com[Not Dead Hugo^] -- an active blog with precious news on Hugo.
 
-For tutorials and learning resources:
+Tutorials and learning resources:
 
 * http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
-* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
-* link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine 2018) -- Unofficial Hugo discussion forum.
+* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine, 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
+* link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine, 2018) -- Unofficial Hugo discussion forum.
+* https://bitbucket.org/roody_yogurt/hugo-code-lab/[Hugo Code Lab^] -- A collection of Hugo libraries by Jonathan Blask.
+
+Editor syntaxes:
+
+* https://bitbucket.org/0branch/hugo-mode/[Hugo mode^] -- Hugo mode for Emacs, by Christopher Tate (GPLv2).
+* https://bitbucket.org/0branch/hugo-vim/[Hugo Vim^] -- Hugo syntax file for Vim, by Marc Simpson.
 
 Hugo source code:
 
@@ -120,29 +130,31 @@ To find games created with Hugo:
 * https://ifdb.tads.org/search?searchfor=system%3AHugo&searchgo=Search+Games&sortby=&pg=all[IFDB » Hugo^] -- all Hugo games on the Interactive Fiction Database.
 * https://www.ifarchive.org/indexes/if-archive/games/hugo/[IF Archive » games » Hugo^]
 * http://ifwiki.org/index.php/Category:Hugo_works[IFWiki » Hugo Works^]
-
-TIP: Suggested GitHub topics:
-{gh-topic}hugo-if[`hugo-if`^]
+* http://textadventures.online[HugoJS^] -- a collection of Hugo games playable on-line, in the browser.
 
 == Inform 6
 
-* http://inform-fiction.org/[inform-fiction.org^]
-
-See also:
-
-* link:#inform-6-2[Inform 6 Free eBooks]
-* link:#inform-6-3[Inform 6 Cheat Sheets]
+* https://inform-fiction.org/[inform-fiction.org^]
 
 TIP: Suggested GitHub topics:
 {gh-topic}inform[`inform`^]
 {gh-topic}inform6[`inform6`^]
 
 
+See also:
+
+* link:#inform-6-2[Inform 6 Free eBooks]
+* link:#inform-6-3[Inform 6 Cheat Sheets]
+
 == Inform 7
 
 * http://inform7.com/[inform7.com^]
 
 Based on natural language.
+
+TIP: Suggested GitHub topics:
+{gh-topic}inform[`inform`^]
+{gh-topic}inform7[`inform7`^]
 
 See also:
 
@@ -153,11 +165,7 @@ See also:
 
 Online tools:
 
-* http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
-
-TIP: Suggested GitHub topics:
-{gh-topic}inform[`inform`^]
-{gh-topic}inform7[`inform7`^]
+* https://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
 
 
 == Ink
@@ -166,7 +174,7 @@ TIP: Suggested GitHub topics:
 
 == T.A.B.
 
-* http://tab.thinbasic.com/[tab.thinbasic.com^]
+* https://tab.thinbasic.com/[tab.thinbasic.com^]
 
 T.A.B. (ThinBASIC Adventure Builder).
 
@@ -174,7 +182,7 @@ For more information, see also:
 
 == TADS
 
-* http://www.tads.org[www.tads.org^]
+* https://www.tads.org[www.tads.org^]
 
 TADS (Text Adventure Development System).
 
@@ -190,20 +198,21 @@ TIP: Suggested GitHub topics:
 
 == Twine
 
-* http://twinery.org/[twinery.org^]
+* https://twinery.org/[twinery.org^]
 
-See also:
-
-* link:#twine-2[Twine commercial books]
 
 TIP: Suggested GitHub topics:
 {gh-topic}twine[`twine`^]
 {gh-topic}twine2[`twine2`^]
 
+See also:
+
+* link:#twine-2[Twine commercial books]
+
 
 == Undum
 
-* http://undum.com/[undum.com^]
+* https://undum.com/[undum.com^]
 
 == Varytale
 
@@ -211,7 +220,7 @@ TIP: Suggested GitHub topics:
 
 == Versu
 
-* http://versu.com/[versu.com^]
+* https://versu.com/[versu.com^]
 
 == Yarn
 
@@ -225,7 +234,7 @@ TIP: Suggested GitHub topics:
 
 == Superglús
 
-* http://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
+* https://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
 * https://github.com/Utodev/Superglus[github.com/Utodev/Superglus^]
 
 For more information, see also:

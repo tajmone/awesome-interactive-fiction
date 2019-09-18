@@ -3,13 +3,13 @@
 == Cross Platform
 
 * https://fizmo.spellbreaker.org/[Fizmo^] -- a generic Z-Machine interpreter-development library in plain C, used in various interpreters. Supports Z-code (1-5, 7 and 8).
-* http://frotz.sourceforge.net/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
+* https://davidgriffith.gitlab.io/frotz/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
 * http://ccxvii.net/gargoyle/[Gargoyle^] -- for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
 == macOS
 
 * http://ccxvii.net/spatterlight/[Spatterlight^] -- story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
-* http://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
+* https://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
 
 == MS Windows
 

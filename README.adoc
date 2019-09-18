@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2019-09-17
+2019-09-18
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -80,11 +80,11 @@ toc::[]
 Newcomers to Interactive Fiction will find these links helpful:
 
 * http://inform7.com/learn/eg/dm/IntroductionToIF.pdf[Introduction to Interactive Fiction^] -- by Emily Short; 8pp (PDF). Also available in other languages:
-** Italian » http://www.youdev.it/if/Titolo/Introduzione%20alle%20Avventure%20Testuali.pdf[Introduzione alle Avventure Testuali^]
+** Italian » https://www.youdev.it/if/Titolo/Introduzione%20alle%20Avventure%20Testuali.pdf[Introduzione alle Avventure Testuali^]
 ** French » http://ifiction.free.fr/fichiers/Introduction-IF-fr.pdf[Introduction à la fiction interactive^]
 * http://www.brasslantern.org/beginners/beginnersguide.html[Brass Lantern's Beginner's Guide to Interactive Fiction^] -- by Stephen Granade and Emily Short.
-* http://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
-* http://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
+* https://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
+* https://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
 
 
 :leveloffset!:
@@ -111,30 +111,35 @@ There are different versions of ADRIFT, adventures created with a specific versi
 * *ADRIFT 3.9* (2001)
 * *ADRIFT 2.0* (aka Adventure Generator, 1997) -- legacy 16-bit DOS app
 
-For more information, see also:
-
-* http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
-* https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
-
 TIP: Suggested GitHub topics:
 {gh-topic}adrift[`adrift`^]
 {gh-topic}adrift5[`adrift5`^]
 {gh-topic}adrift-5[`adrift-5`^]
 
+For more information, see also:
+
+* http://www.ifwiki.org/index.php/ADRIFT[IFWiki » ADRIFT^]
+* https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
+
 
 == Aiee!
 
-* http://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
+* https://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
 
 Aiee! is a cross-platform tool (Java) for creating and playing text adventures, or "interactive fiction". Aiee! adventures are written in a simple XML-based format, without the need for any programming experience. Aiee! adventures can even include illustrations and sound.
 
 == Alan
 
-* http://www.alanif.se/[www.alanif.se^]
+* https://www.alanif.se/[www.alanif.se^]
 
 Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
 
 Alan was created in 1985 by Thomas Nilsson (now Thomas Nilefalk) and Göran Forslund, and is actively maintained by Thomas Nilefalk. The latest version is *Alan 3*.
+
+TIP: Suggested GitHub topics:
+{gh-topic}alan-if[`alan-if`^]
+{gh-topic}alan3[`alan3`^]
+
 
 For more information, see also:
 
@@ -173,33 +178,38 @@ Alan-related projects:
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
 * https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
 
-TIP: Suggested GitHub topics:
-{gh-topic}alan-if[`alan-if`^]
-{gh-topic}alan3[`alan3`^]
-
-
 
 == Curveship
 
-* http://curveship.com/[curveship.com^]
+* https://curveship.com/[curveship.com^]
 
 == Hugo
 
-* http://www.generalcoffee.com/[www.generalcoffee.com^]
+* https://www.generalcoffee.com/hugo/[www.generalcoffee.com/hugo^]
 
 The Hugo Interactive Fiction Development System (1995-2006), created by Kent Tessman, is a cross-platform, free and open source (BSD-2-Clause license) programming language and set of tools for authoring and playing Interactive Fiction adventures, supporting images, sound and videos.
 The latest official Hugo release is v3.1.03 (2005).
+
+TIP: Suggested GitHub topics:
+{gh-topic}hugo-if[`hugo-if`^]
 
 For more information, see also:
 
 * http://ifwiki.org/index.php/Hugo[IFWiki » Hugo^]
 * https://github.com/tajmone/hugo/wiki[Hugo Wiki^] (care of Tristano Ajmone).
+* https://notdeadhugo.blogspot.com[Not Dead Hugo^] -- an active blog with precious news on Hugo.
 
-For tutorials and learning resources:
+Tutorials and learning resources:
 
 * http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
-* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
-* link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine 2018) -- Unofficial Hugo discussion forum.
+* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine, 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
+* link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine, 2018) -- Unofficial Hugo discussion forum.
+* https://bitbucket.org/roody_yogurt/hugo-code-lab/[Hugo Code Lab^] -- A collection of Hugo libraries by Jonathan Blask.
+
+Editor syntaxes:
+
+* https://bitbucket.org/0branch/hugo-mode/[Hugo mode^] -- Hugo mode for Emacs, by Christopher Tate (GPLv2).
+* https://bitbucket.org/0branch/hugo-vim/[Hugo Vim^] -- Hugo syntax file for Vim, by Marc Simpson.
 
 Hugo source code:
 
@@ -215,29 +225,31 @@ To find games created with Hugo:
 * https://ifdb.tads.org/search?searchfor=system%3AHugo&searchgo=Search+Games&sortby=&pg=all[IFDB » Hugo^] -- all Hugo games on the Interactive Fiction Database.
 * https://www.ifarchive.org/indexes/if-archive/games/hugo/[IF Archive » games » Hugo^]
 * http://ifwiki.org/index.php/Category:Hugo_works[IFWiki » Hugo Works^]
-
-TIP: Suggested GitHub topics:
-{gh-topic}hugo-if[`hugo-if`^]
+* http://textadventures.online[HugoJS^] -- a collection of Hugo games playable on-line, in the browser.
 
 == Inform 6
 
-* http://inform-fiction.org/[inform-fiction.org^]
-
-See also:
-
-* link:#inform-6-2[Inform 6 Free eBooks]
-* link:#inform-6-3[Inform 6 Cheat Sheets]
+* https://inform-fiction.org/[inform-fiction.org^]
 
 TIP: Suggested GitHub topics:
 {gh-topic}inform[`inform`^]
 {gh-topic}inform6[`inform6`^]
 
 
+See also:
+
+* link:#inform-6-2[Inform 6 Free eBooks]
+* link:#inform-6-3[Inform 6 Cheat Sheets]
+
 == Inform 7
 
 * http://inform7.com/[inform7.com^]
 
 Based on natural language.
+
+TIP: Suggested GitHub topics:
+{gh-topic}inform[`inform`^]
+{gh-topic}inform7[`inform7`^]
 
 See also:
 
@@ -248,11 +260,7 @@ See also:
 
 Online tools:
 
-* http://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
-
-TIP: Suggested GitHub topics:
-{gh-topic}inform[`inform`^]
-{gh-topic}inform7[`inform7`^]
+* https://www.nitku.net/if/thingcreator/[I7 Thing Creator (I7TC)^] -- by Juhana Leinonen. A web form to quickly create i7 objects and reponses; the produced code can then be pasted into the project's source.
 
 
 == Ink
@@ -261,7 +269,7 @@ TIP: Suggested GitHub topics:
 
 == T.A.B.
 
-* http://tab.thinbasic.com/[tab.thinbasic.com^]
+* https://tab.thinbasic.com/[tab.thinbasic.com^]
 
 T.A.B. (ThinBASIC Adventure Builder).
 
@@ -269,7 +277,7 @@ For more information, see also:
 
 == TADS
 
-* http://www.tads.org[www.tads.org^]
+* https://www.tads.org[www.tads.org^]
 
 TADS (Text Adventure Development System).
 
@@ -285,20 +293,21 @@ TIP: Suggested GitHub topics:
 
 == Twine
 
-* http://twinery.org/[twinery.org^]
+* https://twinery.org/[twinery.org^]
 
-See also:
-
-* link:#twine-2[Twine commercial books]
 
 TIP: Suggested GitHub topics:
 {gh-topic}twine[`twine`^]
 {gh-topic}twine2[`twine2`^]
 
+See also:
+
+* link:#twine-2[Twine commercial books]
+
 
 == Undum
 
-* http://undum.com/[undum.com^]
+* https://undum.com/[undum.com^]
 
 == Varytale
 
@@ -306,7 +315,7 @@ TIP: Suggested GitHub topics:
 
 == Versu
 
-* http://versu.com/[versu.com^]
+* https://versu.com/[versu.com^]
 
 == Yarn
 
@@ -320,7 +329,7 @@ TIP: Suggested GitHub topics:
 
 == Superglús
 
-* http://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
+* https://www.caad.es/superglus/doku.php[www.caad.es/superglus/doku.php^]
 * https://github.com/Utodev/Superglus[github.com/Utodev/Superglus^]
 
 For more information, see also:
@@ -344,13 +353,13 @@ For more information, see also:
 == Cross Platform
 
 * https://fizmo.spellbreaker.org/[Fizmo^] -- a generic Z-Machine interpreter-development library in plain C, used in various interpreters. Supports Z-code (1-5, 7 and 8).
-* http://frotz.sourceforge.net/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
+* https://davidgriffith.gitlab.io/frotz/[Frotz^] -- for Linux & Mac OS X, supports Z-Machine story files.
 * http://ccxvii.net/gargoyle/[Gargoyle^] -- for MS Windows, Linux & Mac OS X; supports most story file formats by including the following interpreters: Agility, Alan 2 and 3, Frotz (glk port), Glulxe, Hugo, Level 9, Magnetic, Scare, Tads 2/3.
 
 == macOS
 
 * http://ccxvii.net/spatterlight/[Spatterlight^] -- story files supported: AGT, Adrift, AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS (text-only), Quill, and Z-code (except v6).
-* http://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
+* https://www.logicalshift.co.uk/unix/zoom/[Zoom^] -- supports Z-code, TADS 2/3 and HUGO story files.
 
 == MS Windows
 
@@ -578,7 +587,7 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 = Collections
 
 * http://www.ifdb.tads.org[Interaction Fiction Database^]
-* http://www.ifarchive.org[The Interaction Fiction Archive^]
+* https://www.ifarchive.org[The Interaction Fiction Archive^]
 
 
 :leveloffset!:
@@ -587,9 +596,9 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 = Blogs
 
-* http://planet-if.com[Planet IF^] -- Aggregation of posts from 60+ IF blogs
+* https://planet-if.com[Planet IF^] -- Aggregation of posts from 60+ IF blogs
 * http://storycade.com[Storycade^]
-* http://emshort.wordpress.com[Emily Short's Interactive Storytelling^]
+* https://emshort.wordpress.com[Emily Short's Interactive Storytelling^]
 * https://inkypath.wordpress.com/[Inky Path^] -- Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
 * http://brasslantern.org/[Brass Lantern^]
 
@@ -603,16 +612,16 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 For more info, see:
 
 * http://www.ifwiki.org/index.php/Category:Competitions[IFWiki » Competitions^]
-* http://wiki.caad.es/Categor%C3%ADa:Competiciones[WikiCAAD (ES) » Competiciones^]
+* https://wiki.caad.es/Categor%C3%ADa:Competiciones[WikiCAAD (ES) » Competiciones^]
 
 == Annual Competitions
 
-* http://www.ifcomp.org[The Interactive Fiction Competition (IFComp)^] -- since 1995.
-* http://springthing.net[Spring Thing Festival of Interactive Fiction^] -- since 2002.
+* https://www.ifcomp.org[The Interactive Fiction Competition (IFComp)^] -- since 1995.
+* https://springthing.net[Spring Thing Festival of Interactive Fiction^] -- since 2002.
 
 == Annual Awards
 
-* http://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
+* https://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
 
 
 :leveloffset!:
@@ -646,7 +655,7 @@ See also:
 
 The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorship, and exploring the possibilities of the medium. -- everything from artistic mapping techniques to hooking your IF through a browser-based GPS system for IF in the real world!
 
-* http://discdigest.xyz[http://discdigest.xyz^]
+* https://web.archive.org/web/20181105181239/http://discdigest.xyz/[http://discdigest.xyz^] (Wayback Machine, 2018)
 * https://www.ifarchive.org/indexes/if-archiveXmagazinesXDiscoverersDigest.html[_Discoverer's Digest_ issues at IF Archive^]
 
 == Free eBooks
@@ -658,18 +667,18 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF Theory
 
-* http://davidfisher.info/if/gems/[IF Gems^] -- A selection of quotes from reviews of the http://www.ifcomp.org/[annual Interactive Fiction competition^] (1995–2005), compiled by David Fisher; 183pp (PDF).
-* http://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html[IF Theory Reader^] -- by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1[Kindle edition^].
+* http://davidfisher.info/if/gems/[IF Gems^] -- A selection of quotes from reviews of the https://www.ifcomp.org/[annual Interactive Fiction competition^] (1995–2005), compiled by David Fisher; 183pp (PDF).
+* https://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html[IF Theory Reader^] -- by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1[Kindle edition^].
 
 === Inform 6
 
-* http://inform-fiction.org/manual/about_ibg.html[The Inform Beginner's Guide^] -- by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
-** Italian » http://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html[Guida a Inform per Principianti^]
-* http://inform-fiction.org/manual/about_dm4.html[The Inform Designer's Manual^] (DM4) -- by Graham Nelson, 2001; 572pp. Also available as paperback and http://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm[Microsoft CHM eBook].
+* https://inform-fiction.org/manual/about_ibg.html[The Inform Beginner's Guide^] -- by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
+** Italian » https://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html[Guida a Inform per Principianti^]
+* https://inform-fiction.org/manual/about_dm4.html[The Inform Designer's Manual^] (DM4) -- by Graham Nelson, 2001; 572pp. Also available as paperback and https://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm[Microsoft CHM eBook].
 
 === Inform 7
 
-* http://www.musicwords.net/if/i7hb.htm[The Inform 7 Handbook^] -- by Jim Aikin, 2015; 518pp.
+* https://www.musicwords.net/if/i7hb.htm[The Inform 7 Handbook^] -- by Jim Aikin, 2015; 518pp.
 
 === PAW
 
@@ -679,15 +688,15 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF History
 
-* http://nickm.com/twisty/[Twisty Little Passages^] -- by Nick Montfort, 2005; 328pp, paperback or hardback.
+* https://nickm.com/twisty/[Twisty Little Passages^] -- by Nick Montfort, 2005; 328pp, paperback or hardback.
 
 === Inform 7
 
-* http://inform7.textories.com/[Creating Interactive Fiction with Inform 7^] -- by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
+* https://inform7.textories.com/[Creating Interactive Fiction with Inform 7^] -- by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
 
 === Twine
 
-* http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/[Writing Interactive Fiction with Twine^] -- by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
+* https://www.melissafordauthor.com/writing-interactive-fiction-with-twine/[Writing Interactive Fiction with Twine^] -- by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
 
 == Documentaries
 
@@ -697,21 +706,21 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF Authoring Guides
 
-* http://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf[The Craft of the Adventure^] (2nd Ed) -- by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
-* http://inform-fiction.org/manual/html/ch8.html[_The Craft of the Adventure_^] (Ch.VIII of DM4) -- by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
+* https://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf[The Craft of the Adventure^] (2nd Ed) -- by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
+* https://inform-fiction.org/manual/html/ch8.html[_The Craft of the Adventure_^] (Ch.VIII of DM4) -- by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
 * https://web.archive.org/web/20091027084109/http://geocities.com/aetus_kane/writing/cam.html[Crimes Against Mimesis^] -- by Roger Giner-Sorolla, 1996. (http://www.reocities.com/aetus_kane/writing/cam.html[ReoCities link^])
 
 Tutorials by inki (Dan Shiovitz):
 
-* http://inky.org/if/notes.html[General Game-Design/Authoring Notes^]
-* http://inky.org/if/program-if.html[How to Program IF^]
-* http://inky.org/if/great-games.html[How to Write a Great Game^]
-* http://inky.org/if/think-player.html[Think Like a Player!^]
+* https://inky.org/if/notes.html[General Game-Design/Authoring Notes^]
+* https://inky.org/if/program-if.html[How to Program IF^]
+* https://inky.org/if/great-games.html[How to Write a Great Game^]
+* https://inky.org/if/think-player.html[Think Like a Player!^]
 
 Tutorials by Emily Short:
 
 * https://emshort.blog/how-to-play/writing-if/[Writing IF^]
-* http://emshort.home.mindspring.com/Geography.html[Challenges of a Broad Geography^] (2001)
+* https://emshort.home.mindspring.com/Geography.html[Challenges of a Broad Geography^] (2001)
 * https://emshort.blog/2014/10/29/writing-in-collaboration-with-the-system/[Writing in Collaboration with the System^] (2014)
 * https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/[Beyond Branching: Quality-Based, Salience-Based, and Waypoint Narrative Structures^] (2016)
 * https://emshort.blog/2015/05/24/framed-invisible-parties-and-the-world-plot-interface/[Tightening the World-Plot Interface: or, Why I Am Obsessed With Conversation Models^] (2015)
@@ -723,11 +732,11 @@ Tutorials by Emily Short:
 
 Tutorials on Description:
 
-* http://raddial.com/if/theory/territory.html[Mapping the Tale: Scene Description in IF^] -- by J. Robinson Wheeler
+* https://raddial.com/if/theory/territory.html[Mapping the Tale: Scene Description in IF^] -- by J. Robinson Wheeler
 
 Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation:
 
-* http://www.scottkim.com/[Scott Kim website homepage^]
+* https://www.scottkim.com/[Scott Kim website homepage^]
 * http://www.scottkim.com.previewc40.carrierzone.com/thinkinggames/[articles on game-design^]
 
 === Designing IF Authoring Systems
@@ -738,27 +747,32 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 * http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1[IFWiki » Past raif topics » Development^]:
 ** http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1#Creating_an_IF_language[Creating an IF language^]
 ** http://www.ifwiki.org/index.php/Past_raif_topics:_Game_Mechanics:_part_1#Game_physics_.2F_world_model[Game physics / world model^]
-* http://inform-fiction.org/manual/html/s24.html[DM4 » §24 The world model described^] -- _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
+* https://inform-fiction.org/manual/html/s24.html[DM4 » §24 The world model described^] -- _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
 
 === Inform 7
 
 * http://www.ifwiki.org/index.php/Inform_7_for_Programmers[Inform 7 for Programmers^] -- by Ron Newcomb, 2009 (`i7_5U92`); multipart tutorial at IFWiki (HTML).
 * http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf[Inform 7 Programmer's Manual^] -- by Ron Newcomb, 2011 (`i7_6G60`); 81pp, PDF.
-* http://www.sibylmoon.com/welcome-to-adventure/[Welcome To Adventure: A Quick-Start Guide to Inform 7^] -- by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
-* http://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons.
+* https://www.sibylmoon.com/welcome-to-adventure/[Welcome To Adventure: A Quick-Start Guide to Inform 7^] -- by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
+* https://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons.
 * https://emshort.blog/2009/06/24/exercises-in-generated-prose/[Exercises in Generated Prose^] -- by Emily Short, 2009; blog entry.
 
 == Cheat Sheets and Reference Docs
 
 === Inform 6
 
-* http://www.firthworks.com/roger/downloads/informqr.zip[Inform in four minutes] -- by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
-* http://www.firthworks.com/roger/downloads/inflibqr.zip[InfoLib at your fingertips] -- by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
+* http://www.firthworks.com/roger/downloads/informqr.zip[Inform in four minutes^] -- by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
+* http://www.firthworks.com/roger/downloads/inflibqr.zip[InfoLib at your fingertips^] -- by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
+
+////
+// ** seems no longer available ... **
+// (the i7 website is being revamped, let's wait and see)
 
 === Inform 7
 
 * http://inform7.com/learn/documents/Rules%20Chart.pdf[The Chart of Rules^] -- Visual guide to Inform's rules and rulebooks (PDF).
 
+////
 
 :leveloffset!:
 

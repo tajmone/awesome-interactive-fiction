@@ -3,14 +3,14 @@
 For more info, see:
 
 * http://www.ifwiki.org/index.php/Category:Competitions[IFWiki » Competitions^]
-* http://wiki.caad.es/Categor%C3%ADa:Competiciones[WikiCAAD (ES) » Competiciones^]
+* https://wiki.caad.es/Categor%C3%ADa:Competiciones[WikiCAAD (ES) » Competiciones^]
 
 == Annual Competitions
 
-* http://www.ifcomp.org[The Interactive Fiction Competition (IFComp)^] -- since 1995.
-* http://springthing.net[Spring Thing Festival of Interactive Fiction^] -- since 2002.
+* https://www.ifcomp.org[The Interactive Fiction Competition (IFComp)^] -- since 1995.
+* https://springthing.net[Spring Thing Festival of Interactive Fiction^] -- since 2002.
 
 == Annual Awards
 
-* http://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
+* https://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
 

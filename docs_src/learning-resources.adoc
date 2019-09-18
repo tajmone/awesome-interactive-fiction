@@ -23,7 +23,7 @@ See also:
 
 The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorship, and exploring the possibilities of the medium. -- everything from artistic mapping techniques to hooking your IF through a browser-based GPS system for IF in the real world!
 
-* http://discdigest.xyz[http://discdigest.xyz^]
+* https://web.archive.org/web/20181105181239/http://discdigest.xyz/[http://discdigest.xyz^] (Wayback Machine, 2018)
 * https://www.ifarchive.org/indexes/if-archiveXmagazinesXDiscoverersDigest.html[_Discoverer's Digest_ issues at IF Archive^]
 
 == Free eBooks
@@ -35,18 +35,18 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF Theory
 
-* http://davidfisher.info/if/gems/[IF Gems^] -- A selection of quotes from reviews of the http://www.ifcomp.org/[annual Interactive Fiction competition^] (1995–2005), compiled by David Fisher; 183pp (PDF).
-* http://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html[IF Theory Reader^] -- by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1[Kindle edition^].
+* http://davidfisher.info/if/gems/[IF Gems^] -- A selection of quotes from reviews of the https://www.ifcomp.org/[annual Interactive Fiction competition^] (1995–2005), compiled by David Fisher; 183pp (PDF).
+* https://www.lulu.com/shop/kevin-jackson-mead-and-j-robinson-wheeler/if-theory-reader/ebook/product-17551190.html[IF Theory Reader^] -- by Kevin Jackson-Mead & J. Robinson Wheeler, 2011; 438pp (PDF). Also available for purchase as paperback and https://www.amazon.com/IF-Theory-Reader-Adventure-beyond-ebook/dp/B00JHCSU0Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522580829&sr=1-1[Kindle edition^].
 
 === Inform 6
 
-* http://inform-fiction.org/manual/about_ibg.html[The Inform Beginner's Guide^] -- by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
-** Italian » http://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html[Guida a Inform per Principianti^]
-* http://inform-fiction.org/manual/about_dm4.html[The Inform Designer's Manual^] (DM4) -- by Graham Nelson, 2001; 572pp. Also available as paperback and http://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm[Microsoft CHM eBook].
+* https://inform-fiction.org/manual/about_ibg.html[The Inform Beginner's Guide^] -- by Roger Firth and Sonja Kesserich, 2004; 284pp (PDF). Also available as paperback. Translations in other languages:
+** Italian » https://www.lulu.com/shop/autori-vari/guida-a-inform-per-principianti/ebook/product-17551755.html[Guida a Inform per Principianti^]
+* https://inform-fiction.org/manual/about_dm4.html[The Inform Designer's Manual^] (DM4) -- by Graham Nelson, 2001; 572pp. Also available as paperback and https://ifarchive.org/if-archive/infocom/compilers/inform6/manuals/designers_manual_4.chm[Microsoft CHM eBook].
 
 === Inform 7
 
-* http://www.musicwords.net/if/i7hb.htm[The Inform 7 Handbook^] -- by Jim Aikin, 2015; 518pp.
+* https://www.musicwords.net/if/i7hb.htm[The Inform 7 Handbook^] -- by Jim Aikin, 2015; 518pp.
 
 === PAW
 
@@ -56,15 +56,15 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF History
 
-* http://nickm.com/twisty/[Twisty Little Passages^] -- by Nick Montfort, 2005; 328pp, paperback or hardback.
+* https://nickm.com/twisty/[Twisty Little Passages^] -- by Nick Montfort, 2005; 328pp, paperback or hardback.
 
 === Inform 7
 
-* http://inform7.textories.com/[Creating Interactive Fiction with Inform 7^] -- by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
+* https://inform7.textories.com/[Creating Interactive Fiction with Inform 7^] -- by Aaron A. Reed, 2010; 448 pp, paperback + eBook.
 
 === Twine
 
-* http://www.melissafordauthor.com/writing-interactive-fiction-with-twine/[Writing Interactive Fiction with Twine^] -- by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
+* https://www.melissafordauthor.com/writing-interactive-fiction-with-twine/[Writing Interactive Fiction with Twine^] -- by Melissa Ford, 2016; 432pp. Available in eBook or paperback.
 
 == Documentaries
 
@@ -74,21 +74,21 @@ The _Discoverer's Digest_ focuses on Interactive Fiction's philosophy, authorshi
 
 === IF Authoring Guides
 
-* http://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf[The Craft of the Adventure^] (2nd Ed) -- by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
-* http://inform-fiction.org/manual/html/ch8.html[_The Craft of the Adventure_^] (Ch.VIII of DM4) -- by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
+* https://ifarchive.org/if-archive/info/Craft.Of.Adventure.pdf[The Craft of the Adventure^] (2nd Ed) -- by Graham Nelson, 1997; 37pp, PDF. Five Articles on the Design of Adventure Games.
+* https://inform-fiction.org/manual/html/ch8.html[_The Craft of the Adventure_^] (Ch.VIII of DM4) -- by Graham Nelson, 2001. A chapter of _The Inform Designer's Manual_ dedicated to IF authoring guidelines.
 * https://web.archive.org/web/20091027084109/http://geocities.com/aetus_kane/writing/cam.html[Crimes Against Mimesis^] -- by Roger Giner-Sorolla, 1996. (http://www.reocities.com/aetus_kane/writing/cam.html[ReoCities link^])
 
 Tutorials by inki (Dan Shiovitz):
 
-* http://inky.org/if/notes.html[General Game-Design/Authoring Notes^]
-* http://inky.org/if/program-if.html[How to Program IF^]
-* http://inky.org/if/great-games.html[How to Write a Great Game^]
-* http://inky.org/if/think-player.html[Think Like a Player!^]
+* https://inky.org/if/notes.html[General Game-Design/Authoring Notes^]
+* https://inky.org/if/program-if.html[How to Program IF^]
+* https://inky.org/if/great-games.html[How to Write a Great Game^]
+* https://inky.org/if/think-player.html[Think Like a Player!^]
 
 Tutorials by Emily Short:
 
 * https://emshort.blog/how-to-play/writing-if/[Writing IF^]
-* http://emshort.home.mindspring.com/Geography.html[Challenges of a Broad Geography^] (2001)
+* https://emshort.home.mindspring.com/Geography.html[Challenges of a Broad Geography^] (2001)
 * https://emshort.blog/2014/10/29/writing-in-collaboration-with-the-system/[Writing in Collaboration with the System^] (2014)
 * https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/[Beyond Branching: Quality-Based, Salience-Based, and Waypoint Narrative Structures^] (2016)
 * https://emshort.blog/2015/05/24/framed-invisible-parties-and-the-world-plot-interface/[Tightening the World-Plot Interface: or, Why I Am Obsessed With Conversation Models^] (2015)
@@ -100,11 +100,11 @@ Tutorials by Emily Short:
 
 Tutorials on Description:
 
-* http://raddial.com/if/theory/territory.html[Mapping the Tale: Scene Description in IF^] -- by J. Robinson Wheeler
+* https://raddial.com/if/theory/territory.html[Mapping the Tale: Scene Description in IF^] -- by J. Robinson Wheeler
 
 Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation:
 
-* http://www.scottkim.com/[Scott Kim website homepage^]
+* https://www.scottkim.com/[Scott Kim website homepage^]
 * http://www.scottkim.com.previewc40.carrierzone.com/thinkinggames/[articles on game-design^]
 
 === Designing IF Authoring Systems
@@ -115,24 +115,29 @@ Scott Kim "Puzzle Master" articles and resources on puzzles and puzzles-creation
 * http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1[IFWiki » Past raif topics » Development^]:
 ** http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_1#Creating_an_IF_language[Creating an IF language^]
 ** http://www.ifwiki.org/index.php/Past_raif_topics:_Game_Mechanics:_part_1#Game_physics_.2F_world_model[Game physics / world model^]
-* http://inform-fiction.org/manual/html/s24.html[DM4 » §24 The world model described^] -- _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
+* https://inform-fiction.org/manual/html/s24.html[DM4 » §24 The world model described^] -- _The Inform Designer's Manual_ by Graham Nelson, 2001. Section 24 discusses world models.
 
 === Inform 7
 
 * http://www.ifwiki.org/index.php/Inform_7_for_Programmers[Inform 7 for Programmers^] -- by Ron Newcomb, 2009 (`i7_5U92`); multipart tutorial at IFWiki (HTML).
 * http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf[Inform 7 Programmer's Manual^] -- by Ron Newcomb, 2011 (`i7_6G60`); 81pp, PDF.
-* http://www.sibylmoon.com/welcome-to-adventure/[Welcome To Adventure: A Quick-Start Guide to Inform 7^] -- by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
-* http://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons.
+* https://www.sibylmoon.com/welcome-to-adventure/[Welcome To Adventure: A Quick-Start Guide to Inform 7^] -- by Carolyn Vaneseltine, 2014; multipart tutorial (HTML).
+* https://www.steveersinghaus.com/informsnippets/[The Foyer is a Room^] -- Inform 7 Examples, Snippets and PDF handouts by John Timmons.
 * https://emshort.blog/2009/06/24/exercises-in-generated-prose/[Exercises in Generated Prose^] -- by Emily Short, 2009; blog entry.
 
 == Cheat Sheets and Reference Docs
 
 === Inform 6
 
-* http://www.firthworks.com/roger/downloads/informqr.zip[Inform in four minutes] -- by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
-* http://www.firthworks.com/roger/downloads/inflibqr.zip[InfoLib at your fingertips] -- by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
+* http://www.firthworks.com/roger/downloads/informqr.zip[Inform in four minutes^] -- by Roger Firth, 2002; 4pp, PDF. A quick reference to the Inform language.
+* http://www.firthworks.com/roger/downloads/inflibqr.zip[InfoLib at your fingertips^] -- by Roger Firth, 2002; 6pp, PDF. A quick reference to the Inform Library.
+
+////
+// ** seems no longer available ... **
+// (the i7 website is being revamped, let's wait and see)
 
 === Inform 7
 
 * http://inform7.com/learn/documents/Rules%20Chart.pdf[The Chart of Rules^] -- Visual guide to Inform's rules and rulebooks (PDF).
 
+////
