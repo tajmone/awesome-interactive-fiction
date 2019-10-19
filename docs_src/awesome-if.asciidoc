@@ -70,10 +70,13 @@ endif::[]
 A curated list of interactive fiction frameworks, tools, and resources.
 Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
 
-* https://git.io/awesome-if
-* https://github.com/tajmone/awesome-interactive-fiction/
+// CC0 Badge:
+link:http://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/license-CC0-00b5da.svg[alt=CC0]^,title="CC0 1.0 Universal, Public Domain"]
+// Travis CI Status Badge (AsciiDoc version only):
+ifdef::IsADoc[{nbsp}image:https://api.travis-ci.org/tajmone/awesome-interactive-fiction.svg[]]
 
-link:http://creativecommons.org/publicdomain/zero/1.0/[image:http://i.creativecommons.org/p/zero/1.0/88x31.png[alt=CC0]^,title=CC0]
+* link:https://git.io/awesome-if[git.io/awesome-if^,title="View website version of Awesome IF "]
+* link:https://github.com/tajmone/awesome-interactive-fiction[github.com/tajmone/awesome-interactive-fiction^,title="View Awesome IF repository on GitHub"]
 --
 ifdef::IsADoc[+++<br clear="all" />+++]
 ================================================================================
