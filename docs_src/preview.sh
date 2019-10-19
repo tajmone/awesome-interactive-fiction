@@ -6,4 +6,3 @@ asciidoctor \
 	-a IsHTML \
 	-a imagesdir=../docs/ \
 	$source
-

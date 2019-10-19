@@ -6,6 +6,7 @@
 
 *.sh           text eol=lf
 *.rb           text eol=lf
+*.yml          text eol=lf
 
 *.adoc         text
 *.asciidoc     text

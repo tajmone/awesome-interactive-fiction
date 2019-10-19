@@ -40,7 +40,8 @@ indent_style = tab
 
 ## Configurations
 #################
-[.{git*,editorconfig}]
+[.{git*,editorconfig,*.yml}]
+indent_size = 2
 end_of_line = lf
 
 # EOF #
