@@ -1,7 +1,7 @@
-################################################################################
-# Awesome Interactive Fiction                                                  #
-# https://github.com/tajmone/awesome-interactive-fiction                       #
-################################################################################
+############################################################
+#  Awesome Interactive Fiction                             #
+#  https://github.com/tajmone/awesome-interactive-fiction  #
+############################################################
 
 # Temp work files:
 __*.*
@@ -12,3 +12,5 @@ __*
 # Exclude local HTML previews:
 /*.html
 docs_src/*.html
+
+# EOF #

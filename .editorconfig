@@ -1,0 +1,46 @@
+############################################################
+#  Awesome Interactive Fiction                             #
+#  https://github.com/tajmone/awesome-interactive-fiction  #
+############################################################
+
+root = true
+
+[*]
+indent_style = space
+indent_size = unset
+end_of_line = unset
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[{*.html,.nojekyll}]
+trim_trailing_whitespace = unset
+insert_final_newline = unset
+
+
+## AsciiDoc
+###########
+[*.{ad,adoc,asciidoc}]
+indent_size = 2
+
+
+## Ruby
+#######
+[*.rb]
+indent_size = 2
+end_of_line = lf
+
+
+## Shell Scripts
+################
+[*.sh]
+end_of_line = lf
+indent_style = tab
+
+
+## Configurations
+#################
+[.{git*,editorconfig}]
+end_of_line = lf
+
+# EOF #

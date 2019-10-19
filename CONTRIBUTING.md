@@ -7,7 +7,7 @@ You can contribute to the __Awesome Interactive Fiction__ list via:
 
 The former contribution method is the preferred one, for you'll be directly contributing your contents to the [AsciiDoc] source files; but it's more indicated for those willing to collaborate to the project on the long run, for it requires some initial setup steps, and knowledge of AsciiDoc.
 
-The latter is useful for discussion and planning, but can also be used to propose new material by those who don't know AsciiDoc, or simply wish to propose adding a link and don't want to go through all the trouble of forking the repository.
+Issues are useful for discussion and planning, but can also be used to propose new material by those who don't know AsciiDoc, or simply wish to propose adding a link and don't want to go through all the trouble of forking the repository.
 
 # Submitting Contents via Pull Requests
 
@@ -23,7 +23,25 @@ The [`README.adoc`][README ad] file that you see in the repository main page is 
 
 ## System Requirements
 
+### Asciidoctor Ruby
+
 Source documents are in [AsciiDoc] format, designed for [Asciidoctor]  (Ruby), so you'll need to install the [Asciidoctor Ruby gem] on your machine to be able to build and preview the edited document.
+
+### EditorConfig
+
+This repository relies on [EditorConfig] to enforce consisted code styles across different editors.
+If your editor doesn't natively support EditorConfig, you should [find and install a third party plug-in].
+
+EditorConfig validation of the project files is carried out via [EClint] (Node.js):
+
+    $ eclint check
+
+Ideally, you should also install [EClint] via NPM, in order to check that all files pass the test before submitting a pull request — but neither of these are mandatory, just highly recommended to help preserve code consistency.
+
+[EditorConfig]: https://editorconfig.org "Visit EditorConfig website"
+[find and install a third party plug-in]: https://editorconfig.org/#download "See the list of editors supporting EditorConfig"
+[EClint]: https://www.npmjs.com/package/eclint "Go to EClint page at NPM"
+
 
 # Proposing Contents via Issues
 
