@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# "validate.sh"                                              v1.0.0 | 2019/10/19
+# "validate.sh"                                              v1.0.1 | 2019/10/19
 #-------------------------------------------------------------------------------
 # Validate code style consistency in the repository via EditorConfig settings
 # and the EClint validator tool:
@@ -13,7 +13,10 @@ echo -e "\033[34;1m================================================\033[0m"
 
 # Check that EClint is installed on the user machine:
 if eclint --version > /dev/null 2>&1 ; then
-	echo -e "Using: Node.js $(node -v), EClint v$(eclint --version).\n\033[31;1m"
+	echo -e "Using:"
+	echo -e "\033[34;1m*\033[35m Node.js $(node -v)"
+	echo -e "\033[34;1m*\033[35m EClint v$(eclint --version).\n\033[31;1m"
+
 else
 	echo -e "\033[31;1m~~~ ERROR! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo -e "In order to run this script you need to install EClint (Node.js):\n"

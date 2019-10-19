@@ -5,6 +5,8 @@ git:
 
 install:
   - npm install -g eclint
+  - gem install asciidoctor
 
 script:
   - ./validate.sh
+  - pushd ./docs_src/ && ./build.sh && popd
