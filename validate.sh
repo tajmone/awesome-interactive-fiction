@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# "validate.sh"                                              v1.0.1 | 2019/10/19
+# "validate.sh"                                              v1.0.2 | 2019/10/20
 #-------------------------------------------------------------------------------
 # Validate code style consistency in the repository via EditorConfig settings
 # and the EClint validator tool:
@@ -24,11 +24,11 @@ else
 	echo -e "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\033[0m"
 	echo -e "If you've already installed Node.js on your machine, type:\n"
 	echo -e "\033[33;1m\tnpm install -g eclint"
-	echo -e "\033[31;1m\n/// Aborting Script ///\033[0m"
+	echo -e "\033[31;1m\n/// Aborting All Tests ///\033[0m"
 	exit 1
 fi
 
 # Validate files:
-eclint check || exit 1
+eclint check || { echo -e "\033[31;1m/// Aborting All Tests ///\033[0m"; exit 1; }
 echo -e "\033[32;1m/// Test Passed ///\033[0m"
 exit

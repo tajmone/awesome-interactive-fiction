@@ -1,7 +1,7 @@
 #!/bin/bash
 source=awesome-if.asciidoc
 
-# "docs_src/build.sh"                                        v1.0.0 | 2019/10/19
+# "docs_src/build.sh"                                        v1.0.1 | 2019/10/20
 #-------------------------------------------------------------------------------
 # Build:
 # 1. The pre-processed single-file AsciiDoc README.adoc in the repository
@@ -24,7 +24,7 @@ else
 	echo -e "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\033[0m"
 	echo -e "If you've already installed Ruby on your machine, type:\n"
 	echo -e "\033[33;1m\tgem install asciidoctor"
-	echo -e "\033[31;1m\n/// Aborting Script ///\033[0m"
+	echo -e "\033[31;1m\n/// Aborting All Tests ///\033[0m"
 	exit 1
 fi
 #-------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ if asciidoctor \
 	then
 		echo -e "\033[32;1m(successful)\n"
 	else
-		echo -e "\033[31;1m\n/// Aborting Script ///\033[0m"
+		echo -e "\033[31;1m\n/// Aborting All Tests ///\033[0m"
 		exit 1
 fi
 #-------------------------------------------------------------------------------
@@ -62,7 +62,7 @@ if [ -z "$result" ]
 		echo -e "\033[32;1m(successful)\n"
 	else # if $result contains any text:
 		echo -e "\033[31;1m$result\n\n"
-		echo -e "\033[31;1m/// Aborting Script ///\033[0m"
+		echo -e "\033[31;1m/// Aborting All Tests ///\033[0m"
 		exit 1
 fi
 
