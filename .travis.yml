@@ -8,5 +8,4 @@ install:
   - gem install asciidoctor
 
 script:
-  - ./validate.sh
-  - pushd ./docs_src/ && ./build.sh && popd
+  - ./build-and-validate.sh
