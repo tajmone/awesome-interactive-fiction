@@ -104,6 +104,14 @@ For more information, see also:
 * https://github.com/tajmone/hugo/wiki[Hugo Wiki^] (care of Tristano Ajmone).
 * https://notdeadhugo.blogspot.com[Not Dead Hugo^] -- an active blog with precious news on Hugo.
 
+
+Hugo official documentation, by Kent Tessman:
+
+* http://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
+* https://github.com/tajmone/hugo-book[_The Hugo Book_^] (AsciiDoc/HTML) -- AsciiDoc port by Tristano Ajmone (WIP).
+http://htmlpreview.github.io/?https://github.com/tajmone/hugo-book/blob/draft/docs_src/hugo-book.html[HTML Draft-Preview^].
+
+
 Tutorials and learning resources:
 
 * http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
@@ -111,19 +119,44 @@ Tutorials and learning resources:
 * link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine, 2018) -- Unofficial Hugo discussion forum.
 * https://bitbucket.org/roody_yogurt/hugo-code-lab/[Hugo Code Lab^] -- A collection of Hugo libraries by Jonathan Blask.
 
+
+The Hugo Library, by Kent Tessman:
+
+* https://www.ifarchive.org/indexes/if-archive/programming/hugo/library/[Hugo Library^] (v3.1.03.1) -- at the IF Archive.
+* https://github.com/tajmone/hugo-library[Hugo Library^] (v3.1.03.2) -- on GitHub (care of Tristano Ajmone).
+
+Third party libraries for Hugo:
+
+* https://bitbucket.org/roody_yogurt/hugo-code-lab/[Hugo Code Lab^] -- a collection of Hugo libraries by Jonathan Blask.
+* https://www.ifarchive.org/indexes/if-archive/programming/hugo/library/contributions/[IF Archive^] -- library extensions for various purposes contributed by members of the IF community.
+
+
 Editor syntaxes:
 
+* http://www.ifarchive.org/if-archive/programming/editors/Hugo.chl[Hugo ConTEXT^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for ConTEXT ([.red]#_direct download_#), by Paul Lee, 2010.
+* http://www.ifarchive.org/if-archive/programming/editors/hugo.stx[Hugo EditPlus2^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for EditPlus2 ([.red]#_direct download_#), by Ben Parrish, 2002.
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_emerald.zip[Hugo Emerald^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Emerald ([.red]#_direct download_#), by Jonathan Blask, 2012.
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_kate.zip[Hugo Kate^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Kate ([.red]#_direct download_#), by Jonathan Blask, 2012.
 * https://bitbucket.org/0branch/hugo-mode/[Hugo mode^] -- Hugo mode for Emacs, by Christopher Tate (GPLv2).
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_notepad&#x2B;&#x2B;.zip[Hugo Npp^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for NotePad ([.red]#_direct download_#)++, by Jonathan Blask, 2011.
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_SE.zip[Hugo Source Edit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Source ([.red]#_direct download_#) Edit, by Jonathan Blask, 2012 .
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_textpad.zip[Hugo Textpad^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Textpad ([.red]#_direct download_#),  by Jonathan Blask, 2012.
+* http://www.ifarchive.org/if-archive/programming/editors/hugo_wordfile.txt[Hugo UltraEdit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for UltraEdit ([.red]#_direct download_#), by Gunther Schmidl, 2010.
 * https://bitbucket.org/0branch/hugo-vim/[Hugo Vim^] -- Hugo syntax file for Vim, by Marc Simpson.
+* https://github.com/tajmone/sublime-hugo-if[Sublime Hugo^] -- Hugo for Sublime Text 3, by Tristano Ajmone, 2019 (WIP).
+
 
 Hugo source code:
 
+* https://github.com/tajmone/hugo[github.com/tajmone/hugo^] (care of Tristano Ajmone).
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
 * https://bitbucket.org/0branch/hugo-unix[bitbucket.org/0branch/hugo-unix^] (care of Marc Simpson).
+
 
 Syntax highlighters supporting Hugo:
 
 * http://www.andre-simon.de/[Highlight^] (see: https://gitlab.com/saalen/highlight/blob/master/langDefs/hugo.lang[`langDefs/hugo.lang`^]).
+
 
 To find games created with Hugo:
 
