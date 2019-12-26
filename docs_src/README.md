@@ -74,7 +74,7 @@ You'll need [Asciidoctor]  (Ruby) to build the documents.
 
 - [`asciidoc-coalescer.rb`][coalescer.rb]
 
-The AsciiDoc coalescer script was downloaded from the __Asciidoctor Extensions Lab__ project (commit [65d3d8b], 2018/08/06):
+The AsciiDoc coalescer script was downloaded from the __Asciidoctor Extensions Lab__ project (commit [b617f44], 2019/08/31):
 
 https://github.com/asciidoctor/asciidoctor-extensions-lab/blob/master/scripts/asciidoc-coalescer.rb
 
@@ -124,7 +124,7 @@ A selection of direct links to Asciidoctor topics relevant to working with the _
 
 [Asciidoctor]: https://asciidoctor.org/
 
-[65d3d8b]: https://github.com/asciidoctor/asciidoctor-extensions-lab/commit/65d3d8bc02d70c0d100a06d65b7e63b5a5e17969
+[b617f44]: https://github.com/asciidoctor/asciidoctor-extensions-lab/commit/b617f4422ad7ccfa5716ba1301fb2f4773f4e0d3
 
 <!-- Asciidoctor documentation -->
 

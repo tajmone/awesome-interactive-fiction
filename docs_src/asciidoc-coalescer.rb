@@ -12,6 +12,9 @@
 # The script only recognizes attributes passed in as options or those defined
 # in the document header. It does not currently process attributes defined in
 # other, arbitrary locations within the document.
+#
+# You can find a similar extension written against AsciidoctorJ here:
+# https://github.com/hibernate/hibernate-asciidoctor-extensions/blob/master/src/main/java/org/hibernate/infra/asciidoctor/extensions/savepreprocessed/SavePreprocessedOutputPreprocessor.java
 
 # TODO
 # - add cli option to write attributes passed to cli to header of document
