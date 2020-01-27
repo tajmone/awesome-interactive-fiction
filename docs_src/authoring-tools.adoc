@@ -109,7 +109,7 @@ Hugo official documentation, by Kent Tessman:
 
 * http://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
 * https://github.com/tajmone/hugo-book[_The Hugo Book_^] (AsciiDoc/HTML) -- AsciiDoc port by Tristano Ajmone (WIP).
-http://htmlpreview.github.io/?https://github.com/tajmone/hugo-book/blob/draft/docs_src/hugo-book.html[HTML Draft-Preview^].
+http://htmlpreview.github.io/?https://github.com/tajmone/hugo-book/blob/draft/docs/hugo-book.html[HTML Draft-Preview^].
 
 
 Tutorials and learning resources:
@@ -223,7 +223,17 @@ TIP: Suggested GitHub topics:
 {gh-topic}tads[`tads`^]
 {gh-topic}tads3[`tads3`^]
 
+For more information, see also:
 
+* http://ifwiki.org/index.php/TADS[IFWiki » TADS^]
+* http://ifwiki.org/index.php/TADS_3[IFWiki » TADS 3^]
+* https://en.wikipedia.org/wiki/TADS[Wikipedia » TADS^]
+
+TADS sources:
+
+* https://www.ifarchive.org/indexes/if-archive/programming/tads2/source/[IF Archive » TADS 2 sources^]
+* https://www.ifarchive.org/indexes/if-archive/programming/tads3/source/[IF Archive » TADS 3 sources^]
+* https://github.com/tajmone/tads-sources[github.com/tajmone/tads-sources^]
 
 == Tuvi
 
