@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2020-01-27
+2020-01-30
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -206,8 +206,7 @@ For more information, see also:
 Hugo official documentation, by Kent Tessman:
 
 * http://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
-* https://github.com/tajmone/hugo-book[_The Hugo Book_^] (AsciiDoc/HTML) -- AsciiDoc port by Tristano Ajmone (WIP).
-http://htmlpreview.github.io/?https://github.com/tajmone/hugo-book/blob/draft/docs/hugo-book.html[HTML Draft-Preview^].
+* https://git.io/hugo-book[_The Hugo Book_^] (HTML) -- New AsciiDoc port and HTML edition, revised with Kent Tessman supervision, Jan. 2020.
 
 
 Tutorials and learning resources:
