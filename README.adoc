@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2020-01-30
+2020-02-18
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -247,8 +247,8 @@ Hugo source code:
 
 * https://github.com/tajmone/hugo[github.com/tajmone/hugo^] (care of Tristano Ajmone).
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
-* https://bitbucket.org/0branch/hugo-unix[bitbucket.org/0branch/hugo-unix^] (care of Marc Simpson).
-
+* https://github.com/0branch/hugo-unix[github.com/0branch/hugo-unix^] (care of Marc Simpson).
+** https://github.com/realnc/homebrew-hugo[github.com/realnc/homebrew-hugo^] -- Homebrew tap for the Unix Hugo CLI tools.
 
 Syntax highlighters supporting Hugo:
 
@@ -584,6 +584,7 @@ The Z-machine is a 16 bit virtual machine.
 
 * https://www.inform-fiction.org/zmachine/standards/index.html[Z-machine Specs at Inform website^]
 * https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
+* https://github.com/jeffnyman/zmachine[github.com/jeffnyman/zmachine^] -- Jeff Nyman's collection of documents on the Z-Machine.
 
 
 === Glulx

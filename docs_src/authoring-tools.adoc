@@ -149,8 +149,8 @@ Hugo source code:
 
 * https://github.com/tajmone/hugo[github.com/tajmone/hugo^] (care of Tristano Ajmone).
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
-* https://bitbucket.org/0branch/hugo-unix[bitbucket.org/0branch/hugo-unix^] (care of Marc Simpson).
-
+* https://github.com/0branch/hugo-unix[github.com/0branch/hugo-unix^] (care of Marc Simpson).
+** https://github.com/realnc/homebrew-hugo[github.com/realnc/homebrew-hugo^] -- Homebrew tap for the Unix Hugo CLI tools.
 
 Syntax highlighters supporting Hugo:
 

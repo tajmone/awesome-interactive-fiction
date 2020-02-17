@@ -98,6 +98,7 @@ The Z-machine is a 16 bit virtual machine.
 
 * https://www.inform-fiction.org/zmachine/standards/index.html[Z-machine Specs at Inform website^]
 * https://en.wikipedia.org/wiki/Z-machine[Z-machine at Wikipedia^]
+* https://github.com/jeffnyman/zmachine[github.com/jeffnyman/zmachine^] -- Jeff Nyman's collection of documents on the Z-Machine.
 
 
 === Glulx
