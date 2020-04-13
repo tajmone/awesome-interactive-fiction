@@ -116,7 +116,6 @@ Tutorials and learning resources:
 * http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
 * link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine, 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
 * link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine, 2018) -- Unofficial Hugo discussion forum.
-* https://bitbucket.org/roody_yogurt/hugo-code-lab/[Hugo Code Lab^] -- A collection of Hugo libraries by Jonathan Blask.
 
 
 The Hugo Library, by Kent Tessman:
@@ -151,6 +150,8 @@ Hugo source code:
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
 * https://github.com/0branch/hugo-unix[github.com/0branch/hugo-unix^] (care of Marc Simpson).
 ** https://github.com/realnc/homebrew-hugo[github.com/realnc/homebrew-hugo^] -- Homebrew tap for the Unix Hugo CLI tools.
+* https://github.com/juhana/hugojs[github.com/juhana/hugojs^] -- *HugoJS*, an online Hugo interpreter. Created from Hugo sources trans-compiled to JavaScript via http://emscripten.org/[Emscripten^].
+
 
 Syntax highlighters supporting Hugo:
 
