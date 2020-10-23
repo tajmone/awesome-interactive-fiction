@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2020-06-03
+2020-10-23
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -184,7 +184,7 @@ Alan-related projects:
 
 == Curveship
 
-* https://curveship.com/[curveship.com^]
+* https://nickm.com/curveship/[nickm.com/curveship^]
 
 == Hugo
 
@@ -353,7 +353,7 @@ See also:
 
 == Undum
 
-* https://undum.com/[undum.com^]
+* https://idmillington.github.io/undum/[idmillington.github.io^]
 
 == Varytale
 
