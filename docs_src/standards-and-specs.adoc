@@ -167,3 +167,24 @@ ____
 * https://www.jczorkmid.net/V6Lib/blorb/[^] -- Jason Penney's Blorb files for Infocom's V6 Games.
 
 
+=== The Treaty of Babel
+
+[quote, The Treaty of Babel]
+____
+The Treaty is an agreement between active design systems, the IF-archive and other interested parties. It provides for:
+
+* ISBN-like unique ID numbers for story files, old and new, produced by commercial or non-commercial compilers living and dead;
+* a standard format for cover art and bibliographic data;
+* a web server able to provide these for a given ID number;
+* a command-line tool able to identify and extract data from story files in any format;
+* reference software providing a format-neutral API for reading story files, and removing "`wrappers`".
+
+The aim of the treaty, and of the Babel software, is to make it much easier to write new tools for players in which the distinction of which design system created which story file is much less visible.
+____
+
+
+* https://babel.ifarchive.org[^]
+* https://groups.google.com/g/babel-if[^] -- Babel-IF mailing list.
+* https://github.com/iftechfoundation/babel-tool[^] -- source code of the Babel tools suite.
+
+
