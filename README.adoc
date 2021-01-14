@@ -204,7 +204,7 @@ For more information, see also:
 
 Hugo official documentation, by Kent Tessman:
 
-* http://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
+* https://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
 * https://git.io/hugo-book[_The Hugo Book_^] (HTML) -- New AsciiDoc port and HTML edition, revised with Kent Tessman supervision, Jan. 2020.
 
 
@@ -228,15 +228,15 @@ Third party libraries for Hugo:
 
 Editor syntaxes:
 
-* http://www.ifarchive.org/if-archive/programming/editors/Hugo.chl[Hugo ConTEXT^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for ConTEXT ([.red]#_direct download_#), by Paul Lee, 2010.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo.stx[Hugo EditPlus2^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for EditPlus2 ([.red]#_direct download_#), by Ben Parrish, 2002.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_emerald.zip[Hugo Emerald^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Emerald ([.red]#_direct download_#), by Jonathan Blask, 2012.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_kate.zip[Hugo Kate^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Kate ([.red]#_direct download_#), by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/Hugo.chl[Hugo ConTEXT^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for ConTEXT ([.red]#_direct download_#), by Paul Lee, 2010.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo.stx[Hugo EditPlus2^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for EditPlus2 ([.red]#_direct download_#), by Ben Parrish, 2002.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_emerald.zip[Hugo Emerald^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Emerald ([.red]#_direct download_#), by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_kate.zip[Hugo Kate^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Kate ([.red]#_direct download_#), by Jonathan Blask, 2012.
 * https://bitbucket.org/0branch/hugo-mode/[Hugo mode^] -- Hugo mode for Emacs, by Christopher Tate (GPLv2).
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_notepad&#x2B;&#x2B;.zip[Hugo Npp^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for NotePad ([.red]#_direct download_#)++, by Jonathan Blask, 2011.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_SE.zip[Hugo Source Edit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Source ([.red]#_direct download_#) Edit, by Jonathan Blask, 2012 .
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_textpad.zip[Hugo Textpad^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Textpad ([.red]#_direct download_#),  by Jonathan Blask, 2012.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_wordfile.txt[Hugo UltraEdit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for UltraEdit ([.red]#_direct download_#), by Gunther Schmidl, 2010.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_notepad&#x2B;&#x2B;.zip[Hugo Npp^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for NotePad ([.red]#_direct download_#)++, by Jonathan Blask, 2011.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_SE.zip[Hugo Source Edit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Source ([.red]#_direct download_#) Edit, by Jonathan Blask, 2012 .
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_textpad.zip[Hugo Textpad^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Textpad ([.red]#_direct download_#),  by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_wordfile.txt[Hugo UltraEdit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for UltraEdit ([.red]#_direct download_#), by Gunther Schmidl, 2010.
 * https://bitbucket.org/0branch/hugo-vim/[Hugo Vim^] -- Hugo syntax file for Vim, by Marc Simpson.
 * https://github.com/tajmone/sublime-hugo-if[Sublime Hugo^] -- Hugo for Sublime Text 3, by Tristano Ajmone, 2019 (WIP).
 
@@ -247,7 +247,7 @@ Hugo source code:
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
 * https://github.com/0branch/hugo-unix[github.com/0branch/hugo-unix^] (care of Marc Simpson).
 ** https://github.com/realnc/homebrew-hugo[github.com/realnc/homebrew-hugo^] -- Homebrew tap for the Unix Hugo CLI tools.
-* https://github.com/juhana/hugojs[github.com/juhana/hugojs^] -- *HugoJS*, an online Hugo interpreter. Created from Hugo sources trans-compiled to JavaScript via http://emscripten.org/[Emscripten^].
+* https://github.com/juhana/hugojs[github.com/juhana/hugojs^] -- *HugoJS*, an online Hugo interpreter. Created from Hugo sources trans-compiled to JavaScript via https://emscripten.org/[Emscripten^].
 
 
 Syntax highlighters supporting Hugo:
@@ -356,7 +356,8 @@ See also:
 
 == Varytale
 
-* http://varytale.com/books/[varytale.com/books^]
+* https://web.archive.org/web/20150913132537/http://varytale.com/books/[varytale.com/books^]
+(via Wayback Machine, 2015)
 
 == Versu
 
@@ -415,7 +416,7 @@ For more information, see also:
 === Andorid
 
 * https://bitbucket.org/sussman/twisty[Twisty^] -- supports Z-code and Glulx story files.
-* http://www.onyxbits.de/textfiction[Text Fiction^] -- supports Z-code (3, 5 and 8) story files.
+* https://www.onyxbits.de/textfiction[Text Fiction^] -- supports Z-code (3, 5 and 8) story files.
 
 === iPhone
 
@@ -441,45 +442,45 @@ Mapping tools can be used for either manually drawing maps from scratch, or to a
 
 Many of the tools presented here are now hosted at the IF-Archive -- they are old and don't have any longer a website of their own. To avoid direct linking to their binary archives, a link to the "`Mapping Tools`" index page at IF-Archive will be provided instead:
 
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The IF Archive » Mapping Tools^]
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The IF Archive » Mapping Tools^]
 
 == Cross Platform
 
 * https://bitbucket.org/zondo/ifm[IFM^] (Interactive Fiction Mapper, 1998–2014) --
 IFM is both a language for keeping track of gameplay progress and a command line tool (for Windows and Linux) capable of representing the collected map-data in different output formats (PostScript, Fig, ASCII text, and others) and offering many other features, including automapping.
-Windows executables can be downloaded from the http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IF Archive^].
+Windows executables can be downloaded from the https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IF Archive^].
 Linux users can build IFM from the Bitbucket sources via GNU `make`.
 (http://ifm.readthedocs.io/en/latest/contents.html[Online Manual^] | https://bitbucket.org/zondo/ifm[Bitbucket^] | http://www.ifwiki.org/index.php/IFM[IFWiki^])
 * https://rubygems.org/gems/ifmapper/versions/1.3.1[IFMapper^] -- A map drawing tool, written in Ruby, with lots of features, including automapping. Can read and save IFM files and Inform/TADS3 source code files. Exports to PDF. (http://ggarra13.github.io/ifmapper/en/start.html[Online Manual^] | https://github.com/ggarra13/ifmapper[GitHub^])
-* http://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip[`SVGmaps.zip`] (2008) -- A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
+* https://www.ifarchive.org/if-archive/mapping-tools/SVGmaps.zip[`SVGmaps.zip`] (2008) -- A JavaScript framework for producing IF maps using the standard Scalable Vector Graphics (SVG) language.
 
 == macOS
 
-* Cocoa Mapre (2004) -- (http://www.ifarchive.org/if-archive/mapping-tools/cocoa_mapre0.6.7.dmg[`cocoa_mapre0.6.7.dmg`]) A tool for generating maps of Multi-User Dungeons on Mac OS X.
+* Cocoa Mapre (2004) -- (https://www.ifarchive.org/if-archive/mapping-tools/cocoa_mapre0.6.7.dmg[`cocoa_mapre0.6.7.dmg`]) A tool for generating maps of Multi-User Dungeons on Mac OS X.
 
 == MS Windows
 
 * http://autorealm.sourceforge.net/[AutoREALM^] (2006) -- A vector-based map drawing software (FOSS) designed for RPGs. Allows the creation of detailed full-color maps; ideal for the creation of elegant game maps where «room boxes» are superimposed on a realistic up-to-scale representation of the game world.
 * https://secure.profantasy.com/products/cc3-plus.asp[Campaign Cartographer^] -- A commercial tool for drawing fantasy-style terrain maps -- not the classic rooms/directions-based diagram IF maps, but ancient-looking «realistic» full-color maps, with villages, lakes, sea, forests. Execellent for creating feelies maps.
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Frobot Magic Adventure Mapper^] (1998) -- Automapping tool for Windows 95.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Frobot Magic Adventure Mapper^] (1998) -- Automapping tool for Windows 95.
 * GUEmap -- Map drawing tool, can also generate directions for moving around the map. https://www.cjmweb.net/GUEmap/download[GUEmap v1^] (1998–1999) is Sharaware, https://www.cjmweb.net/GUEmap/develop[GUEmap v2^] (1998–2007) is now free and open source. Runs on Windows 95/98 or NT 4.0.
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Informapper^] (1996) -- A map drawing program for Windows, Spanish only user interface. Can export as a skeleton file for SINTAC. Can't execute on modern versions of Windows.
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Map Maker^] (1999) -- A Windows 95/98/NT world-building tool for visually designing maps to be converted as AGT, AGX, Hugo and TADS source code. Can still be executed under Windows 10.
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The Mapper^] (1994) -- Automapping tool -- comes as a `.COM` executable format. Can't execute on modern versions of Windows.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Informapper^] (1996) -- A map drawing program for Windows, Spanish only user interface. Can export as a skeleton file for SINTAC. Can't execute on modern versions of Windows.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Map Maker^] (1999) -- A Windows 95/98/NT world-building tool for visually designing maps to be converted as AGT, AGX, Hugo and TADS source code. Can still be executed under Windows 10.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[The Mapper^] (1994) -- Automapping tool -- comes as a `.COM` executable format. Can't execute on modern versions of Windows.
 * https://www.trizbort.com//[Trizbort^] (2010-today) -- For drawing Infocom-style maps. Automapping feature. Saves in XML, exports to PDF or PNG. Actively developed.
 
 == Linux/*nix
 
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Adventure Map Utility^] (1994) -- A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
-* http://www.ifarchive.org/if-archive/mapping-tools/asciimapper[asciimapper^] (2005) -- A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[ifm2i7^] (2008) -- A Perl program to convert maps in IFM format to Inform 7 source code.
-* http://www.ifarchive.org/if-archive/mapping-tools/informap.perl[informap^] (1999) -- A perl script that draws maps out of Inform source code.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[Adventure Map Utility^] (1994) -- A shell script that implements a domain-specific language for creating printable PostScript maps from plaintext input files.
+* https://www.ifarchive.org/if-archive/mapping-tools/asciimapper[asciimapper^] (2005) -- A Perl script to create IFM maps from ASCII art maps. Intended as an easy way to draw a map and have it converted to IFM format.
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[ifm2i7^] (2008) -- A Perl program to convert maps in IFM format to Inform 7 source code.
+* https://www.ifarchive.org/if-archive/mapping-tools/informap.perl[informap^] (1999) -- A perl script that draws maps out of Inform source code.
 
 == Mobile Devices
 
 === PalmOS
 
-* http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
+* https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
 
 :leveloffset!:
 
@@ -597,10 +598,10 @@ The Z-machine is a 16 bit virtual machine.
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
-* http://www.eblong.com/zarf/glulx/[Glulx homepage^]
+* https://www.eblong.com/zarf/glulx/[Glulx homepage^]
 * http://www.ifwiki.org/index.php/Glulx[Glulx at IFWiki^]
 * https://en.wikipedia.org/wiki/Glulx[Glulx at Wikipedia^]
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
 
 ==== Glulx VM interpreters
 
@@ -608,18 +609,18 @@ Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
 More Glulx interpreters are listed at the IF Archive dedicated section:
 
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
 
 ==== Glulx Manuals and References
 
-* http://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
-* http://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
+* https://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
+* https://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
 
 ==== Glulx Tools
 
 More Glulx tools are listed at the IF Archive dedicated section:
 
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
 
 === T3 VM
 

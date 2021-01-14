@@ -107,7 +107,7 @@ For more information, see also:
 
 Hugo official documentation, by Kent Tessman:
 
-* http://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
+* https://www.ifarchive.org/if-archive/programming/hugo/manuals/hugo_book.pdf[_The Hugo Book_^,title="DIRECT DOWNLOAD LINK!"] (PDF) -- at the IF Archive ([.red]#_direct download_#).
 * https://git.io/hugo-book[_The Hugo Book_^] (HTML) -- New AsciiDoc port and HTML edition, revised with Kent Tessman supervision, Jan. 2020.
 
 
@@ -131,15 +131,15 @@ Third party libraries for Hugo:
 
 Editor syntaxes:
 
-* http://www.ifarchive.org/if-archive/programming/editors/Hugo.chl[Hugo ConTEXT^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for ConTEXT ([.red]#_direct download_#), by Paul Lee, 2010.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo.stx[Hugo EditPlus2^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for EditPlus2 ([.red]#_direct download_#), by Ben Parrish, 2002.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_emerald.zip[Hugo Emerald^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Emerald ([.red]#_direct download_#), by Jonathan Blask, 2012.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_kate.zip[Hugo Kate^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Kate ([.red]#_direct download_#), by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/Hugo.chl[Hugo ConTEXT^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for ConTEXT ([.red]#_direct download_#), by Paul Lee, 2010.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo.stx[Hugo EditPlus2^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for EditPlus2 ([.red]#_direct download_#), by Ben Parrish, 2002.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_emerald.zip[Hugo Emerald^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Emerald ([.red]#_direct download_#), by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_kate.zip[Hugo Kate^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Kate ([.red]#_direct download_#), by Jonathan Blask, 2012.
 * https://bitbucket.org/0branch/hugo-mode/[Hugo mode^] -- Hugo mode for Emacs, by Christopher Tate (GPLv2).
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_notepad&#x2B;&#x2B;.zip[Hugo Npp^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for NotePad ([.red]#_direct download_#)++, by Jonathan Blask, 2011.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_SE.zip[Hugo Source Edit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Source ([.red]#_direct download_#) Edit, by Jonathan Blask, 2012 .
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_textpad.zip[Hugo Textpad^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Textpad ([.red]#_direct download_#),  by Jonathan Blask, 2012.
-* http://www.ifarchive.org/if-archive/programming/editors/hugo_wordfile.txt[Hugo UltraEdit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for UltraEdit ([.red]#_direct download_#), by Gunther Schmidl, 2010.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_notepad&#x2B;&#x2B;.zip[Hugo Npp^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for NotePad ([.red]#_direct download_#)++, by Jonathan Blask, 2011.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_SE.zip[Hugo Source Edit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Source ([.red]#_direct download_#) Edit, by Jonathan Blask, 2012 .
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_textpad.zip[Hugo Textpad^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for Textpad ([.red]#_direct download_#),  by Jonathan Blask, 2012.
+* https://www.ifarchive.org/if-archive/programming/editors/hugo_wordfile.txt[Hugo UltraEdit^,title="DIRECT DOWNLOAD LINK!"] -- Hugo syntax for UltraEdit ([.red]#_direct download_#), by Gunther Schmidl, 2010.
 * https://bitbucket.org/0branch/hugo-vim/[Hugo Vim^] -- Hugo syntax file for Vim, by Marc Simpson.
 * https://github.com/tajmone/sublime-hugo-if[Sublime Hugo^] -- Hugo for Sublime Text 3, by Tristano Ajmone, 2019 (WIP).
 
@@ -150,7 +150,7 @@ Hugo source code:
 * https://github.com/curiousdannii/hugo[github.com/curiousdannii/hugo^] (care of Dannii Willis).
 * https://github.com/0branch/hugo-unix[github.com/0branch/hugo-unix^] (care of Marc Simpson).
 ** https://github.com/realnc/homebrew-hugo[github.com/realnc/homebrew-hugo^] -- Homebrew tap for the Unix Hugo CLI tools.
-* https://github.com/juhana/hugojs[github.com/juhana/hugojs^] -- *HugoJS*, an online Hugo interpreter. Created from Hugo sources trans-compiled to JavaScript via http://emscripten.org/[Emscripten^].
+* https://github.com/juhana/hugojs[github.com/juhana/hugojs^] -- *HugoJS*, an online Hugo interpreter. Created from Hugo sources trans-compiled to JavaScript via https://emscripten.org/[Emscripten^].
 
 
 Syntax highlighters supporting Hugo:
@@ -259,7 +259,8 @@ See also:
 
 == Varytale
 
-* http://varytale.com/books/[varytale.com/books^]
+* https://web.archive.org/web/20150913132537/http://varytale.com/books/[varytale.com/books^]
+(via Wayback Machine, 2015)
 
 == Versu
 

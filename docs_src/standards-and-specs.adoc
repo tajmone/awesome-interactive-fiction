@@ -110,10 +110,10 @@ The Z-machine is a 16 bit virtual machine.
 
 Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
-* http://www.eblong.com/zarf/glulx/[Glulx homepage^]
+* https://www.eblong.com/zarf/glulx/[Glulx homepage^]
 * http://www.ifwiki.org/index.php/Glulx[Glulx at IFWiki^]
 * https://en.wikipedia.org/wiki/Glulx[Glulx at Wikipedia^]
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulx.html[IF Archive » Programming » Glulx^]
 
 ==== Glulx VM interpreters
 
@@ -121,18 +121,18 @@ Glulx is A 32-Bit Virtual Machine for IF, created by Andrew Plotkin.
 
 More Glulx interpreters are listed at the IF Archive dedicated section:
 
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html[IF Archive » Programming » Glulx » Interpreters^]
 
 ==== Glulx Manuals and References
 
-* http://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
-* http://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
+* https://www.eblong.com/zarf/glulx/inform-guide.txt[The Game Author's Guide to Glulx Inform^]
+* https://www.eblong.com/zarf/glulx/technical.txt[The Glulx Inform Technical Reference^]
 
 ==== Glulx Tools
 
 More Glulx tools are listed at the IF Archive dedicated section:
 
-* http://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
+* https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXtools.html[IF Archive » Programming » Programming » Glulx » Tools^]
 
 === T3 VM
 
