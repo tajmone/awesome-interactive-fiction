@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2020-10-23
+2021-01-14
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -88,7 +88,6 @@ Newcomers to Interactive Fiction will find these links helpful:
 * http://www.brasslantern.org/beginners/beginnersguide.html[Brass Lantern's Beginner's Guide to Interactive Fiction^] -- by Stephen Granade and Emily Short.
 * https://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
 * https://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
-
 
 :leveloffset!:
 
@@ -389,7 +388,6 @@ For more information, see also:
 
 * https://github.com/Silvan87/Confabula[github.com/Silvan87/Confabula^]
 
-
 :leveloffset!:
 
 :leveloffset: +1
@@ -430,7 +428,6 @@ For more information, see also:
 == In-Browser Players
 
 * https://github.com/curiousdannii/parchment[Parchment^] -- written in JavaScript, supports Z-Machine story files.
-
 
 :leveloffset!:
 
@@ -483,7 +480,6 @@ Linux users can build IFM from the Bitbucket sources via GNU `make`.
 === PalmOS
 
 * http://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
-
 
 :leveloffset!:
 
@@ -578,6 +574,11 @@ The following table resumes some other common file extensions related to IF that
 
 == Virtual Machines
 
+See also:
+
+* https://github.com/iftechfoundation/ifarchive-if-specs[^]
+
+
 === Z-machine
 
 The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
@@ -628,6 +629,29 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 * http://www.tads.org/t3spec/intro.htm[T3 VM specs at TADS website^]
 
 
+== IF Standards
+
+Various standards shared by Interactive Fiction story files or authoring systems.
+
+See also:
+
+* https://github.com/iftechfoundation/ifarchive-if-specs[^]
+
+
+=== Blorb
+
+[quote, Blorb Specification]
+____
+[Blorb is] a formal specification for a common format for storing resources associated with an interactive fiction game file.
+Resources are data which the game can invoke, such as sounds and pictures.
+In addition, the executable game file may itself be a resource in a resource file. This is a convenient way to package a game and all its resources together in one file.
+____
+
+* https://eblong.com/zarf/blorb/[Blorb homepage^] -- Blorb official specs and tools by Andrew Plotkin.
+* https://inform-fiction.org/zmachine/standards/blorb/index.html[_The Blorb Resources Format_^] -- by Graham Nelson.
+* https://github.com/tajmone/if-specs/tree/master/blorb[AsciiDoc port of the Blorb Specification^]
+(https://htmlpreview.github.io/?https://github.com/tajmone/if-specs/blob/master/blorb/Blorb-Specification.html[Live HTML Preview^])
+* https://www.jczorkmid.net/V6Lib/blorb/[^] -- Jason Penney's Blorb files for Infocom's V6 Games.
 
 :leveloffset!:
 
@@ -640,7 +664,6 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 * http://www.ifdb.tads.org[Interaction Fiction Database^]
 * https://www.ifarchive.org[The Interaction Fiction Archive^]
 
-
 :leveloffset!:
 
 :leveloffset: +1
@@ -652,7 +675,6 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 * https://emshort.wordpress.com[Emily Short's Interactive Storytelling^]
 * https://inkypath.wordpress.com/[Inky Path^] -- Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
 * http://brasslantern.org/[Brass Lantern^]
-
 
 :leveloffset!:
 
@@ -673,7 +695,6 @@ For more info, see:
 == Annual Awards
 
 * https://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
-
 
 :leveloffset!:
 
@@ -866,7 +887,6 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 * http://inform7.com/teach/downloads/Goethe.pdf[Goethe's "`Elective Affinities`" as E-Learning: Developing Exercises for German Classes in the Secondary School Level 2^] -- by Wiebke Schwelgengraber, Mario Donick, and Franziska Schonfeld, presented at the E-Learning Baltics 2009 Conference.
 * http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-037.pdf[Mixing Story and Simulation in Interactive Narrative^] -- Mark O. Riedl, Andrew Stern, Don Dini.
 
-
 :leveloffset!:
 
 // Social & Events
@@ -880,7 +900,6 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 == Meetups
 
 * http://themade.org/events[Museum of Art and Digital Entertainment's Monthly Interactive Fiction Meetup^]
-
 
 :leveloffset!:
 
@@ -912,7 +931,6 @@ For more information, see also:
 
 * http://www.ifwiki.org/index.php/IfMUD[IFWiki » ifMUD^]
 * https://en.wikipedia.org/wiki/IfMUD[Wikipedia » ifMUD^]
-
 
 :leveloffset!:
 

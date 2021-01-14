@@ -87,6 +87,11 @@ The following table resumes some other common file extensions related to IF that
 
 == Virtual Machines
 
+See also:
+
+* https://github.com/iftechfoundation/ifarchive-if-specs[^]
+
+
 === Z-machine
 
 The Z-machine was the virtual machine used by Infocom for their text adventures (the '`Z`' stands for '`Zork`').
@@ -135,5 +140,30 @@ The T3 VM is the TADS 3 Virtual Machine, replacing the TADS 2 VM.
 
 * http://www.tads.org/t3doc/doc/techman/t3spec.htm["`T3 VM Technical Documentation`" in _TADS 3 Technical Manual_^]
 * http://www.tads.org/t3spec/intro.htm[T3 VM specs at TADS website^]
+
+
+== IF Standards
+
+Various standards shared by Interactive Fiction story files or authoring systems.
+
+See also:
+
+* https://github.com/iftechfoundation/ifarchive-if-specs[^]
+
+
+=== Blorb
+
+[quote, Blorb Specification]
+____
+[Blorb is] a formal specification for a common format for storing resources associated with an interactive fiction game file.
+Resources are data which the game can invoke, such as sounds and pictures.
+In addition, the executable game file may itself be a resource in a resource file. This is a convenient way to package a game and all its resources together in one file.
+____
+
+* https://eblong.com/zarf/blorb/[Blorb homepage^] -- Blorb official specs and tools by Andrew Plotkin.
+* https://inform-fiction.org/zmachine/standards/blorb/index.html[_The Blorb Resources Format_^] -- by Graham Nelson.
+* https://github.com/tajmone/if-specs/tree/master/blorb[AsciiDoc port of the Blorb Specification^]
+(https://htmlpreview.github.io/?https://github.com/tajmone/if-specs/blob/master/blorb/Blorb-Specification.html[Live HTML Preview^])
+* https://www.jczorkmid.net/V6Lib/blorb/[^] -- Jason Penney's Blorb files for Infocom's V6 Games.
 
 
