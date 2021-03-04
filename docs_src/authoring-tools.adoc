@@ -103,6 +103,7 @@ For more information, see also:
 * http://ifwiki.org/index.php/Hugo[IFWiki » Hugo^]
 * https://github.com/tajmone/hugo/wiki[Hugo Wiki^] (care of Tristano Ajmone).
 * https://notdeadhugo.blogspot.com[Not Dead Hugo^] -- an active blog with precious news on Hugo.
+* https://hugoif.github.io[hugoif.github.io^] -- the "`Hugo Resources`" page, a collection of useful Hugo links.
 
 
 Hugo official documentation, by Kent Tessman:
@@ -114,7 +115,10 @@ Hugo official documentation, by Kent Tessman:
 Tutorials and learning resources:
 
 * http://ifwiki.org/index.php/Category:Hugo_tutorials[IFWiki » Hugo Tutorials^]
-* link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[Hugo by Example^] (Wayback Machine, 2019) -- a wiki on Hugo, by Royce Odle aka «Gerynar».
+* Hugo by Example -- a website of useful resource for those wanting to learn Hugo:
+** link:https://hugoif.github.io/hugo-by-example/[hugoif.github.io/hugo-by-example^] (2021-) -- the new _Hugo by Example_ website, now
+link:https://github.com/hugoif/hugo-by-example[hosted on GitHub,title="View source repository"].
+** link:https://web.archive.org/web/20190113190254/http://hugo.gerynarsabode.org/index.php?title=Main_Page[hugo.gerynarsabode.org^] (Wayback Machine, 2019) -- the original _Hugo by Example_ wiki, by Royce Odle aka «Gerynar».
 * link:https://web.archive.org/web/20181114192407/https://www.joltcountry.com/phpBB2/viewforum.php?f=8[Jolt Country^] (Wayback Machine, 2018) -- Unofficial Hugo discussion forum.
 
 
