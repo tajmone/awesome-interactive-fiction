@@ -10,6 +10,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 == Online Resources
 
+* https://medium.com/@model_train/the-text-adventure-literacy-project-2b9601099d39[TALP (The Text Adventure Literacy Project)^] -- The TALP project aims to provide a friction-less method of teaching the next generation how to play text adventure games.
 * http://inform7.com/teach/[Teach with Inform^] -- Inform7's website educational resources page.
 * http://inform7.com/news/category/education/[inform7.com/news/category/education^^] -- Inform7 News Section, «Education» category. RSS Feed subscription available.
 * https://emshort.blog/how-to-play/teaching-if/[Teaching IF^] -- a list of IF courses in schools, curated by Emily Short.

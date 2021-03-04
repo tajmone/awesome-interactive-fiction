@@ -124,6 +124,16 @@ For more information, see also:
 * https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
 
 
+== Adventuron
+
+* https://adventuron.io[adventuron.io^]
+* https://adventuron.itch.io[adventuron.itch.io^]
+
+A free to use, proprietary (closed source) in-browser text adventure and gamebook authoring tool, by Adventuron Software Limited, UK.
+
+* https://adventuron.io/documentation/[Adventuron User Guide^]
+
+
 == Aiee!
 
 * https://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
@@ -722,6 +732,10 @@ For more info, see:
 
 * https://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
 
+== Others
+
+* https://itch.io/jam/talp[https://itch.io/jam/talp^] -- various text adventure competitions, usually themed, suitable for children with no prior experience; hosted by <<Adventuron>>.
+
 :leveloffset!:
 
 // Learning & Teaching
@@ -888,6 +902,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 
 == Online Resources
 
+* https://medium.com/@model_train/the-text-adventure-literacy-project-2b9601099d39[TALP (The Text Adventure Literacy Project)^] -- The TALP project aims to provide a friction-less method of teaching the next generation how to play text adventure games.
 * http://inform7.com/teach/[Teach with Inform^] -- Inform7's website educational resources page.
 * http://inform7.com/news/category/education/[inform7.com/news/category/education^^] -- Inform7 News Section, «Education» category. RSS Feed subscription available.
 * https://emshort.blog/how-to-play/teaching-if/[Teaching IF^] -- a list of IF courses in schools, curated by Emily Short.

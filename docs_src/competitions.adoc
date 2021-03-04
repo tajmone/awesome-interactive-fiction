@@ -14,3 +14,6 @@ For more info, see:
 
 * https://xyzzyawards.org/[The XYZZY Awards^] -- since 1996.
 
+== Others
+
+* https://itch.io/jam/talp[https://itch.io/jam/talp^] -- various text adventure competitions, usually themed, suitable for children with no prior experience; hosted by <<Adventuron>>.

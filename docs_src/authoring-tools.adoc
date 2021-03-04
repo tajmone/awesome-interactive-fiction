@@ -27,6 +27,16 @@ For more information, see also:
 * https://en.wikipedia.org/wiki/ADRIFT[Wikipedia » ADRIFT^]
 
 
+== Adventuron
+
+* https://adventuron.io[adventuron.io^]
+* https://adventuron.itch.io[adventuron.itch.io^]
+
+A free to use, proprietary (closed source) in-browser text adventure and gamebook authoring tool, by Adventuron Software Limited, UK.
+
+* https://adventuron.io/documentation/[Adventuron User Guide^]
+
+
 == Aiee!
 
 * https://web.archive.org/web/20180817013622/http://markdamonhughes.com/Aiee/[markdamonhughes.com/Aiee^] (Wayback Machine, 2018)
