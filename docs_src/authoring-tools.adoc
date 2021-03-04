@@ -280,6 +280,20 @@ See also:
 
 * https://versu.com/[versu.com^]
 
+== XVAN
+
+* https://xvan.nl[xvan.nl^]
+
+XVAN is a an open source (GPLv3) cross-platform parser-based IF authoring tool, by Marnix van den Bos.
+It consists of an authoring language, an optional library, a compiler and three types of interpreters: terminal window, Glk-window and GUI.
+XVAN is available for Windows, Linux and MacOS, in English and Dutch.
+
+See also:
+
+* https://gitlab.com/strandgames/brahman[gitlab.com/strandgames/brahman^] -- *Brahman IF*, the IFI-XVAN back-end for
+link:https://strandgames.com/blog/ifi-interactive-fiction-interface[IFI (the Interactive Fiction Interface)^] by
+link:https://strandgames.com[Strand Games^,title="Strand Games, modern Interactive Fiction"].
+
 == Yarn
 
 * https://github.com/infiniteammoinc/Yarn[github.com/infiniteammoinc/Yarn^]
@@ -287,6 +301,7 @@ See also:
 == Yarn Spinner
 
 * https://github.com/thesecretlab/YarnSpinner[github.com/thesecretlab/YarnSpinner^]
+
 
 = IF Authoring Tools in Spanish
 
