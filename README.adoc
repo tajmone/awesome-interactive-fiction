@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2021-03-04
+2021-05-02
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -89,6 +89,7 @@ Newcomers to Interactive Fiction will find these links helpful:
 * https://eblong.com/zarf/if.html[Zarf's Interactive Fiction^] -- an introductory website for IF newbies, by Andrew Plotkin (aka Zarf).
 * https://pr-if.org/doc/play-if-card/[Player's Cheat Sheet^] -- a card to help new IF players with game commands (available in various languages).
 
+
 :leveloffset!:
 
 // Software & Specs
@@ -155,21 +156,32 @@ TIP: Suggested GitHub topics:
 
 For more information, see also:
 
+* https://github.com/alan-if/alan/wiki[Alan Wiki^] -- official Alan Wiki, publicly editable.
 * http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
 
 Source repository:
 
 * https://github.com/alan-if/alan[github.com/alan-if/alan^]
-* https://bitbucket.org/alanif/alan[bitbucket.org/alanif/alan^]
 
 Libraries for Alan 3:
 
 * https://github.com/AnssiR66/AlanStdLib[github.com/AnssiR66/AlanStdLib^] -- Alan Standard Library v2, by Anssi Räisänen.
 * https://github.com/tajmone/alan-goodies/tree/master/libs[ALAN Library v0.6.2^] (at Alan Goodies) -- an earlier library ported from Alan 2, still working with current Alan version, but today mainly used to compile legacy adventures and tutorials. Deprecated in favour of the new StdLib v2.
+* https://github.com/alan-if/alan-i18n[github.com/alan-if/alan-i18n^] -- *The ALAN Internationalization Project*, multi-language translations of a basic ALAN{nbsp}IF library to create text adventures in different languages, and provide reference implementations to add support for new locales.
 
 Alan in other languages:
 
 * https://github.com/tajmone/Alan3-Italian[github.com/tajmone/Alan3-Italian^] -- Italian translation of the Alan StdLib 2, by Tristano Ajmone (incomplete Alpha).
+* https://github.com/alan-if/alan-i18n/tree/main/alan_es[Alan Spanish^] -- the pALANte library, by Bruce Humphrey and Marcos Donnantuoni.
+
+Books and tutorials:
+
+* https://git.io/alan-docs[git.io/alan-docs^] -- The official **Alan Documentation** website, offering various books, guides and tutorials for on-line consultation and download:
+** https://alan-if.github.io/alan-docs/manual-beta/manual.html[_The Alan Manual_^] -- on-line version of the latest _ALAN Adventure Language Reference Manual_.
+** https://alan-if.github.io/alan-docs/alancookbook/alancookbookv2.pdf[_Alan Cookbook_ v2^] -- Anssi Räisänen's collection of tips and tricks on how to implement and achieve various effects in the ALAN language or using the Standard Library v2.
+** https://alan-if.github.io/alan-docs/alanguide/alanguide.html[_Alan 3 Beginner’s Guide_^] -- Michael Arnaud's step-by-step tutorial for the creation of the _TV TIME!_ adventure using ALAN Library v0.6.1.
+** https://alan-if.github.io/alan-docs/ideguide/ideguide.pdf[_Alan IDE Reference Guide_^] -- Robert DeFord's guide on how to install, configure and use the Alan IDE to craft text adventure in ALAN.
+
 
 Alan editors, IDEs and editor extensions:
 
@@ -184,7 +196,7 @@ Syntax highlighters supporting Alan:
 
 Alan-related projects:
 
-* https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan IF Documentation Project.
+* https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan{nbsp}IF Documentation Project.
 * https://github.com/alan-if/alan-by-examples[github.com/alan-if/alan-by-examples^] -- Learn ALAN IF through examples.
 * https://github.com/alan-if/alan-repository-template[github.com/alan-if/alan-repository-template^] -- GitHub repository template for Alan IF projects.
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
@@ -418,6 +430,7 @@ For more information, see also:
 
 * https://github.com/Silvan87/Confabula[github.com/Silvan87/Confabula^]
 
+
 :leveloffset!:
 
 :leveloffset: +1
@@ -458,6 +471,7 @@ For more information, see also:
 == In-Browser Players
 
 * https://github.com/curiousdannii/parchment[Parchment^] -- written in JavaScript, supports Z-Machine story files.
+
 
 :leveloffset!:
 
@@ -510,6 +524,7 @@ Linux users can build IFM from the Bitbucket sources via GNU `make`.
 === PalmOS
 
 * https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
+
 
 :leveloffset!:
 
@@ -704,6 +719,8 @@ ____
 * https://groups.google.com/g/babel-if[^] -- Babel-IF mailing list.
 * https://github.com/iftechfoundation/babel-tool[^] -- source code of the Babel tools suite.
 
+
+
 :leveloffset!:
 
 // Collections, Blogs & Competitions
@@ -714,6 +731,7 @@ ____
 
 * http://www.ifdb.tads.org[Interaction Fiction Database^]
 * https://www.ifarchive.org[The Interaction Fiction Archive^]
+
 
 :leveloffset!:
 
@@ -726,6 +744,7 @@ ____
 * https://emshort.wordpress.com[Emily Short's Interactive Storytelling^]
 * https://inkypath.wordpress.com/[Inky Path^] -- Discussion of IF from a literary perspective. Discontinued but the archive is still accessible.
 * http://brasslantern.org/[Brass Lantern^]
+
 
 :leveloffset!:
 
@@ -943,6 +962,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 * http://inform7.com/teach/downloads/Goethe.pdf[Goethe's "`Elective Affinities`" as E-Learning: Developing Exercises for German Classes in the Secondary School Level 2^] -- by Wiebke Schwelgengraber, Mario Donick, and Franziska Schonfeld, presented at the E-Learning Baltics 2009 Conference.
 * http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-037.pdf[Mixing Story and Simulation in Interactive Narrative^] -- Mark O. Riedl, Andrew Stern, Don Dini.
 
+
 :leveloffset!:
 
 // Social & Events
@@ -956,6 +976,7 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 == Meetups
 
 * http://themade.org/events[Museum of Art and Digital Entertainment's Monthly Interactive Fiction Meetup^]
+
 
 :leveloffset!:
 
@@ -987,6 +1008,7 @@ For more information, see also:
 
 * http://www.ifwiki.org/index.php/IfMUD[IFWiki » ifMUD^]
 * https://en.wikipedia.org/wiki/IfMUD[Wikipedia » ifMUD^]
+
 
 :leveloffset!:
 

@@ -58,21 +58,32 @@ TIP: Suggested GitHub topics:
 
 For more information, see also:
 
+* https://github.com/alan-if/alan/wiki[Alan Wiki^] -- official Alan Wiki, publicly editable.
 * http://www.ifwiki.org/index.php/Alan[IFWiki » Alan^]
 
 Source repository:
 
 * https://github.com/alan-if/alan[github.com/alan-if/alan^]
-* https://bitbucket.org/alanif/alan[bitbucket.org/alanif/alan^]
 
 Libraries for Alan 3:
 
 * https://github.com/AnssiR66/AlanStdLib[github.com/AnssiR66/AlanStdLib^] -- Alan Standard Library v2, by Anssi Räisänen.
 * https://github.com/tajmone/alan-goodies/tree/master/libs[ALAN Library v0.6.2^] (at Alan Goodies) -- an earlier library ported from Alan 2, still working with current Alan version, but today mainly used to compile legacy adventures and tutorials. Deprecated in favour of the new StdLib v2.
+* https://github.com/alan-if/alan-i18n[github.com/alan-if/alan-i18n^] -- *The ALAN Internationalization Project*, multi-language translations of a basic ALAN{nbsp}IF library to create text adventures in different languages, and provide reference implementations to add support for new locales.
 
 Alan in other languages:
 
 * https://github.com/tajmone/Alan3-Italian[github.com/tajmone/Alan3-Italian^] -- Italian translation of the Alan StdLib 2, by Tristano Ajmone (incomplete Alpha).
+* https://github.com/alan-if/alan-i18n/tree/main/alan_es[Alan Spanish^] -- the pALANte library, by Bruce Humphrey and Marcos Donnantuoni.
+
+Books and tutorials:
+
+* https://git.io/alan-docs[git.io/alan-docs^] -- The official **Alan Documentation** website, offering various books, guides and tutorials for on-line consultation and download:
+** https://alan-if.github.io/alan-docs/manual-beta/manual.html[_The Alan Manual_^] -- on-line version of the latest _ALAN Adventure Language Reference Manual_.
+** https://alan-if.github.io/alan-docs/alancookbook/alancookbookv2.pdf[_Alan Cookbook_ v2^] -- Anssi Räisänen's collection of tips and tricks on how to implement and achieve various effects in the ALAN language or using the Standard Library v2.
+** https://alan-if.github.io/alan-docs/alanguide/alanguide.html[_Alan 3 Beginner’s Guide_^] -- Michael Arnaud's step-by-step tutorial for the creation of the _TV TIME!_ adventure using ALAN Library v0.6.1.
+** https://alan-if.github.io/alan-docs/ideguide/ideguide.pdf[_Alan IDE Reference Guide_^] -- Robert DeFord's guide on how to install, configure and use the Alan IDE to craft text adventure in ALAN.
+
 
 Alan editors, IDEs and editor extensions:
 
@@ -87,7 +98,7 @@ Syntax highlighters supporting Alan:
 
 Alan-related projects:
 
-* https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan IF Documentation Project.
+* https://github.com/alan-if/alan-docs[github.com/alan-if/alan-docs^] -- Alan{nbsp}IF Documentation Project.
 * https://github.com/alan-if/alan-by-examples[github.com/alan-if/alan-by-examples^] -- Learn ALAN IF through examples.
 * https://github.com/alan-if/alan-repository-template[github.com/alan-if/alan-repository-template^] -- GitHub repository template for Alan IF projects.
 * https://github.com/tajmone/alan-goodies[github.com/tajmone/alan-goodies^] -- "`Alan Goodies`", a collection of assorted Alan IF assets.
