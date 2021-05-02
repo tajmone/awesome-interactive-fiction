@@ -144,6 +144,7 @@ Aiee! is a cross-platform tool (Java) for creating and playing text adventures, 
 == Alan
 
 * https://www.alanif.se/[www.alanif.se^]
+* https://groups.google.com/g/alan-if/[Alan IF discussions^] -- official mailing list at Google Groups.
 
 Alan (Adventure LANguage) is an a cross-platform open source authoring system based on a dedicated IF language with an English-like syntax, intended to simplify writing adventures for non-programmers. Its webiste also offers a dedicated IDE and other useful tools to aid IF authoring.
 
@@ -983,6 +984,10 @@ Interactive Fiction has been employed in the classroom as a teaching aid in vari
 :leveloffset: +1
 
 = Digital Communities
+
+== Forums
+
+* https://intfiction.org/[Interactive Fiction Community Forum^] -- hosted by the https://iftechfoundation.org/[IFTF^,title="Interactive Fiction Technology Foundation (IFTF)"].
 
 == Newsgroups and Mailing Lists
 

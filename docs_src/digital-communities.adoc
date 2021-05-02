@@ -1,5 +1,9 @@
 = Digital Communities
 
+== Forums
+
+* https://intfiction.org/[Interactive Fiction Community Forum^] -- hosted by the https://iftechfoundation.org/[IFTF^,title="Interactive Fiction Technology Foundation (IFTF)"].
+
 == Newsgroups and Mailing Lists
 
 === English
