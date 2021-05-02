@@ -2,8 +2,8 @@
 
 The AsciiDoc sources and assets to build the main README and its HTML version:
 
-- [`../README.adoc`][README]
-- [`../docs/index.html`][index]
+- [`../README.adoc`][README] — single-file "coalesced" AsciiDoc version, for GitHub previewing.
+- [`../docs/index.html`][index] — HTML version, served on [GHPages website].
 
 
 -----
@@ -117,6 +117,7 @@ A selection of direct links to Asciidoctor topics relevant to working with the _
                                REFERENCE LINKS
 ------------------------------------------------------------------------------>
 
+[GHPages website]: https://github.com/tajmone/awesome-interactive-fiction/ "Visit the Awesome IF website"
 [WWW version]: https://github.com/tajmone/awesome-interactive-fiction/ "Visit the Awesome IF website"
 [repository landing page]: https://github.com/tajmone/awesome-interactive-fiction/ "Go to Awesome IF main repository page"
 
