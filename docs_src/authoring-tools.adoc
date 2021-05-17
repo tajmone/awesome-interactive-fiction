@@ -261,6 +261,11 @@ TADS sources:
 * https://www.ifarchive.org/indexes/if-archive/programming/tads3/source/[IF Archive » TADS 3 sources^]
 * https://github.com/tajmone/tads-sources[github.com/tajmone/tads-sources^]
 
+See also:
+
+* <<mapping-tools-tads,Mapping Tools » TADS>>
+
+
 == Tuvi
 
 * https://github.com/jaywengrow/tuvi[github.com/jaywengrow/tuvi^]

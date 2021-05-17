@@ -1,4 +1,4 @@
-= Mappping Tools
+= Mapping Tools
 
 Traditionally, IF maps are represented by boxes connected by lines, representing the various rooms and their directions connections. They are intended to represent movements in the adventure world locations, not a physical representation of its geography -- but sometimes «realistic» maps are provided with the game feelies, for aesthetic reasons.
 
@@ -46,3 +46,12 @@ Linux users can build IFM from the Bitbucket sources via GNU `make`.
 
 * https://www.ifarchive.org/indexes/if-archiveXmapping-tools.html[IFmapper^] (2001)
 
+
+== IF System-Specific Mapping Tools
+
+Here's a list of mapping tools or libraries which are designed for specific IF systems.
+
+[[mapping-tools-tads]]
+=== TADS
+
+* https://github.com/toerob/t3cartographer[Tads3 Cartographer library^] (2021–) -- A library for the TADS{nbsp}3 authoring system that creates an in-game graphical map in either ASCII, SVG, Graphviz DOT or HTML.
