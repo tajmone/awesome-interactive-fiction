@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2021-05-17
+2021-06-09
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -187,7 +187,7 @@ Books and tutorials:
 Alan editors, IDEs and editor extensions:
 
 * https://www.alanif.se/download-alan-v3/alanide[AlanIDE^] -- complete Alan Integrated Development Environment, by Alan author Thomas Nilefalk. In Java/Eclipse.
-* https://github.com/tajmone/sublime-alan[Sublime Alan^] -- Alan 3 syntax for Sublime Text 3 (usable Alpha).
+* https://github.com/tajmone/sublime-alan-if[Sublime Alan IF^] -- Alan 3 syntax for Sublime Text 4 (usable Alpha).
 
 Syntax highlighters supporting Alan:
 
