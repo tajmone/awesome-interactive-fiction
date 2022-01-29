@@ -461,7 +461,7 @@ For more information, see also:
 
 == Mobile Devices
 
-=== Andorid
+=== Android
 
 * https://bitbucket.org/sussman/twisty[Twisty^] -- supports Z-code and Glulx story files.
 * https://www.onyxbits.de/textfiction[Text Fiction^] -- supports Z-code (3, 5 and 8) story files.
