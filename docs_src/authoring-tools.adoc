@@ -297,6 +297,12 @@ See also:
 
 * https://versu.com/[versu.com^]
 
+== VNovels
+
+* https://vnovels.com[vnovels.com^]
+
+A free-to-use, proprietary in-browser authoring tool for branching, choice-based interactive stories and visual novels, featuring a visual graph and scene editor and an AI writing assistant. Build multi-route stories with choices and variables, then publish playable works to the web, no coding required.
+
 == XVAN
 
 * https://xvan.nl[xvan.nl^]
