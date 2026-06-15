@@ -301,7 +301,7 @@ See also:
 
 * https://vnovels.com[vnovels.com^]
 
-A free-to-use, proprietary in-browser authoring tool for branching, choice-based interactive stories and visual novels, featuring a visual graph and scene editor and an AI writing assistant. Build multi-route stories with choices and variables, then publish playable works to the web, no coding required.
+A free to use, proprietary in-browser authoring tool for branching, choice-based visual novels, with a visual graph and scene editor, an AI writing assistant, and AI generation of backgrounds, characters, music and sound. Publishes playable stories to the web, no coding needed.
 
 == XVAN
 
