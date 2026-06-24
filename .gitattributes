@@ -10,7 +10,7 @@
 
 *.adoc         text
 *.asciidoc     text
-*.html         text
+*.html         text eol=lf
 *.txt          text
 
 LICENSE        text

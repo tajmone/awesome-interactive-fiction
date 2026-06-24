@@ -17,6 +17,9 @@ insert_final_newline = true
 trim_trailing_whitespace = unset
 insert_final_newline = unset
 
+[*.html]
+end_of_line = lf
+
 
 ## AsciiDoc
 ###########

@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2022-01-30
+2026-06-24
 :lang: en
 // Sections & Numbering:
 :sectanchors:
