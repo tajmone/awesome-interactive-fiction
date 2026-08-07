@@ -231,6 +231,12 @@ Online tools:
 
 * https://github.com/inkle/ink[github.com/inkle/ink^]
 
+== Patter
+
+* https://github.com/patterkit/patter[github.com/patterkit/patter^]
+
+An authoring system inspired by Ink, but better for games that have lots of voiceover.
+
 == T.A.B.
 
 * https://tab.thinbasic.com/[tab.thinbasic.com^]
