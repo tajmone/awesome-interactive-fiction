@@ -110,6 +110,12 @@ Alan-related projects:
 
 * https://nickm.com/curveship/[nickm.com/curveship^]
 
+== Dialog
+
+* https://github.com/Dialog-IF/dialog[github.com/Dialog-IF/dialog^]
+
+A Prolog-like logic language, primarily for parser-based games. Compiles to Z-code.
+
 == Hugo
 
 * https://www.generalcoffee.com/hugo/[www.generalcoffee.com/hugo^]
