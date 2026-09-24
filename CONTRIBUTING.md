@@ -16,11 +16,9 @@ For detailed instructions on how to build the documents, see:
 - [Pull Requests vs Issues](#pull-requests-vs-issues)
 - [Submitting Contents via Pull Requests](#submitting-contents-via-pull-requests)
     - [Source Files Organization](#source-files-organization)
-    - [Validating Contents Before Submitting](#validating-contents-before-submitting)
     - [System Requirements](#system-requirements)
         - [Asciidoctor Ruby](#asciidoctor-ruby)
         - [EditorConfig](#editorconfig)
-        - [EClint](#eclint)
 - [Proposing Contents via Issues](#proposing-contents-via-issues)
 - [External Links](#external-links)
 
@@ -58,19 +56,6 @@ This duplicate document is necessary because [GitHub does not currently support 
 
 > __IMPORTANT__ — You should not edit the [`README.adoc`][README ad] file, for all changes would be overwritten when the project is updated. Edit its source files in [`docs_src/`][docs_src] instead.
 
-## Validating Contents Before Submitting
-
-Before creating a pull request, you should first validate locally that all changed files are compliant to the [EditorConfig] settings of this project.
-
-The tool of choice for validating this repository is the __[EClint]__ validation tool (Node.js) — the tool used on [Travis CI] to validate all commits and pull requests.
-
-To execute the validation tests locally, you can either:
-
-1. Run in your shell the [`./validate.sh`](./validate.sh) script, or
-2. Open a shell/CMD in the project root and type:
-
-        $ eclint check
-
 
 ## System Requirements
 
@@ -86,16 +71,6 @@ Many modern editors will automatically pick-up the correct settings from the [`.
 
 If your editor doesn't natively support EditorConfig, you should [find and install a third party plug-in].
 
-### EClint
-
-EditorConfig validation of the project files is carried out via [Travis CI] on every commit and pull request using the __[EClint]__ validation tool (Node.js).
-
-You should install __[EClint]__ on your machine via NPM, in order to check locally that all files pass the validation test, before submitting a pull request:
-
-    npm install -g eclint
-
-In any case, neither the use of an EditorConfig plug-in nor the __ECLint__ tool are mandatory; they are just highly recommended ways to optimize your workflow locally and to help preserving code consistency in the repository.
-
 
 # Proposing Contents via Issues
 
@@ -109,7 +84,6 @@ In the long term, it's likely that most contributions will come via issues, from
 - [Asciidoctor]
     + [Asciidoctor User Manual]
 - [EditorConfig]
-    + [EClint]
 
 <!-- sep -->
 
@@ -142,7 +116,6 @@ Some useful articles and tutorials for Git newbies:
 
 [EditorConfig]: https://editorconfig.org "Visit EditorConfig website"
 [find and install a third party plug-in]: https://editorconfig.org/#download "See the list of editors supporting EditorConfig"
-[EClint]: https://www.npmjs.com/package/eclint "Go to EClint page at NPM"
 
 <!-- articles & tutorials -->
 
