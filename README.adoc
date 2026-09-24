@@ -1,6 +1,6 @@
 = Awesome Interactive Fiction link:https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome"]
 Tristano Ajmone <tajmone@gmail.com>
-2026-06-24
+2026-09-24
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -375,6 +375,16 @@ See also:
 
 * <<mapping-tools-tads,Mapping Tools » TADS>>
 
+== The Den
+
+* https://foxden-labs.github.io/[foxden-labs.github.io^]
+* https://github.com/foxden-labs/the-den[github.com/foxden-labs/the-den^]
+
+An open-source, offline-first, single-file HTML interactive fiction editor and reader featuring isolated narrative branching, an auto-crawling spoiler-proof wiki, and custom glyph rendering. Focused on accessibility, ease of use, and comfort. Available as a web app or Android APK.
+
+TIP: Suggested GitHub topics:
+{gh-topic}interactive-fiction[`interactive-fiction`^]
+{gh-topic}if-editor[`if-editor`^]
 
 == Tuvi
 
