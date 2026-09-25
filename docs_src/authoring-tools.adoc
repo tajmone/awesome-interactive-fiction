@@ -280,7 +280,7 @@ See also:
 == The Den
 
 * https://foxden-labs.github.io/[foxden-labs.github.io^]
-* https://github.com/foxden-labs/the-den[github.com/foxden-labs/the-den^]
+* https://github.com/foxden-labs/foxden-labs.github.io[github.com/foxden-labs/foxden-labs.github.io^]
 
 An open-source, offline-first, single-file HTML interactive fiction editor and reader featuring isolated narrative branching, an auto-crawling spoiler-proof wiki, and custom glyph rendering. Focused on accessibility, ease of use, and comfort. Available as a web app or Android APK.
 
