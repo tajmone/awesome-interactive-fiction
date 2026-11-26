@@ -106,6 +106,22 @@ Alan-related projects:
 * https://github.com/alan-if/alan-xsl-fopub[github.com/alan-if/alan-xsl-fopub^] -- DocBook XSL Template for Alan PDF documentation via Asciidoctor-fopub; includes an XSLTHL Alan definition for Syntax Highlighting.
 
 
+== branching-story-kit
+
+* https://github.com/ouba-studio/branching-story-kit[github.com/ouba-studio/branching-story-kit^]
+* https://ouba-studio.github.io/branching-story-kit/[ouba-studio.github.io/branching-story-kit^] -- live browser demo (_The Midnight Bookshop_).
+* https://jsr.io/@ouba-studio/branching-story-kit[jsr.io/@ouba-studio/branching-story-kit^] -- package page on JSR.
+
+A zero-dependency branching narrative engine for interactive fiction, visual novels and choice-based story apps, released under the MIT license.
+
+Stories are plain JSON manifests describing a directed graph of scenes; the engine tracks numeric and flag state across the playthrough, gates choices behind `requires` thresholds, keeps a persistent memory log of reader-planted facts (with turn numbers), interpolates `{{state}}` placeholders in prose, and supports save/restore and free-text steering. It ships as native ESM for Node >= 18 and modern browsers, with TypeScript declarations, a static validator and a JSON Schema for manifests.
+
+TIP: Suggested GitHub topics:
+{gh-topic}branching-narrative[`branching-narrative`^]
+{gh-topic}interactive-fiction[`interactive-fiction`^]
+{gh-topic}visual-novel[`visual-novel`^]
+
+
 == Curveship
 
 * https://nickm.com/curveship/[nickm.com/curveship^]
